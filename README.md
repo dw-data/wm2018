@@ -123,4 +123,4 @@ d = Success parameter
 
 ### Results
 
-See [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1KpNHVYXjeMxnSwtzpqraQVo8KcoRE9KiNE2Nd7X6Nq4/edit?usp=sharing) compiling all data, documenting calculation steps and for the final score.
+See [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1KpNHVYXjeMxnSwtzpqraQVo8KcoRE9KiNE2Nd7X6Nq4/edit?usp=sharing) compiling all data, documenting calculation steps and for the final score for 2018. [Here](https://docs.google.com/spreadsheets/d/1WlHbR9yEpG0FdC25jVhXChNB2XwxODd-Dz7_-xxbFwo/edit?usp=sharing) you find all these details for the 2014 analysis.
