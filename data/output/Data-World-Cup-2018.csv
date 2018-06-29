@@ -1,0 +1,737 @@
+Team,#,Pos.,Player,Alias,HAS_PLAYED,Club,League,CountryCode
+Argentina,1,GK,GUZMAN Nahuel,GUZMAN,TRUE,Tigres UANL,Primera Division,MEX
+Argentina,2,DF,MERCADO Gabriel,MERCADO,TRUE,Sevilla FC,Primera Division,ESP
+Argentina,3,DF,TAGLIAFICO Nicolas,TAGLIAFICO,TRUE,AFC Ajax,Eredivisie,NED
+Argentina,4,DF,ANSALDI Cristian,ANSALDI,FALSE,Torino FC,Serie A,ITA
+Argentina,5,MF,BIGLIA Lucas,BIGLIA,TRUE,AC Milan,Serie A,ITA
+Argentina,6,DF,FAZIO Federico,FAZIO,FALSE,AS Roma,Serie A,ITA
+Argentina,7,MF,BANEGA Ever,BANEGA,TRUE,Sevilla FC,Primera Division,ESP
+Argentina,8,DF,ACUNA Marcos,ACUNA,TRUE,Sporting CP,Primeira Liga,POR
+Argentina,9,FW,HIGUAIN Gonzalo,HIGUAIN,TRUE,Juventus FC,Serie A,ITA
+Argentina,10,FW,MESSI Lionel,MESSI,TRUE,FC Barcelona,Primera Division,ESP
+Argentina,11,MF,Dl MARIA Angel,DI MARIA,TRUE,Paris Saint-Germain FC,Ligue 1,FRA
+Argentina,12,GK,ARMANI Franco,ARMANI,TRUE,CA River Plate,Primera Division,ARG
+Argentina,13,MF,MEZA Maximiliano,MEZA,TRUE,CA Independiente,Primera Division,ARG
+Argentina,14,DF,MASCHERANO Javier,MASCHERANO,TRUE,Hebei China Fortune FC,Super League,CHN
+Argentina,15,MF,Enzo PEREZ,Enzo PEREZ,TRUE,River Plate,Primera Division,ARG
+Argentina,16,DF,ROJO Marcos,ROJO,TRUE,Manchester United FC,Premier League,ENG
+Argentina,17,DF,OTAMENDI Nicolas,OTAMENDI,TRUE,Manchester City FC,Premier League,ENG
+Argentina,18,DF,SALVIO Eduardo,SALVIO,TRUE,SL Benfica,Primeira Liga,POR
+Argentina,19,FW,AGUERO Sergio,AGUERO,TRUE,Manchester City FC,Premier League,ENG
+Argentina,20,MF,LO CELSO Giovani,LO CELSO,FALSE,Paris Saint-Germain FC,Ligue 1,FRA
+Argentina,21,FW,DYBALA Paulo,DYBALA,TRUE,Juventus FC,Serie A,ITA
+Argentina,22,MF,PAVON Cristian,PAVON,TRUE,CA Boca Juniors,Primera Division,ARG
+Argentina,23,GK,CABALLERO Wilfredo,Willy CABALLERO,TRUE,Chelsea FC,Premier League,ENG
+Australia,1,GK,RYAN Mathew,RYAN,TRUE,Brighton & Hove Albion FC,Premier League,ENG
+Australia,2,DF,DEGENEK Milos,DEGENEK,FALSE,Yokohama F-Marinos,J1 League,JPN
+Australia,3,DF,MEREDITH James,MEREDITH,FALSE,Millwall FC,Championship,ENG
+Australia,4,FW,CAHILL Tim,T. CAHILL,TRUE,Millwall FC,Championship,ENG
+Australia,5,DF,MILLIGAN Mark,MILLIGAN,TRUE,Al Ahli SC,Saudi Professional League,KSA
+Australia,6,DF,JURMAN Matthew,JURMAN,FALSE,Suwon Samsung Bluewings FC,K League,KOR
+Germany,3,DF,HECTOR Jonas,J. HECTOR,TRUE,1. FC Koln,Bundesliga,GER
+Australia,8,MF,LUONGO Massimo,LUONGO,FALSE,Queens Park Rangers FC,Championship,ENG
+Australia,9,FW,JURICTomi,JURIC,TRUE,FC Luzern,Super League,SUI
+Australia,10,FW,KRUSE Robbie,R. KRUSE,TRUE,VfL Bochum,2. Bundesliga,GER
+Australia,11,FW,NABBOUT Andrew,NABBOUT,TRUE,Urawa Reds,J1 League,JPN
+Australia,12,GK,JONES Brad,JONES,FALSE,Feyenoord Rotterdam,Eredivisie,NED
+Australia,13,MF,MOOY Aaron,MOOY,TRUE,Huddersfield Town FC,Premier League,ENG
+Australia,14,FW,MacLAREN Jamie,MACLAREN,FALSE,Hibernian FC,Premier League,SCO
+Australia,15,MF,JEDINAK Mile,JEDINAK,TRUE,Aston Villa FC,Championship,ENG
+Australia,16,DF,BEHICH Aziz,BEHICH,TRUE,Bursaspor,Süper Lig,TUR
+Australia,17,FW,ARZANI Daniel,ARZANI,TRUE,Melbourne City FC,A-League,AUS
+Australia,18,GK,VUKOVIC Danny,VUKOVIC,FALSE,KRC Genk,First Division A,BEL
+Australia,19,DF,RISDON Joshua,RISDON,TRUE,WS Wanderers FC,A-League,AUS
+Australia,20,DF,SAINSBURY Trent,SAINSBURY,TRUE,Grasshopper Club,Super League,SUI
+Australia,21,FW,PETRATOS Dimitrios,PETRATOS,FALSE,Newcastle United Jets FC,A-League,AUS
+Australia,22,MF,IRVINE Jackson,IRVINE,TRUE,Hull City FC,Championship,ENG
+Australia,23,MF,ROGIC Tom,ROGIC,TRUE,Celtic FC,Premier League,SCO
+Belgium,1,GK,COURTOIS Thibaut,COURTOIS,TRUE,Chelsea FC,Premier League,ENG
+Belgium,2,DF,ALDERWEIRELD Toby,ALDERWEIRELD,TRUE,Tottenham Hotspur FC,Premier League,ENG
+Belgium,3,DF,VERMAELEN Thomas,VERMAELEN,TRUE,FC Barcelona,Primera Division,ESP
+Belgium,4,DF,KOMPANY Vincent,KOMPANY,TRUE,Manchester City FC,Premier League,ENG
+Belgium,5,DF,VERTONGHEN Jan,VERTONGHEN,TRUE,Tottenham Hotspur FC,Premier League,ENG
+Belgium,6,MF,WITSEL Axel,WITSEL,TRUE,Tianjin Quanjian FC,Super League,CHN
+Belgium,7,MF,DE BRUYNE Kevin,DE BRUYNE,TRUE,Manchester City FC,Premier League,ENG
+Belgium,8,MF,FELLAINI Marouane,FELLAINI,TRUE,Manchester United FC,Premier League,ENG
+Belgium,9,FW,LUKAKU Romelu,R. LUKAKU,TRUE,Manchester United FC,Premier League,ENG
+Belgium,10,FW,HAZARD Eden,E. HAZARD,TRUE,Chelsea FC,Premier League,ENG
+Belgium,11,MF,CARRASCO Yannick,CARRASCO,TRUE,Dalian Yifang FC,Super League,CHN
+Belgium,12,GK,MIGNOLET Simon,MIGNOLET,FALSE,Liverpool FC,Premier League,ENG
+Belgium,13,GK,CASTEELS Koen,CASTEELS,FALSE,VfL Wolfsburg,Bundesliga,GER
+Belgium,14,FW,MERTENS Dries,MERTENS,TRUE,SSC Napoli,Serie A,ITA
+Belgium,15,DF,MEUNIER Thomas,MEUNIER,TRUE,Paris Saint-Germain FC,Ligue 1,FRA
+Japan,15,FW,OSAKO Yuya,OSAKO,TRUE,1. FC Koln,Bundesliga,GER
+Belgium,17,MF,TIELEMANS Youri,TIELEMANS,TRUE,AS Monaco,Ligue 1,FRA
+Belgium,18,FW,JANUZAJ Adnan,JANUZAJ,TRUE,Real Sociedad,Primera Division,ESP
+Belgium,19,MF,DEMBELE Moussa,DEMBELÉ,TRUE,Tottenham Hotspur FC,Premier League,ENG
+Belgium,20,DF,BOYATA Dedryck,BOYATA,TRUE,Celtic FC,Premier League,SCO
+Croatia,13,DF,JEDVAJ Tin,JEDVAJ,TRUE,Bayer 04 Leverkusen,Bundesliga,GER
+Belgium,22,MF,CHADLI Nacer,CHADLI,TRUE,West Bromwich Albion FC,Premier League,ENG
+Belgium,23,DF,DENDONCKERLeander,DENDONCKER,TRUE,RSC Anderlecht,First Division A,BEL
+Brazil,1,GK,ALISSON,ALISSON,TRUE,AS Roma,Serie A,ITA
+Brazil,2,DF,THIAGO SILVA,THIAGO SILVA,TRUE,Paris Saint-Germain FC,Ligue 1,FRA
+Brazil,3,DF,MIRANDA,MIRANDA,TRUE,FC Internazionale,Serie A,ITA
+Brazil,4,DF,PEDRO GEROMEL,GEROMEL,FALSE,Gremio FBPA,Serie A,BRA
+Brazil,5,MF,CASE Ml RO,CASEMIRO,TRUE,Real Madrid CF,Primera Division,ESP
+Brazil,6,DF,FILIPE LUIS,FILIPE LUIS,TRUE,Atletico Madrid,Primera Division,ESP
+Brazil,7,FW,DOUGLAS COSTA,Douglas COSTA,TRUE,Juventus FC,Serie A,ITA
+Brazil,8,MF,RENATO AUGUSTO,Renato AUGUSTO,TRUE,Beijing Guoan,Super League,CHN
+Brazil,9,FW,GABRIEL JESUS,Gabriel JESUS,TRUE,Manchester City FC,Premier League,ENG
+Brazil,10,FW,NEYMAR,NEYMAR,TRUE,Paris Saint-Germain FC,Ligue 1,FRA
+Brazil,11,MF,PHILIPPE COUTINHO,COUTINHO,TRUE,FC Barcelona,Primera Division,ESP
+Brazil,12,DF,MARCELO,MARCELO,TRUE,Real Madrid CF,Primera Division,ESP
+Brazil,13,DF,MARQUINHOS,MARQUINHOS,FALSE,Paris Saint-Germain FC,Ligue 1,FRA
+Brazil,14,DF,DANILO,DANILO,TRUE,Manchester City FC,Premier League,ENG
+Brazil,15,MF,PAULINHO,PAULINHO,TRUE,FC Barcelona,Primera Division,ESP
+Brazil,16,GK,CASSIO,CASSIO,FALSE,SC Corinthians,Serie A,BRA
+Brazil,17,MF,FERNANDINHO,FERNANDINHO,TRUE,Manchester City FC,Premier League,ENG
+Brazil,18,MF,FRED,FRED,FALSE,FC Shakhtar Donetsk,Premier League,UKR
+Brazil,19,MF,WILLIAN,WILLIAN,TRUE,Chelsea FC,Premier League,ENG
+Brazil,20,FW,ROBERTO FIRMINO,ROBERTO FIRMINO,TRUE,Liverpool FC,Premier League,ENG
+Brazil,21,FW,TAISON,TAISON,FALSE,FC Shakhtar Donetsk,Premier League,UKR
+Brazil,22,DF,FAGNER,FAGNER,TRUE,SC Corinthians,Serie A,BRA
+Brazil,23,GK,EDERSON,EDERSON,FALSE,Manchester City FC,Premier League,ENG
+Colombia,1,GK,OSPINA David,OSPINA,TRUE,Arsenal FC,Premier League,ENG
+Colombia,2,DF,ZAPATA Cristian,C. ZAPATA,FALSE,AC Milan,Serie A,ITA
+Colombia,3,DF,MURILLO Oscar,O. MURILLO,TRUE,CF Pachuca,Primera Division,MEX
+Colombia,4,DF,ARIAS Santiago,ARIAS,TRUE,PSV Eindhoven,Eredivisie,NED
+Colombia,5,MF,BARRIOS Wilmar,BARRIOS,TRUE,CA Boca Juniors,Primera Division,ARG
+Colombia,6,MF,SANCHEZ Carlos,C. SANCHEZ,TRUE,RCD Espanyol,Primera Division,ESP
+Colombia,7,FW,BACCA Carlos,BACCA,TRUE,Villarreal CF,Primera Division,ESP
+Colombia,8,MF,AGUILAR Abel,AGUILAR,TRUE,AC Deportivo Cali,Categoría Primera A,COL
+Colombia,9,FW,FALCAO Radamel,FALCAO,TRUE,AS Monaco,Ligue 1,FRA
+Germany,20,MF,BRANDT Julian,BRANDT,TRUE,Bayer 04 Leverkusen,Bundesliga,GER
+Colombia,11,MF,CUADRADO Juan,Ju. CUADRADO,TRUE,Juventus FC,Serie A,ITA
+Colombia,12,GK,VARGAS Camilo,C. VARGAS,FALSE,AC Deportivo Cali,Categoría Primera A,COL
+Colombia,13,DF,MINA Yerry,Yerry MINA,TRUE,FC Barcelona,Primera Division,ESP
+Colombia,14,FW,MURIEL Luis,MURIEL,TRUE,Sevilla FC,Primera Division,ESP
+Colombia,15,MF,URIBE Mateus,URIBE,TRUE,Club America,Primera Division,MEX
+Colombia,16,MF,LERMA Jefferson,Jefferson LERMA,TRUE,Levante UD,Primera Division,ESP
+Colombia,17,DF,MOJICA Johan,MOJICA,TRUE,Girona FC,Primera Division,ESP
+Colombia,18,DF,Farid Diaz,F. Diaz,FALSE,Club Olimpia,Primera Division,PAR
+Colombia,19,FW,BORJA Miguel,M. BORJA,TRUE,SE Palmeiras,Serie A,BRA
+Colombia,20,MF,QUINTERO Juan,QUINTERO,TRUE,CA River Plate,Primera Division,ARG
+Colombia,21,FW,IZQUIERDO Jose,IZQUIERDO,TRUE,Brighton & Hove Albion FC,Premier League,ENG
+Colombia,22,GK,CUADRADO Jose,CUADRADO,FALSE,CD Once Caldas,Categoría Primera A,COL
+Colombia,23,DF,SANCHEZ Davinson,D. SANCHEZ,TRUE,Tottenham Hotspur FC,Premier League,ENG
+Costa Rica,1,GK,NAVAS Keylor,NAVAS,TRUE,Real Madrid CF,Primera Division,ESP
+Costa Rica,2,DF,ACOSTA Johnny,ACOSTA,TRUE,Rionegro Aguilas,Categoría Primera A,COL
+Costa Rica,3,DF,GONZALEZ Giancarlo,GONZALEZ,TRUE,Bologna FC,Serie A,ITA
+Costa Rica,4,DF,SMITH Ian,SMITH,TRUE,IFK Norrkoping FK,Allsvenskan,SWE
+Costa Rica,5,MF,BORGES Celso,BORGES,TRUE,Deportivo La Coruna,Primera Division,ESP
+Costa Rica,6,DF,DUARTE Oscar,O. DUARTE,TRUE,RCD Espanyol,Primera Division,ESP
+Costa Rica,7,MF,BOLANOS Christian,BOLANOS,TRUE,Deportivo Saprissa,Primera Division,CRC
+Costa Rica,8,DF,OVIEDO Bryan,OVIEDO,TRUE,Sunderland AFC,Championship,ENG
+Costa Rica,9,MF,COLINDRES Daniel,COLINDRES,TRUE,Deportivo Saprissa,Primera Division,CRC
+Costa Rica,10,MF,RUIZ Bryan,B. RUIZ,TRUE,Sporting CP,Primeira Liga,POR
+Costa Rica,11,FW,VENEGAS Johan,VENEGAS,TRUE,Deportivo Saprissa,Primera Division,CRC
+Costa Rica,12,FW,CAMPBELL Joel,J. CAMPBELL,TRUE,Real Betis,Primera Division,ESP
+Costa Rica,13,MF,WALLACE Rodney,WALLACE,TRUE,New York City FC,Major League Soccer,USA
+Costa Rica,14,MF,AZOFEIFA Randall,AZOFEIFA,TRUE,CS Herediano,Primera Division,CRC
+Costa Rica,15,DF,CALVO Francisco,CALVO,TRUE,Minnesota United FC,Major League Soccer,USA
+Costa Rica,16,DF,GAMBOA Cristian,GAMBOA,TRUE,Celtic FC,Premier League,SCO
+Costa Rica,17,MF,TEJEDA Yeltsin,TEJEDA,TRUE,FC Lausanne-Sport,Super League,SUI
+Costa Rica,18,GK,PEMBERTON Patrick,P. PEMBERTON,FALSE,LD Alajuelense,Primera Division,CRC
+Costa Rica,19,DF,WASTON Kendall,K. WASTON,FALSE,Vancouver Whitecaps FC,Major League Soccer,CAN
+Costa Rica,20,MF,GUZMAN David,GUZMAN,TRUE,Portland Timbers,Major League Soccer,USA
+Costa Rica,21,FW,URENA Marcos,URENA,TRUE,Los Angeles FC,Major League Soccer,USA
+Costa Rica,22,DF,KENNER GUTIERREZ,KENNER GUTIERREZ,FALSE,Alajuelense,Primera Division,CRC
+Costa Rica,23,GK,MOREIRA Leonel,L. MOREIRA,FALSE,CS Herediano,Primera Division,CRC
+Croatia,1,GK,LIVAKOVIC Dominik,LIVAKOVIC,FALSE,GNK Dinamo Zagreb,1. HNL,CRO
+Croatia,2,DF,VRSAUKO Sime,VRSALJKO,TRUE,Atletico Madrid,Primera Division,ESP
+Croatia,3,DF,STRINIC Ivan,STRINIC,TRUE,UC Sampdoria,Serie A,ITA
+Croatia,4,FW,PERISIC Ivan,PERISIC,TRUE,FC Internazionale,Serie A,ITA
+Croatia,5,DF,CORLUKA Vedran,CORLUKA,TRUE,FC Lokomotiv Moscow,Premjer-Liga,RUS
+Croatia,6,DF,LOVREN Dejan,LOVREN,TRUE,Liverpool FC,Premier League,ENG
+Croatia,7,MF,RAKITIC Ivan,RAKITIC,TRUE,FC Barcelona,Primera Division,ESP
+Croatia,8,MF,KOVACIC Mateo,KOVACIC,TRUE,Real Madrid CF,Primera Division,ESP
+Belgium,21,FW,BATSHUAYI Michy,BATSHUAYI,TRUE,Borussia Dortmund,Bundesliga,GER
+Croatia,10,MF,MODRIC Luka,MODRIC,TRUE,Real Madrid CF,Primera Division,ESP
+Croatia,11,MF,BROZOVIC Marcelo,BROZOVIC,TRUE,FC Internazionale,Serie A,ITA
+Croatia,12,GK,KALINIC Lovre,L. KALINIC,TRUE,KAA Gent,First Division A,BEL
+Germany,11,FW,REUS Marco,REUS,TRUE,Borussia Dortmund,Bundesliga,GER
+Croatia,14,MF,BRADARIC Filip,BRADARIC,TRUE,HNK Rijeka,1. HNL,CRO
+Croatia,15,DF,CALETA-CAR Duje,CALETA-CAR,TRUE,FC Red Bull Salzburg,Bundesliga,AUT
+Croatia,16,FW,KALINIC Nikola,N. KALINIC,FALSE,AC Milan,Serie A,ITA
+Croatia,17,FW,MANDZUKIC Mario,MANDZUKIC,TRUE,Juventus FC,Serie A,ITA
+Japan,10,MF,KAGAWA Shinji,KAGAWA,TRUE,Borussia Dortmund,Bundesliga,GER
+Croatia,19,MF,BADELJ Milan,BADELJ,TRUE,ACF Fiorentina,Serie A,ITA
+Poland,20,DF,PISZCZEK Lukasz,PISZCZEK,TRUE,Borussia Dortmund,Bundesliga,GER
+Croatia,21,DF,VIDA Domagoj,VIDA,TRUE,Besiktas JK,Süper Lig,TUR
+Croatia,22,DF,PIVARIC Josip,PIVARIC,TRUE,FC Dynamo Kyiv,Premier League,UKR
+Croatia,23,GK,SUBASIC Danijel,SUBASIC,TRUE,AS Monaco,Ligue 1,FRA
+Denmark,1,GK,SCHMEICHEL Kasper,SCHMEICHEL,TRUE,Leicester City FC,Premier League,ENG
+Denmark,2,MF,KROHN-DEHLI Michael,KROHN-DEHLI,FALSE,Deportivo La Coruna,Primera Division,ESP
+Denmark,3,DF,VESTERGAARD Jannik,VESTERGAARD,FALSE,VfL Borussia Monchengladbach,Bundesliga,GER
+Denmark,4,DF,KJAER Simon,KJAER,TRUE,Sevilla FC,Primera Division,ESP
+Denmark,5,DF,KNUDSEN Jonas,KNUDSEN,FALSE,Ipswich Town FC,Championship,ENG
+Denmark,6,DF,CHRISTENSEN Andreas,A. CHRISTENSEN,TRUE,Chelsea FC,Premier League,ENG
+Denmark,7,MF,KVIST William,KVIST,TRUE,FC Kobenhavn,Danish Superliga,DEN
+Portugal,5,DF,RAPHAEL GUERREIRO,RAPHAEL,TRUE,Borussia Dortmund,Bundesliga,GER
+Denmark,9,FW,JORGENSEN Nicolai,N. JÖRGENSEN,TRUE,Feyenoord Rotterdam,Eredivisie,NED
+Denmark,10,MF,ERIKSEN Christian,ERIKSEN,TRUE,Tottenham Hotspur FC,Premier League,ENG
+Denmark,11,FW,BRAITFIWAITE Martin,BRAITHWAITE,TRUE,FC Girondins Bordeaux,Ligue 1,FRA
+Denmark,12,FW,DOLBERG Kasper,DOLBERG,TRUE,AFC Ajax,Eredivisie,NED
+Denmark,13,DF,JORGENSEN Mathias,M. JÖRGENSEN,TRUE,Huddersfield Town FC,Premier League,ENG
+Denmark,14,DF,DALSGAARD Henrik,DALSGAARD,TRUE,Brentford FC,Championship,ENG
+Denmark,15,FW,FISCHER Viktor,FISCHER,TRUE,FC Kobenhavn,Danish Superliga,DEN
+Denmark,16,GK,LOSSLJonas,LÖSSL,FALSE,Huddersfield Town FC,Premier League,ENG
+Denmark,17,DF,STRYGER LARSEN Jens,STRYGER Larsen,TRUE,Udinese Calcio,Serie A,ITA
+Denmark,18,MF,LERAGER Lukas,LERAGER,TRUE,FC Girondins Bordeaux,Ligue 1,FRA
+Denmark,19,MF,SCHONE Lasse,SCHÖNE,TRUE,AFC Ajax,Eredivisie,NED
+Switzerland,5,DF,AKANJI Manuel,AKANJI,TRUE,Borussia Dortmund,Bundesliga,GER
+Denmark,21,FW,CORNELIUS Andreas,CORNELIUS,TRUE,Atalanta Bergamo,Serie A,ITA
+Denmark,22,GK,RONNOW Frederik,RÖNNOW,FALSE,Brondby IF,Danish Superliga,DEN
+Denmark,23,FW,SISTO Pione,SISTO,TRUE,Celta Vigo,Primera Division,ESP
+Egypt,1,GK,ESSAM EL HADARY,EL-HADARY,TRUE,Al Taawoun FC,Saudi Professional League,KSA
+Egypt,2,DF,ALI GABR,GABR,TRUE,West Bromwich Albion FC,Premier League,ENG
+Egypt,3,DF,AHMED ELMOHAMADY,ELMOHAMADY,TRUE,Aston Villa FC,Championship,ENG
+Egypt,4,MF,OMARGABER,O. GABER,FALSE,Los Angeles FC,Major League Soccer,USA
+Egypt,5,MF,SAM MORSY,MORSY,TRUE,Wigan Athletic FC,League One,ENG
+Egypt,6,DF,AHMED HEGAZY,HEGAZY,TRUE,West Bromwich Albion FC,Premier League,ENG
+Egypt,7,DF,AHMED FATHI,FATHY,TRUE,Al Ahly SC,Premier League,EGY
+Egypt,8,MF,TAREK HAMED,HAMED,TRUE,Zamalek,Premier League,EGY
+Egypt,9,FW,MARWAN MOHSEN,MOHSEN,TRUE,Al Ahly SC,Premier League,EGY
+Egypt,10,FW,MOHAMED SALAH,M. SALAH,TRUE,Liverpool FC,Premier League,ENG
+Egypt,11,FW,KAHRABA,KAHRABA,TRUE,Al-lttihad FC,Saudi Professional League,KSA
+Egypt,12,DF,AYMAN ASHRAF,A. ASHRAF,FALSE,Al Ahly SC,Premier League,EGY
+Egypt,13,DF,MOHAMED ABDELSHAFY,ABDEL-SHAFY,TRUE,Al Fateh FC,Saudi Professional League,KSA
+Egypt,14,FW,RAMADAN SOBHY,SOBHI,TRUE,Stoke City FC,Premier League,ENG
+Egypt,15,DF,MAHMOUD HAMDY,M. HAMDY,FALSE,Zamalek,Premier League,EGY
+Egypt,16,GK,SHERIF EKRAMY,EKRAMY,FALSE,Al Ahly SC,Premier League,EGY
+Egypt,17,MF,MOHAMED ELNENY,ELNENY,TRUE,Arsenal FC,Premier League,ENG
+Egypt,18,FW,SHIKABALA,SHIKABALA,FALSE,Al Raed SC,Saudi Professional League,KSA
+Egypt,19,MF,ABDALLA SAID,ABDALLA,TRUE,Kuopion PS,Veikkausliiga,FIN
+Egypt,20,DF,SAMIR SAAD,S. SAMIR,FALSE,Al Ahly SC,Premier League,EGY
+Egypt,21,MF,TREZEGUET,TREZEGUET,TRUE,Kasimpasa SK,Süper Lig,TUR
+Egypt,22,FW,AMR WARD A,WARDA,TRUE,Atromitos FC,Super League,GRE
+Egypt,23,GK,MOHAMED ELSHENAWY,M. EL-SHENAWY,TRUE,Al Ahly SC,Premier League,EGY
+England,1,GK,PICKFORD Jordan,PICKFORD,TRUE,Everton FC,Premier League,ENG
+England,2,DF,WALKER Kyle,WALKER,TRUE,Manchester City FC,Premier League,ENG
+England,3,DF,ROSE Danny,D. ROSE,TRUE,Tottenham Hotspur FC,Premier League,ENG
+England,4,MF,DIER Eric,DIER,TRUE,Tottenham Hotspur FC,Premier League,ENG
+England,5,DF,STONES John,STONES,TRUE,Manchester City FC,Premier League,ENG
+England,6,DF,MAGUIRE Harry,MAGUIRE,TRUE,Leicester City FC,Premier League,ENG
+England,7,MF,LINGARD Jesse,LINGARD,TRUE,Manchester United FC,Premier League,ENG
+England,8,MF,HENDERSON Jordan,J. HENDERSON,TRUE,Liverpool FC,Premier League,ENG
+England,9,FW,KANE Harry,H. KANE,TRUE,Tottenham Hotspur FC,Premier League,ENG
+England,10,FW,STERLING Raheem,STERLING,TRUE,Manchester City FC,Premier League,ENG
+England,11,FW,VARDY Jamie,VARDY,TRUE,Leicester City FC,Premier League,ENG
+England,12,DF,TRIPPIER Kieran,TRIPPIER,TRUE,Tottenham Hotspur FC,Premier League,ENG
+England,13,GK,BUTLAND Jack,BUTLAND,FALSE,Stoke City FC,Premier League,ENG
+England,14,FW,WELBECK Danny,WELBECK,TRUE,Arsenal FC,Premier League,ENG
+England,15,DF,CAHILL Gary,CAHILL,TRUE,Chelsea FC,Premier League,ENG
+England,16,DF,JONES Phil,JONES,TRUE,Manchester United FC,Premier League,ENG
+England,17,DF,DELPH Fabian,DELPH,TRUE,Manchester City FC,Premier League,ENG
+England,18,DF,YOUNG Ashley,A. YOUNG,TRUE,Manchester United FC,Premier League,ENG
+England,19,FW,RASHFORD Marcus,RASHFORD,TRUE,Manchester United FC,Premier League,ENG
+England,20,MF,ALLI Dele,ALLI,TRUE,Tottenham Hotspur FC,Premier League,ENG
+England,21,MF,LOFTUS-CHEEK Ruben,LOFTUS-CHEEK,TRUE,Chelsea FC,Premier League,ENG
+England,22,DF,ALEXANDER-ARNOLD Trent,ALEXANDER-ARNOLD,TRUE,Liverpool FC,Premier League,ENG
+England,23,GK,POPE Nick,POPE,FALSE,Burnley FC,Premier League,ENG
+France,1,GK,LLORIS Hugo,LLORIS,TRUE,Tottenham Hotspur FC,Premier League,ENG
+Croatia,18,FW,REBIC Ante,REBIC,TRUE,Eintracht Frankfurt,Bundesliga,GER
+France,3,DF,KIMPEMBE Presnel,KIMPEMBE,TRUE,Paris Saint-Germain FC,Ligue 1,FRA
+France,4,DF,VARANE Raphael,VARANE,TRUE,Real Madrid CF,Primera Division,ESP
+France,5,DF,UMTITI Samuel,UMTITI,TRUE,FC Barcelona,Primera Division,ESP
+France,6,MF,POGBA Paul,POGBA,TRUE,Manchester United FC,Premier League,ENG
+France,7,FW,GRIEZMANN Antoine,GRIEZMANN,TRUE,Atletico Madrid,Primera Division,ESP
+France,8,FW,LEMAR Thomas,LEMAR,TRUE,AS Monaco,Ligue 1,FRA
+France,9,FW,GIROUD Olivier,GIROUD,TRUE,Chelsea FC,Premier League,ENG
+France,10,FW,MBAPPE Kylian,MBAPPÉ,TRUE,Paris Saint-Germain FC,Ligue 1,FRA
+France,11,FW,DEMBELE Ousmane,DEMBELÉ,TRUE,FC Barcelona,Primera Division,ESP
+Japan,17,MF,HASEBE Makoto,HASEBE,TRUE,Eintracht Frankfurt,Bundesliga,GER
+France,13,MF,KANTE Ngolo,KANTÉ,TRUE,Chelsea FC,Premier League,ENG
+France,14,MF,MATUIDI Blaise,MATUIDI,TRUE,Juventus FC,Serie A,ITA
+France,15,MF,NZONZI Steven,N'ZONZI,TRUE,Sevilla FC,Primera Division,ESP
+France,16,GK,MANDANDA Steve,MANDANDA,TRUE,Olympique Marseille,Ligue 1,FRA
+France,17,DF,RAMI Adil,RAMI,FALSE,Olympique Marseille,Ligue 1,FRA
+France,18,FW,FEKIR Nabil,FEKIR,TRUE,Olympique Lyon,Ligue 1,FRA
+France,19,DF,SIDIBE Djibril,SIDIBÉ,TRUE,AS Monaco,Ligue 1,FRA
+France,20,FW,THAUVIN Florian,THAUVIN,FALSE,Olympique Marseille,Ligue 1,FRA
+France,21,DF,HERNANDEZ Lucas,HERNANDEZ,FALSE,Atletico Madrid,Primera Division,ESP
+France,22,DF,MENDY Benjamin,MENDY,TRUE,Manchester City FC,Premier League,ENG
+France,23,GK,AREOLA Alphonse,AREOLA,FALSE,Paris Saint-Germain FC,Ligue 1,FRA
+Mexico,3,DF,SALCEDO Carlos,SALCEDO,TRUE,Eintracht Frankfurt,Bundesliga,GER
+Mexico,8,FW,FABIAN Marco,FABIAN,TRUE,Eintracht Frankfurt,Bundesliga,GER
+Serbia,19,FW,JOVIC Luka,JOVIC,TRUE,Eintracht Frankfurt,Bundesliga,GER
+Germany,4,DF,GINTER Matthias,GINTER,FALSE,VfL Borussia Monchengladbach,Bundesliga,GER
+Iceland,11,FW,FINNBOGASON Alfred,FINNBOGASON,TRUE,FC Augsburg,Bundesliga,GER
+Germany,6,DF,KHEDIRA Sami,KHEDIRA,TRUE,Juventus FC,Serie A,ITA
+Germany,7,MF,DRAXLER Julian,DRAXLER,TRUE,Paris Saint-Germain FC,Ligue 1,FRA
+Germany,8,MF,KROOS Toni,T. KROOS,TRUE,Real Madrid CF,Primera Division,ESP
+Korea Republic,13,MF,KOO Jacheol,KOO,TRUE,FC Augsburg,Bundesliga,GER
+Germany,10,MF,OEZIL Mesut,ÖZIL,TRUE,Arsenal FC,Premier League,ENG
+Colombia,10,MF,RODRIGUEZ James,JAMES,TRUE,FC Bayern Munchen,Bundesliga,GER
+Germany,12,GK,TRAPP Kevin,TRAPP,FALSE,Paris Saint-Germain FC,Ligue 1,FRA
+France,12,MF,TOLISSO Corentin,TOLISSO,TRUE,FC Bayern Munchen,Bundesliga,GER
+Germany,1,GK,NEUER Manuel,NEUER,TRUE,FC Bayern Munchen,Bundesliga,GER
+Germany,5,DF,HUMMELS Mats,HUMMELS,TRUE,FC Bayern Munchen,Bundesliga,GER
+Germany,16,DF,RUEDIGER Antonio,RÜDIGER,TRUE,Chelsea FC,Premier League,ENG
+Germany,13,MF,MUELLER Thomas,MÜLLER,TRUE,FC Bayern Munchen,Bundesliga,GER
+Germany,15,DF,SUELE Niklas,SÜLE,TRUE,FC Bayern Munchen,Bundesliga,GER
+Germany,17,DF,BOATENG Jerome,J. BOATENG,TRUE,FC Bayern Munchen,Bundesliga,GER
+Germany,18,DF,KIMMICH Joshua,KIMMICH,TRUE,FC Bayern Munchen,Bundesliga,GER
+Germany,21,MF,GUENDOGAN llkay,GÜNDOGAN,TRUE,Manchester City FC,Premier League,ENG
+Germany,22,GK,TERSTEGEN Marc-Andre,TER STEGEN,FALSE,FC Barcelona,Primera Division,ESP
+Germany,19,MF,RUDY Sebastian,RUDY,TRUE,FC Bayern Munchen,Bundesliga,GER
+Iceland,1,GK,HALLDORSSON Hannes,HALLDORSSON,TRUE,Randers FC,Danish Superliga,DEN
+Iceland,2,DF,SAEVARSSON Birkir,B. SAEVARSSON,TRUE,Valur Reykjavik,Men's Select Division,ISL
+Iceland,3,MF,FRIDJONSSON Samuel,FRIDJONSSON,FALSE,Valerenga IF,Eliteserien,NOR
+Iceland,4,MF,GUDMUNDSSON Albert,A. GUDMUNDSSON,TRUE,PSV Eindhoven,Eredivisie,NED
+Iceland,5,DF,INGASON Sverrir,INGASON,TRUE,FC Rostov,Premjer-Liga,RUS
+Iceland,6,DF,SIGURDSSON Ragnar,R. SIGURDSSON,TRUE,FC Rostov,Premjer-Liga,RUS
+Iceland,7,MF,GUDMUNDSSON Johann,J. GUDMUNDSSON,TRUE,Burnley FC,Premier League,ENG
+Iceland,8,MF,BJARNASON Birkir,B. BJARNASON,TRUE,Aston Villa FC,Championship,ENG
+Iceland,9,FW,SIGURDARSON Bjorn,SIGURDARSON,TRUE,FC Rostov,Premjer-Liga,RUS
+Iceland,10,MF,SIGURDSSON Gylfi,G. SIGURDSSON,TRUE,Everton FC,Premier League,ENG
+Poland,9,FW,LEWANDOWSKI Robert,LEWANDOWSKI,TRUE,FC Bayern Munchen,Bundesliga,GER
+Iceland,12,GK,SCHRAM Frederik,SCHRAM,FALSE,Roskilde BK,2. Division,DEN
+Iceland,13,GK,RUNARSSON Runar,RUNARSSON,FALSE,FC Nordsjaelland,Danish Superliga,DEN
+Iceland,14,DF,ARNASON Kari,ARNASON,TRUE,Aberdeen FC,Premier League,SCO
+Iceland,15,DF,EYJOLFSSON Holmar,EYJOLFSSON,FALSE,Levski Sofia,1. Division,BUL
+Iceland,16,MF,SKULASON Olafur,SKULASON,FALSE,Karabukspor,Süper Lig,TUR
+Iceland,17,MF,GUNNARSSON Aron,GUNNARSSON,TRUE,Cardiff City FC,Championship,WAL
+Iceland,18,DF,MAGNUSSON Hordur,MAGNUSSON,TRUE,Bristol City FC,Championship,ENG
+Iceland,19,MF,GISLASON Rurik,GISLASON,TRUE,SV Sandhausen,2. Bundesliga,GER
+Iceland,20,MF,HALLFREDSSON Emil,HALLFREDSSON,TRUE,Udinese Calcio,Serie A,ITA
+Iceland,21,MF,TRAUSTASON Arnor,TRAUSTASON,TRUE,Malmo FF,Allsvenskan,SWE
+Iceland,22,FW,BODVARSSON Jon,BÖDVARSSON,TRUE,Reading FC,Championship,ENG
+Iceland,23,DF,SKULASON Ari,A. SKULASON,TRUE,KSC Lokeren,First Division A,BEL
+IR Iran,1,GK,BEIRANVAND Ali,BEIRANVAND,TRUE,Persepolis FC,Persian Gulf League,IRN
+IR Iran,2,MF,TORABI Mehdi,TORABI,FALSE,Saipa Alborz FC,Persian Gulf League,IRN
+IR Iran,3,DF,HAJI SAFI Ehsan,HAJI SAFI,TRUE,Olympiacos Piraeus FC,Super League,GRE
+IR Iran,4,DF,CHESHMI Roozbeh,CHESHMI,TRUE,Esteghlal Tehran FC,Persian Gulf League,IRN
+IR Iran,5,DF,MOHAMMADI Milad,MOHAMMADI,TRUE,FC Akhmat Grozny,Premjer-Liga,RUS
+IR Iran,6,MF,EZATOLAHI Saeid,EZATOLAHI,TRUE,FC Amkar Perm,Premjer-Liga,RUS
+IR Iran,7,MF,SHOJAEI Masoud,SHOJAEI,TRUE,AEK Athens,Super League,GRE
+IR Iran,8,DF,POURALIGANJI Morteza,POURALIGANJI,TRUE,Al Sadd SC,Stars League,QAT
+IR Iran,9,MF,EBRAHIMI Omid,EBRAHIMI,TRUE,Esteghlal Tehran FC,Persian Gulf League,IRN
+IR Iran,10,FW,ANSARIFARD Karim,ANSARIFARD,TRUE,Olympiacos Piraeus FC,Super League,GRE
+IR Iran,11,MF,AMIRI Vahid,AMIRI,TRUE,Persepolis FC,Persian Gulf League,IRN
+IR Iran,12,GK,MAZAFIERI Rashid,RASHID,FALSE,Zob Ahan Isfahan FC,Persian Gulf League,IRN
+IR Iran,13,DF,KFIANZADEFI Mohammad Reza,M.R. KHANZADEH,FALSE,Padideh FC,Persian Gulf League,IRN
+IR Iran,14,FW,GFIODDOS Saman,GHODDOS,TRUE,IFK Ostersund FK,Allsvenskan,SWE
+IR Iran,15,DF,MONTAZERI Pejman,MONTAZERI,FALSE,Esteghlal Tehran FC,Persian Gulf League,IRN
+IR Iran,16,FW,GHOOCHANNEJHAD Reza,REZA,FALSE,SC Heerenveen,Eredivisie,NED
+IR Iran,17,FW,TAREMI Mehdi,TAREMI,TRUE,Al Gharafa SC,Stars League,QAT
+IR Iran,18,FW,JAHANBAKHSH Alireza,JAHANBAKHSH,TRUE,AZ Alkmaar,Eredivisie,NED
+IR Iran,19,DF,HOSSEINI Majid,HOSSEINI,TRUE,Esteghlal Tehran FC,Persian Gulf League,IRN
+IR Iran,20,FW,AZMOUN Sardar,AZMOUN,TRUE,FC Rubin Kazan,Premjer-Liga,RUS
+IR Iran,21,FW,DEJAGAH Ashkan,DEJAGAH,FALSE,Nottingham Forest FC,Championship,ENG
+IR Iran,22,GK,ABEDZADEH Amir,ABEDZADEH,FALSE,CS Maritimo,Primeira Liga,POR
+IR Iran,23,DF,REZAEIAN Ramin,REZAEIAN,TRUE,KV Oostende,First Division A,BEL
+Japan,1,GK,KAWASHIMA Eiji,KAWASHIMA,TRUE,FC Metz,Ligue 1,FRA
+Japan,2,DF,UEDA Naomichi,UEDA,FALSE,Kashima Antlers,J1 League,JPN
+Japan,3,DF,SHOJI Gen,SHOJI,TRUE,Kashima Antlers,J1 League,JPN
+Japan,4,MF,HONDA Keisuke,HONDA,TRUE,CF Pachuca,Primera Division,MEX
+Japan,5,DF,NAGATOMO Yuto,NAGATOMO,TRUE,Galatasaray SK,Süper Lig,TUR
+Japan,6,DF,ENDO Wataru,ENDO,FALSE,Urawa Reds,J1 League,JPN
+Japan,7,MF,SHIBASAKI Gaku,SHIBASAKI,TRUE,Getafe CF,Primera Division,ESP
+Japan,8,MF,HARAGUCHI Genki,HARAGUCHI,TRUE,Fortuna Dusseldorf,2. Bundesliga,GER
+Japan,9,FW,OKAZAKI Shinji,OKAZAKI,TRUE,Leicester City FC,Premier League,ENG
+Spain,10,MF,THIAGO,THIAGO,TRUE,FC Bayern Munchen,Bundesliga,GER
+Japan,11,MF,USAMI Takashi,USAMI,TRUE,Fortuna Dusseldorf,2. Bundesliga,GER
+Japan,12,GK,HIGASHIGUCHI Masaaki,HIGASHIGUCHI,FALSE,Gamba Osaka,J1 League,JPN
+Croatia,20,FW,PJACA Marko,PJACA,TRUE,FC Schalke 04,Bundesliga,GER
+Japan,14,MF,INUI Takashi,INUI,TRUE,SD Eibar,Primera Division,ESP
+Germany,14,MF,GORETZKA Leon,GORETZKA,TRUE,FC Schalke 04,Bundesliga,GER
+Japan,16,MF,YAMAGUCHI Hotaru,YAMAGUCHI,TRUE,Cerezo Osaka,J1 League,JPN
+Morocco,18,MF,HARIT Amine,HARIT,TRUE,FC Schalke 04,Bundesliga,GER
+Japan,18,MF,OSHIMA Ryota,OSHIMA,FALSE,Kawasaki Frontale,J1 League,JPN
+Japan,19,DF,SAKAI Hiroki,H. SAKAI,TRUE,Olympique Marseille,Ligue 1,FRA
+Japan,20,DF,MAKINO Tomoaki,MAKINO,TRUE,Urawa Reds,J1 League,JPN
+Switzerland,7,FW,EMBOLO Breel,EMBOLO,TRUE,FC Schalke 04,Bundesliga,GER
+Japan,22,DF,YOSHIDA Maya,YOSHIDA,TRUE,Southampton FC,Premier League,ENG
+Japan,23,GK,NAKAMURA Kosuke,NAKAMURA,FALSE,Kashiwa Reysol,J1 League,JPN
+Korea Republic,1,GK,KIM Seunggyu,S G KIM,FALSE,Vissel Kobe,J1 League,JPN
+Korea Republic,2,DF,LEE Yong,Y. LEE,TRUE,Jeonbuk Hyundai,K League,KOR
+Korea Republic,3,DF,JUNG Seunghyun,S JUNG,FALSE,Sagan Tosu FC,J1 League,JPN
+Korea Republic,4,DF,OH Bansuk,B S OH,FALSE,Jeju United,K League,KOR
+Korea Republic,5,DF,YUN Youngsun,YS YUN,TRUE,Seongnam FC,K League Challenge,KOR
+Korea Republic,6,DF,PARK Jooho,J.-H. PARK,TRUE,Ulsan Hyundai FC,K League,KOR
+Korea Republic,7,FW,SON Heungmin,SON,TRUE,Tottenham Hotspur FC,Premier League,ENG
+Korea Republic,8,MF,JU Sejong,S J JU,TRUE,Asan Mugunghwa FC,K League Challenge,KOR
+Korea Republic,9,FW,KIM Shinwook,S W KIM,TRUE,Jeonbuk Hyundai,K League,KOR
+Korea Republic,10,MF,LEE Seungwoo,S W LEE,TRUE,Hellas Verona FC,Serie A,ITA
+Korea Republic,11,FW,HWANG Heechan,H C HWANG,TRUE,FC Red Bull Salzburg,Bundesliga,AUT
+Korea Republic,12,DF,KIM Minwoo,MW KIM,TRUE,Sangju Sangmu FC,K League,KOR
+Japan,13,FW,MUTO Yoshinori,MUTO,TRUE,FSV Mainz 05,Bundesliga,GER
+Korea Republic,14,DF,HONG Chul,HONG,TRUE,Sangju Sangmu FC,K League,KOR
+Korea Republic,15,MF,JUNG Wooyoung,W Y JUNG,TRUE,Vissel Kobe,J1 League,JPN
+Korea Republic,16,MF,Kl Sungyueng,S Y Kl,TRUE,Swansea City AFC,Premier League,WAL
+Korea Republic,17,MF,LEE Jaesung,J S LEE,TRUE,Jeonbuk Hyundai,K League,KOR
+Korea Republic,18,MF,MOON Seonmin,MOON,TRUE,Incheon United FC,K League,KOR
+Korea Republic,19,DF,KIM Younggwon,YG KIM,TRUE,Guangzhou Evergrande FC,Super League,CHN
+Korea Republic,20,DF,JANG Hyunsoo,H S JANG,TRUE,FC Tokyo,J1 League,JPN
+Korea Republic,21,GK,KIM Jinhyeon,J H KIM,FALSE,Cerezo Osaka,J1 League,JPN
+Korea Republic,22,DF,GO Yohan,Y H GO,TRUE,FC Seoul,K League,KOR
+Korea Republic,23,GK,JO Hyeonwoo,H W JO,TRUE,Daegu FC,K League,KOR
+Mexico,1,GK,CORONA Jose,J. CORONA,TRUE,Cruz Azul,Primera Division,MEX
+Mexico,2,DF,AYALA Hugo,AYALA,TRUE,Tigres UANL,Primera Division,MEX
+Nigeria,6,DF,BALOGUN Leon,BALOGUN,TRUE,FSV Mainz 05,Bundesliga,GER
+Mexico,4,DF,MARQUEZ Rafael,R. MARQUEZ,TRUE,CF Atlas,Primera Division,MEX
+Mexico,5,DF,Érick Gutiérrez,Gutierrez,FALSE,Pachua,Primera Division,MEX
+Mexico,6,MF,DOS SANTOS Jonathan,J. DOS SANTOS,FALSE,LA Galaxy,Major League Soccer,USA
+Mexico,7,MF,LAYUN Miguel,LAYUN,TRUE,Sevilla FC,Primera Division,ESP
+Japan,21,DF,SAKAI Gotoku,G. SAKAI,TRUE,Hamburger SV,Bundesliga,GER
+Mexico,9,FW,JIMENEZ Raul,Raul Jimenez,TRUE,SL Benfica,Primeira Liga,POR
+Mexico,10,MF,DOS SANTOS Giovani,G. DOS SANTOS,TRUE,LA Galaxy,Major League Soccer,USA
+Mexico,11,FW,VELA Carlos,VELA,TRUE,Los Angeles FC,Major League Soccer,USA
+Mexico,12,GK,TALAVERA Alfredo,A. TALAVERA,FALSE,Deportivo Toluca FC,Primera Division,MEX
+Mexico,13,GK,OCHOA Guillermo,OCHOA,TRUE,Standard Liege,First Division A,BEL
+Mexico,14,FW,HERNANDEZ Javier,J. HERNANDEZ,FALSE,West Ham United FC,Premier League,ENG
+Mexico,15,DF,MORENO Hector,MORENO,TRUE,Real Sociedad,Primera Division,ESP
+Mexico,16,DF,HERRERA Hector,HERRERA,TRUE,FC Porto,Primeira Liga,POR
+Mexico,17,MF,CORONA Jesus,J. Corona,TRUE,FC Porto,Primeira Liga,POR
+Mexico,18,MF,GUARDADO Andres,GUARDADO,TRUE,Real Betis,Primera Division,ESP
+Mexico,19,FW,PERALTA Oribe,PERALTA,TRUE,Club America,Primera Division,MEX
+Mexico,20,MF,AQUINO Javier,AQUINO,TRUE,Tigres UANL,Primera Division,MEX
+Mexico,21,FW,ALVAREZ Edson,Alvarez,TRUE,Club America,Primera Division,MEX
+Mexico,22,FW,LOZANO Hirving,LOZANO,TRUE,PSV Eindhoven,Eredivisie,NED
+Mexico,23,MF,GALLARDO Jesus,GALLARDO,TRUE,Pumas UNAM,Primera Division,MEX
+Morocco,1,GK,BOUNOU Yassine,BOUNOU,FALSE,Girona FC,Primera Division,ESP
+Morocco,2,DF,HAKIMI Achraf,HAKIMI,FALSE,Real Madrid CF,Primera Division,ESP
+Morocco,3,DF,MENDYL Hamza,MENDYL,FALSE,Lille OSC,Ligue 1,FRA
+Morocco,4,DF,DA COSTA Manuel,DA COSTA,TRUE,Istanbul Başakşehir F.K.,Süper Lig,TUR
+Morocco,5,DF,BENATIA Mehdi,BENATIA,TRUE,Juventus FC,Serie A,ITA
+Morocco,6,DF,SAISS Romain,SAISS,TRUE,Wolverhampton Wanderers FC,Championship,ENG
+Morocco,7,MF,ZIYECH Hakim,ZIYECH,TRUE,AFC Ajax,Eredivisie,NED
+Morocco,8,MF,EL AHMADI Karim,EL AHMADI,TRUE,Feyenoord Rotterdam,Eredivisie,NED
+Morocco,9,FW,EL KAABI Ayoub,EL KAABI,TRUE,RS Berkane,GNEF 1,MAR
+Morocco,10,MF,BELHANDAYounes,BELHANDA,TRUE,Galatasaray SK,Süper Lig,TUR
+Morocco,11,MF,FAJR Faycal,FAJR,TRUE,Getafe CF,Primera Division,ESP
+Morocco,12,GK,EL KAJOUI Monir,EL KAJOUI,TRUE,CD Numancia,Segunda Division,ESP
+Morocco,13,FW,BOUTAIB Khalid,BOUTAIB,TRUE,Yeni Malatyaspor,Süper Lig,TUR
+Morocco,14,MF,BOUSSOUFA Mbark,BOUSSOUFA,TRUE,Al Jazira,Premier League,UAE
+Morocco,15,MF,AIT BENNASSER Youssef,AIT BENNASSER,FALSE,SM Caen,Ligue 1,FRA
+Morocco,16,MF,AM RABAT Noureddine,N. AMRABAT,TRUE,CD Leganes,Primera Division,ESP
+Morocco,17,DF,DIRAR Nabil,DIRAR,TRUE,Fenerbahce SK,Süper Lig,TUR
+Serbia,17,MF,KOSTIC Filip,KOSTIC,TRUE,Hamburger SV,Bundesliga,GER
+Morocco,19,FW,EN NESYRI Youssef,EN-NESYRI,TRUE,Malaga CF,Primera Division,ESP
+Morocco,20,FW,BOUHADDOUZAziz,BOUHADDOUZ,TRUE,FC St. Pauli,2. Bundesliga,GER
+Morocco,21,MF,AM RABAT Sofya n,S. AMRABAT,TRUE,Feyenoord Rotterdam,Eredivisie,NED
+Morocco,22,GK,TAGNAOUTI Ahmed,TAGNAOUTI,FALSE,IRT Tanger,GNEF 1,MAR
+Morocco,23,MF,CARCELA Mehdi,CARCELA,TRUE,Standard Liege,First Division A,BEL
+Nigeria,1,GK,EZENWA Ikechukwu,EZENWA,FALSE,Enyimba FC,NPFL,NGA
+Nigeria,2,DF,IDOWU Bryan,IDOWU,TRUE,FC Amkar Perm,Premjer-Liga,RUS
+Nigeria,3,DF,ECHIEJILE Elderson,ECHIEJILE,FALSE,Cercle Brugge,First Division B,BEL
+Nigeria,4,MF,NDIDI Onyinye,NDIDI,TRUE,Leicester City FC,Premier League,ENG
+Nigeria,5,DF,EKONG William,EKONG,TRUE,Bursaspor,Süper Lig,TUR
+Sweden,8,MF,EKDAL Albin,EKDAL,TRUE,Hamburger SV,Bundesliga,GER
+Nigeria,7,FW,MUSA Ahmed,MUSA,TRUE,CSKA Moscow,Premjer-Liga,RUS
+Nigeria,8,MF,ETEBO Oghenekaro,ETEBO,TRUE,UD Las Palmas,Primera Division,ESP
+Nigeria,9,FW,IGHALO Odion,IGHALO,TRUE,Changchun Yatai,Super League,CHN
+Nigeria,10,MF,MIKELJohn Obi,MIKEL,TRUE,Tianjin Teda,Super League,CHN
+Nigeria,11,FW,MOSES Victor,MOSES,TRUE,Chelsea FC,Premier League,ENG
+Nigeria,12,DF,SHEHU Abdullahi,SHEHU,TRUE,Bursaspor,Süper Lig,TUR
+Nigeria,13,FW,NWANKWO Simeon,NWANKWO,FALSE,FC Crotone,Serie A,ITA
+Nigeria,14,FW,IHEANACHO Kelechi,IHEANACHO,TRUE,Leicester City FC,Premier League,ENG
+Nigeria,15,MF,OBI Joel,OBI,FALSE,Torino FC,Serie A,ITA
+Nigeria,16,GK,AKPEYI Daniel,AKPEYI,FALSE,Chippa United FC,ABSA Premiership,RSA
+Nigeria,17,MF,ONAZI Ogenyi,ONAZI,FALSE,Trabzonspor,Süper Lig,TUR
+Nigeria,18,FW,IWOBI Alex,IWOBI,TRUE,Arsenal FC,Premier League,ENG
+Nigeria,19,MF,OGU John,OGU,FALSE,Hapoel Be'er Sheva FC,Israeli Premier League,ISR
+Nigeria,20,DF,AWAZIEM Chidozie,AWAZIEM,FALSE,FC Nantes,Ligue 1,FRA
+Nigeria,21,DF,EBUEHI Tyronne,EBUEHI,TRUE,ADO Den Haag,Eredivisie,NED
+Nigeria,22,DF,OMERUO Kenneth,OMERUO,TRUE,Kasimpasa SK,Süper Lig,TUR
+Nigeria,23,GK,UZOHO Francis,UZOHO,TRUE,Deportivo La Coruna,Primera Division,ESP
+Panama,1,GK,PENEDO Jaime,PENEDO,TRUE,Dinamo Bucharest,Divizia A,ROU
+Panama,2,DF,MURILLO Michael,MURILLO,TRUE,New York Red Bulls,Major League Soccer,USA
+Panama,3,DF,CUMMINGS Harold,CUMMINGS,TRUE,San Jose Earthquakes,Major League Soccer,USA
+Panama,4,DF,ESCOBAR Fidel,ESCOBAR,TRUE,New York Red Bulls,Major League Soccer,USA
+Panama,5,DF,TORRES Roman,R. TORRES,TRUE,Seattle Sounders FC,Major League Soccer,USA
+Panama,6,MF,GOMEZ Gabriel,GOMEZ,TRUE,Atletico Bucaramanga,Categoría Primera A,COL
+Panama,7,FW,PEREZ Bias,PEREZ,TRUE,CSD Municipal,Liga Nacional,GUA
+Panama,8,MF,BARCENAS Edgar,BARCENAS,TRUE,Cafetaleros de Tapachula,Liga de Ascenso,MEX
+Panama,9,FW,TORRES Gabriel,G. TORRES,TRUE,CD Huachipato,Primera Division Nacional,CHI
+Panama,10,FW,DIAZ Ismael,DIAZ,TRUE,Deportivo La Coruna,Primera Division,ESP
+Panama,11,MF,COOPER Armando,COOPER,TRUE,Club Universidad de Chile,Primera Division Nacional,CHI
+Panama,12,GK,CALDERON Jose,CALDERON,FALSE,Chorrillo FC,Liga Panameña de Fútbol,PAN
+Panama,13,DF,MACHADO Adolfo,MACHADO,TRUE,Houston Dynamo,Major League Soccer,USA
+Panama,14,MF,PIMENTEL Valentin,PIMENTEL,FALSE,Plaza Amador,Liga Panameña de Fútbol,PAN
+Panama,15,DF,DAVIS Eric,DAVIS,TRUE,DAC Dunajska Streda,Liga Nacional,SVK
+Panama,16,FW,ARROYO Abdiel,ARROYO,TRUE,LD Alajuelense,Primera Division,CRC
+Panama,17,DF,OVALLE Luis,OVALLE,TRUE,CD Olimpia,Liga Nacional,HON
+Panama,18,FW,TEJADA Luis,TEJADA,TRUE,Sport Boys,Torneo Descentralizado de Fútbol Profesional,PER
+Panama,19,MF,QUINTERO Alberto,QUINTERO,TRUE,Universitario Lima,Torneo Descentralizado de Fútbol Profesional,PER
+Panama,20,MF,GODOY Anibal,GODOY,TRUE,San Jose Earthquakes,Major League Soccer,USA
+Panama,21,MF,RODRIGUEZ Jose Luis,J. RODRIGUEZ,TRUE,KAA Gent,First Division A,BEL
+Panama,22,GK,RODRIGUEZ Alex,RODRIGUEZ,TRUE,San Francisco FC,Liga Panameña de Fútbol,PAN
+Panama,23,DF,BALOY Felipe,BALOY,TRUE,CSD Municipal,Liga Nacional,GUA
+Peru,1,GK,GALLESE Pedro,GALLESE,TRUE,CD Tiburones Rojos de Veracruz,Primera Division,MEX
+Peru,2,DF,RODRIGUEZ Alberto,RODRIGUEZ,TRUE,Atletico Junior,Categoría Primera A,COL
+Peru,3,DF,CORZO Aldo,CORZO,FALSE,Universitario Lima,Torneo Descentralizado de Fútbol Profesional,PER
+Peru,4,DF,SANTAMARIA Anderson,SANTAMARIA,TRUE,Puebla FC,Primera Division,MEX
+Peru,5,DF,ARAUJO Miguel,ARAUJO,FALSE,Alianza Lima,Torneo Descentralizado de Fútbol Profesional,PER
+Peru,6,DF,TRAUCO Miguel,TRAUCO,TRUE,CR Flamengo,Serie A,BRA
+Peru,7,MF,HURTADO Paolo,HURTADO,TRUE,Vitoria Guimaraes,Primeira Liga,POR
+Peru,8,MF,CUEVA Christian,CUEVA,TRUE,Sao Paulo FC,Serie A,BRA
+Peru,9,FW,GUERRERO Paolo,GUERRERO,TRUE,CR Flamengo,Serie A,BRA
+Peru,10,FW,FARFAN Jefferson,FARFAN,TRUE,FC Lokomotiv Moscow,Premjer-Liga,RUS
+Peru,11,FW,RUIDIAZ Raul,RUIDIAZ,TRUE,CA Monarcas Morelia,Primera Division,MEX
+Peru,12,GK,CACEDA Carlos,CACEDA,FALSE,Deportivo Municipal,Torneo Descentralizado de Fútbol Profesional,PER
+Peru,13,MF,TAPIA Renato,TAPIA,TRUE,Feyenoord Rotterdam,Eredivisie,NED
+Peru,14,MF,POLO Andy,POLO,FALSE,Portland Timbers,Major League Soccer,USA
+Peru,15,DF,RAMOS Christian,RAMOS,TRUE,CD Tiburones Rojos de Veracruz,Primera Division,MEX
+Peru,16,MF,CARTAGENA Wilder,CARTAGENA,TRUE,CD Tiburones Rojos de Veracruz,Primera Division,MEX
+Peru,17,DF,ADVINCULA Luis,ADVINCULA,TRUE,Lobos BUAP,Primera Division,MEX
+Peru,18,FW,CARRILLO Andre,CARRILLO,TRUE,Watford FC,Premier League,ENG
+Peru,19,MF,YOTUN Yoshimar,YOTUN,TRUE,Orlando City SC,Major League Soccer,USA
+Peru,20,FW,FLORES Edison,FLORES,TRUE,Aalborg BK,Danish Superliga,DEN
+Peru,21,GK,CARVALLO Jose,CARVALLO,FALSE,Universidad Tecnica de Cajamarca,Torneo Descentralizado de Fútbol Profesional,PER
+Peru,22,DF,LOYOLA Nilson,LOYOLA,FALSE,FBC Melgar,Torneo Descentralizado de Fútbol Profesional,PER
+Peru,23,MF,AQUINO Pedro,AQUINO,TRUE,Lobos BUAP,Primera Division,MEX
+Poland,1,GK,SZCZESNY Wojciech,SZCZESNY,TRUE,Juventus FC,Serie A,ITA
+Poland,2,DF,PAZDAN Michal,PAZDAN,TRUE,Legia Warsaw,Ekstraklasa,POL
+Poland,3,DF,JEDRZEJCZYK Artur,JEDRZEJCZYK,TRUE,Legia Warsaw,Ekstraklasa,POL
+Poland,4,DF,CIONEK Thiago,CIONEK,TRUE,SPAL Ferrara,Serie A,ITA
+Poland,5,DF,BEDNAREK Jan,BEDNAREK,TRUE,Southampton FC,Premier League,ENG
+Poland,6,MF,GORALSKI Jacek,GORALSKI,TRUE,PFC Ludogorets Razgrad,1. Division,BUL
+Poland,7,FW,MILIK Arkadiusz,MILIK,TRUE,SSC Napoli,Serie A,ITA
+Poland,8,MF,LINETTY Karol,LINETTY,FALSE,UC Sampdoria,Serie A,ITA
+Senegal,6,MF,SANE Salif,S. SANÉ,TRUE,Hannover 96,Bundesliga,GER
+Poland,10,MF,KRYCHOWIAK Grzegorz,KRYCHOWIAK,TRUE,West Bromwich Albion FC,Premier League,ENG
+Poland,11,MF,GROSICKI Kamil,GROSICKI,TRUE,Hull City FC,Championship,ENG
+Poland,12,GK,BIALKOWSKI Bartosz,BIALKOWSKI,FALSE,Ipswich Town FC,Championship,ENG
+Poland,13,MF,RYBUS Maciej,RYBUS,TRUE,FC Lokomotiv Moscow,Premjer-Liga,RUS
+Poland,14,FW,TEODORCZYK Lukasz,TEODORCZYK,TRUE,RSC Anderlecht,First Division A,BEL
+Poland,15,DF,GLIK Kamil,GLIK,TRUE,AS Monaco,Ligue 1,FRA
+Australia,7,FW,LECKIE Mathew,LECKIE,TRUE,Hertha BSC,Bundesliga,GER
+Poland,17,MF,PESZKO Slawomir,PESZKO,TRUE,Lechia Gdansk,Ekstraklasa,POL
+Poland,18,DF,BERESZYNSKI Bartosz,BERESZYNSKI,TRUE,UC Sampdoria,Serie A,ITA
+Poland,19,MF,ZIELINSKI Piotr,ZIELINSKI,TRUE,SSC Napoli,Serie A,ITA
+Germany,2,DF,PLATTENHARDT Marvin,PLATTENHARDT,TRUE,Hertha BSC,Bundesliga,GER
+Poland,21,MF,KURZAWA Rafal,KURZAWA,TRUE,Gornik Zabrze,Ekstraklasa,POL
+Poland,22,GK,FABIANSKI Lukasz,FABIANSKI,TRUE,Swansea City AFC,Premier League,WAL
+Poland,23,FW,KOWNACKI Dawid,KOWNACKI,TRUE,UC Sampdoria,Serie A,ITA
+Portugal,1,GK,RUI PATRICIO,RUI PATRICIO,TRUE,Sporting CP,Primeira Liga,POR
+Portugal,2,DF,BRUNO ALVES,B. ALVES,FALSE,Rangers FC,Premier League,SCO
+Portugal,3,DF,PE PE,PEPE,TRUE,Besiktas JK,Süper Lig,TUR
+Portugal,4,MF,MANUEL FERNANDES,M. FERNANDES,FALSE,FC Lokomotiv Moscow,Premjer-Liga,RUS
+Denmark,20,FW,POULSEN Yussuf Yurary,Y. Poulsen,TRUE,RB Leipzig,Bundesliga,GER
+Portugal,6,DF,JOSE FONTE,José FONTE,TRUE,Dalian Yifang FC,Super League,CHN
+Portugal,7,FW,CRISTIANO RONALDO,RONALDO,TRUE,Real Madrid CF,Primera Division,ESP
+Portugal,8,MF,JOAO MOUTINHO,Joao MOUTINHO,TRUE,AS Monaco,Ligue 1,FRA
+Portugal,9,FW,ANDRE SILVA,ANDRÉ SILVA,TRUE,AC Milan,Serie A,ITA
+Portugal,10,MF,JOAO MARIO,Joao Mario,TRUE,West Ham United FC,Premier League,ENG
+Portugal,11,MF,BERNARDO SILVA,BERNARDO,TRUE,Manchester City FC,Premier League,ENG
+Portugal,12,GK,ANTHONY LOPES,LOPES,FALSE,Olympique Lyon,Ligue 1,FRA
+Portugal,13,DF,RUBEN DIAS,RUBEN DIAS,FALSE,SL Benfica,Primeira Liga,POR
+Portugal,14,MF,WILLIAM,WILLIAM,TRUE,Sporting CP,Primeira Liga,POR
+Portugal,15,DF,RICARDO,RICARDO,FALSE,FC Porto,Primeira Liga,POR
+Portugal,16,MF,BRUNO FERNANDES,Bruno FERNANDES,TRUE,Sporting CP,Primeira Liga,POR
+Portugal,17,FW,GONCALO GUEDES,GONCALO GUEDES,TRUE,Valencia CF,Primera Division,ESP
+Portugal,18,FW,GELSON MARTINS,GELSON Martins,TRUE,Sporting CP,Primeira Liga,POR
+Portugal,19,DF,MARIO RUI,MARIO RUI,FALSE,SSC Napoli,Serie A,ITA
+Portugal,20,FW,RICARDO QUARESMA,RICARDO QUARESMA,TRUE,Besiktas JK,Süper Lig,TUR
+Portugal,21,DF,CEDRIC,CEDRIC,TRUE,Southampton FC,Premier League,ENG
+Portugal,22,GK,BETO,BETO,FALSE,Goztepe SK,Süper Lig,TUR
+Portugal,23,MF,ADRIEN SILVA,ADRIEN Silva,TRUE,Leicester City FC,Premier League,ENG
+Russia,1,GK,AKINFEEV Igor,AKINFEEV,TRUE,CSKA Moscow,Premjer-Liga,RUS
+Russia,2,DF,MARIO FERNANDES,Mario FERNANDES,TRUE,CSKA Moscow,Premjer-Liga,RUS
+Russia,3,DF,KUTEPOV Ilya,KUTEPOV,TRUE,FC Spartak Moscow,Premjer-Liga,RUS
+Russia,4,DF,IGNASHEVICH Sergey,IGNASHEVICH,TRUE,CSKA Moscow,Premjer-Liga,RUS
+Russia,5,DF,SEMENOV Andrey,SEMENOV,FALSE,FC Akhmat Grozny,Premjer-Liga,RUS
+Russia,6,MF,CHERYSHEV Denis,CHERYSHEV,TRUE,Villarreal CF,Primera Division,ESP
+Russia,7,MF,KUZIAEV Daler,Kuzyaev,TRUE,FC Zenit St. Petersburg,Premjer-Liga,RUS
+Russia,8,MF,GAZINSKY 1 ury,GAZINSKY,TRUE,FC Krasnodar,Premjer-Liga,RUS
+Russia,9,MF,DZAGOEV Alan,DZAGOEV,TRUE,CSKA Moscow,Premjer-Liga,RUS
+Russia,10,FW,SMOLOV Fedor,SMOLOV,TRUE,FC Krasnodar,Premjer-Liga,RUS
+Russia,11,MF,ZOBNIN Roman,ZOBNIN,TRUE,FC Spartak Moscow,Premjer-Liga,RUS
+Russia,12,GK,LUNEV Andrei,LUNEV,FALSE,FC Zenit St. Petersburg,Premjer-Liga,RUS
+Russia,13,DF,KUDRIASHOV Fedor,Kudryashov,TRUE,FC Rubin Kazan,Premjer-Liga,RUS
+Russia,14,DF,GRANAT Vladimir,GRANAT,FALSE,FC Rubin Kazan,Premjer-Liga,RUS
+Russia,15,MF,MIRANCHUK Alexey,Al. MIRANCHUK,TRUE,FC Lokomotiv Moscow,Premjer-Liga,RUS
+Russia,16,MF,MIRANCHUK Anton,MIRANCHUK AN.,FALSE,FC Lokomotiv Moscow,Premjer-Liga,RUS
+Russia,17,MF,GOLOVIN Aleksandr,GOLOVIN,TRUE,CSKA Moscow,Premjer-Liga,RUS
+Russia,18,MF,ZHIRKOV Yury,ZHIRKOV,TRUE,FC Zenit St. Petersburg,Premjer-Liga,RUS
+Russia,19,MF,SAMEDOV Alexander,SAMEDOV,TRUE,FC Spartak Moscow,Premjer-Liga,RUS
+Russia,20,GK,GABULOV Vladimir,GABULOV,FALSE,Club Brugge KV,First Division A,BEL
+Russia,21,MF,EROKHIN Aleksandr,EROKHIN,FALSE,FC Zenit St. Petersburg,Premjer-Liga,RUS
+Russia,22,FW,DZYUBA Artem,DZYUBA,TRUE,FC Arsenal Tula,Premjer-Liga,RUS
+Russia,23,DF,SMOLNIKOVIgor,SMOLNIKOV,TRUE,FC Zenit St. Petersburg,Premjer-Liga,RUS
+Saudi Arabia,1,GK,ABDULLAH ALMUAIOUF,Al-Mayouf,TRUE,Al Hilal SFC,Saudi Professional League,KSA
+Saudi Arabia,2,DF,MANSOUR ALHARBI,MANSOUR,FALSE,Al Ahli SC,Saudi Professional League,KSA
+Saudi Arabia,3,DF,OSAMA HAWSAWI,Os. Hawsawi,TRUE,Al Hilal SFC,Saudi Professional League,KSA
+Saudi Arabia,4,DF,ALI ALBULAYHI,Al-Bulaihi,TRUE,Al Hilal SFC,Saudi Professional League,KSA
+Saudi Arabia,5,DF,OMAR OTHMAN,OTHMAN,TRUE,Al Nassr FC,Saudi Professional League,KSA
+Saudi Arabia,6,DF,MOHAMMED ALBURAYK,ALBURAYK,TRUE,Al Hilal SFC,Saudi Professional League,KSA
+Saudi Arabia,7,MF,SALMAN ALFARAJ,Al-Faraj,TRUE,Al Hilal SFC,Saudi Professional League,KSA
+Saudi Arabia,8,MF,YAHIA ALSHEHRI,Al-Shehri,TRUE,CD Leganes,Primera Division,ESP
+Saudi Arabia,9,MF,hatan bahbir,Bahebri,TRUE,Al Shabab FC,Saudi Professional League,KSA
+Saudi Arabia,10,FW,MOHAMMED ALSAHLAWI,AL-SAHLAWI,TRUE,Al Nassr FC,Saudi Professional League,KSA
+Saudi Arabia,11,MF,ABDULMALEK ALKHAIBRI,ABDULMALEK,FALSE,Al Hilal SFC,Saudi Professional League,KSA
+Saudi Arabia,12,MF,MOHAMED KANNO,KANNO,TRUE,Al Hilal SFC,Saudi Professional League,KSA
+Saudi Arabia,13,DF,YASIR ALSHAHRANI,Al-Shahrani,TRUE,Al Hilal SFC,Saudi Professional League,KSA
+Saudi Arabia,14,MF,ABDULLAH OTAYF,OTAYF,TRUE,Al Hilal SFC,Saudi Professional League,KSA
+Saudi Arabia,15,MF,ABDULLAH ALKHAIBARI,ALKHAIBARI,FALSE,Al Shabab FC,Saudi Professional League,KSA
+Saudi Arabia,16,MF,HUSSAIN ALMOQAHWI,Al-Mogahwi,TRUE,Al Ahli SC,Saudi Professional League,KSA
+Saudi Arabia,17,MF,TAISEER ALJASSAM,Al-Jassim,TRUE,Al Ahli SC,Saudi Professional League,KSA
+Saudi Arabia,18,MF,SALEM ALDAWSARI,Al-Dawsari,TRUE,Villarreal CF,Primera Division,ESP
+Saudi Arabia,19,FW,fahad almuwallad,AL-Muwallad,TRUE,Levante UD,Primera Division,ESP
+Saudi Arabia,20,FW,MUHANNAD ASIRI,MUHANNAD,TRUE,Al Ahli SC,Saudi Professional League,KSA
+Saudi Arabia,21,GK,YASSER ALMOSAILEM,ALMOSAILEM,FALSE,Al Ahli SC,Saudi Professional League,KSA
+Saudi Arabia,22,GK,MOHAMMED ALOWAIS,ALOWAIS,FALSE,Al Ahli SC,Saudi Professional League,KSA
+Saudi Arabia,23,DF,MOTAZ HAWSAWI,M. Hawsawi,TRUE,Al Ahli SC,Saudi Professional League,KSA
+Senegal,3,DF,KOULIBALY Kalidou,KOULIBALY,TRUE,SSC Napoli,Serie A,ITA
+Germany,9,FW,WERNER Timo,Ti. WERNER,TRUE,RB Leipzig,Bundesliga,GER
+Senegal,8,MF,KOUYATE Cheikhou,KOUYATÉ,TRUE,West Ham United FC,Premier League,ENG
+Senegal,9,FW,DIOUFMame,M. DIOUF,TRUE,Stoke City FC,Premier League,ENG
+Senegal,10,FW,MANE Sadio,S. Mané,TRUE,Liverpool FC,Premier League,ENG
+Senegal,12,DF,SABALY Youssouf,SABALY,TRUE,FC Girondins Bordeaux,Ligue 1,FRA
+Senegal,14,FW,KONATE Moussa,KONATÉ,TRUE,Amiens SC,Ligue 1,FRA
+Senegal,19,FW,NIANG Mbaye,NIANG,TRUE,Torino FC,Serie A,ITA
+Senegal,22,DF,WAGUE Moussa,WAGUÉ,TRUE,KAS Eupen,First Division A,BEL
+Senegal,1,GK,DIALLO Abdoulaye,DIALLO,FALSE,Stade Rennais FC,Ligue 1,FRA
+Senegal,2,DF,Adama Mbengue,MBENGUE,FALSE,Stade Malherbe Caen,Ligue 1,FRA
+Senegal,4,DF,MBODJI Kara,MBODJI,FALSE,RSC Anderlecht,First Division A,BEL
+Senegal,5,MF,GUEYE Idrissa Gana,I. GUEYE,TRUE,Everton FC,Premier League,ENG
+Senegal,7,FW,SOW Moussa,SOW,FALSE,Bursaspor,Süper Lig,TUR
+Senegal,11,MF,NDOYE Cheikh,N'DOYE,TRUE,Birmingham City FC,Championship,ENG
+Senegal,13,MF,NDIAYE Alfred,A. N'DIAYE,TRUE,Wolverhampton Wanderers FC,Championship,ENG
+Senegal,15,FW,SAKHO Diafra,SAKHO,TRUE,Stade Rennais FC,Ligue 1,FRA
+Senegal,16,GK,NDIAYE Khadim,K. N'DIAYE,TRUE,Horoya AC,Guinée Championnat National,GUI
+Senegal,17,MF,NDIAYE Pape Alioune,P.A. N'DIAYE,FALSE,Stoke City FC,Premier League,ENG
+Senegal,18,FW,SARR Ismaila,SARR,TRUE,Stade Rennais FC,Ligue 1,FRA
+Senegal,20,FW,BALDE Keita,BALDE,TRUE,AS Monaco,Ligue 1,FRA
+Senegal,21,DF,GASSAMA Lamine,GASSAMA,TRUE,Adanaspor,Süper Lig,TUR
+Senegal,23,GK,GOMIS Alfred,GOMIS,FALSE,SPAL Ferrara,Serie A,ITA
+Serbia,1,GK,STOJKOVIC Vladimir,STOJKOVIC,TRUE,FK Partizan,SuperLiga,SRB
+Serbia,2,DF,RUKAVINA Antonio,RUKAVINA,TRUE,Villarreal CF,Primera Division,ESP
+Serbia,3,DF,TOSIC Dusko,D. TOSIC,TRUE,Besiktas JK,Süper Lig,TUR
+Serbia,4,MF,MILIVOJEVIC Luka,MILIVOJEVIC,TRUE,Crystal Palace FC,Premier League,ENG
+Serbia,5,DF,SPAJIC Uros,SPAJlC,FALSE,RSC Anderlecht,First Division A,BEL
+Serbia,6,DF,IVANOVIC Branislav,IVANOVIC,TRUE,FC Zenit St. Petersburg,Premjer-Liga,RUS
+Serbia,7,MF,ZIVKOVIC Andrija,ZIVKOVIC,TRUE,SL Benfica,Primeira Liga,POR
+Serbia,8,FW,PRIJOVIC Aleksandar,PRIJOVIC,TRUE,PAOK FC,Super League,GRE
+Serbia,9,FW,MITROVIC Aleksandar,MITROVIC,TRUE,Fulham FC,Championship,ENG
+Serbia,10,MF,TADIC Dusan,TADIC,TRUE,Southampton FC,Premier League,ENG
+Serbia,11,DF,KOLAROV Aleksandar,KOLAROV,TRUE,AS Roma,Serie A,ITA
+Serbia,12,GK,RAJKOVIC Predrag,RAJKOVIC,FALSE,Maccabi Tel-Aviv FC,Israeli Premier League,ISR
+Sweden,10,MF,FORSBERG Emil,FORSBERG,TRUE,RB Leipzig,Bundesliga,GER
+Serbia,14,DF,RODIC Milan,RODIC,FALSE,FK Crvena Zvezda,SuperLiga,SRB
+Serbia,15,DF,MILENKOVIC Nikola,MILENKOVIC,TRUE,ACF Fiorentina,Serie A,ITA
+Serbia,16,MF,GRUJIC Marko,GRUJlC,FALSE,Cardiff City FC,Championship,WAL
+Denmark,8,MF,DELANEY Thomas,DELANEY,TRUE,SV Werder Bremen,Bundesliga,GER
+Serbia,18,FW,RADONJIC Nemanja,RADONJIC,TRUE,FK Crvena Zvezda,SuperLiga,SRB
+Serbia,13,DF,VELJKOVIC Milos,VELJKOVIC,TRUE,SV Werder Bremen,Bundesliga,GER
+Serbia,20,MF,MILINKOVIC-SAVIC Sergej,SERGEJ,TRUE,SS Lazio,Serie A,ITA
+Serbia,21,MF,MATIC Nemanja,MATIC,TRUE,Manchester United FC,Premier League,ENG
+Serbia,22,MF,LJAJIĆ  Adem,LJAJIC,TRUE,Torino FC,Serie A,ITA
+Serbia,23,GK,DMITROVIC Marko,DMITROVlC,FALSE,SD Eibar,Primera Division,ESP
+Spain,1,GK,DE GEA David,DE GEA,TRUE,Manchester United FC,Premier League,ENG
+Spain,2,DF,CARVAJAL Dani,CARVAJAL,TRUE,Real Madrid CF,Primera Division,ESP
+Spain,3,DF,PIQUE Gerard,PIQUÉ,TRUE,FC Barcelona,Primera Division,ESP
+Spain,4,DF,NACHO,NACHO,TRUE,Real Madrid CF,Primera Division,ESP
+Spain,5,MF,BUSQUETS Sergio,BUSQUETs,TRUE,FC Barcelona,Primera Division,ESP
+Spain,6,MF,INIESTA Andres,INIESTA,TRUE,FC Barcelona,Primera Division,ESP
+Spain,7,MF,SAUL,SAUL,FALSE,Atletico Madrid,Primera Division,ESP
+Spain,8,MF,KOKE,KOKE,TRUE,Atletico Madrid,Primera Division,ESP
+Spain,9,FW,RODRIGO,RODRIGO Moreno,TRUE,Valencia CF,Primera Division,ESP
+Sweden,6,DF,AUGUSTINSSON Ludwig,AUGUSTINSSON,TRUE,SV Werder Bremen,Bundesliga,GER
+Spain,11,FW,VAZQUEZ Lucas,LUCAS V.,TRUE,Real Madrid CF,Primera Division,ESP
+Spain,12,DF,ODRIOZOLA Alvaro,ODRIOZOLA,FALSE,Real Sociedad,Primera Division,ESP
+Spain,13,GK,ARRIZABALAGA Kepa,ARRIZABALAGA,FALSE,Athletic Bilbao,Primera Division,ESP
+Spain,14,DF,AZPILICUETA Cesar,AZPILICUETA,FALSE,Chelsea FC,Premier League,ENG
+Spain,15,DF,RAMOS Sergio,RAMOS,TRUE,Real Madrid CF,Primera Division,ESP
+Spain,16,DF,MONREAL Nacho,MONREAL,FALSE,Arsenal FC,Premier League,ENG
+Spain,17,FW,AS PAS lago,IAGO ASPAS,TRUE,Celta Vigo,Primera Division,ESP
+Spain,18,DF,ALBA Jordi,JORDI ALBA,TRUE,FC Barcelona,Primera Division,ESP
+Spain,19,FW,COSTA Diego,DIEGO COSTA,TRUE,Atletico Madrid,Primera Division,ESP
+Spain,20,MF,ASENSIO Marco,ASENSIO,TRUE,Real Madrid CF,Primera Division,ESP
+Spain,21,FW,SILVA David,SILVA,TRUE,Manchester City FC,Premier League,ENG
+Spain,22,MF,ISCO,ISCO,TRUE,Real Madrid CF,Primera Division,ESP
+Spain,23,GK,REINA Pepe,REINA,FALSE,SSC Napoli,Serie A,ITA
+Sweden,1,GK,OLSEN Robin,OLSEN,TRUE,FC Kobenhavn,Danish Superliga,DEN
+Sweden,2,DF,LUSTIG Mikael,LUSTIG,TRUE,Celtic FC,Premier League,SCO
+Sweden,3,DF,LI NDELOF Victor,LINDELÖF,TRUE,Manchester United FC,Premier League,ENG
+Sweden,4,DF,GRANQVIST Andreas,GRANQVIST,TRUE,FC Krasnodar,Premjer-Liga,RUS
+Sweden,5,DF,OLSSON Martin,OLSSON,FALSE,Swansea City AFC,Premier League,WAL
+Croatia,9,FW,KRAMARIC Andrej,KRAMARIC,TRUE,TSG 1899 Hoffenheim,Bundesliga,GER
+Sweden,7,MF,LARSSON Sebastian,LARSSON,TRUE,Hull City FC,Championship,ENG
+Switzerland,14,MF,ZUBER Steven,ZUBER,TRUE,TSG 1899 Hoffenheim,Bundesliga,GER
+Sweden,9,FW,BERG Marcus,BERG,TRUE,Al Ain FC,Premier League,UAE
+France,2,DF,PAVARD Benjamin,PAVARD,TRUE,VfB Stuttgart,Bundesliga,GER
+Sweden,11,FW,GUIDETTI John,GUIDETTI,TRUE,Deportivo Alaves,Primera Division,ESP
+Sweden,12,GK,JOHNSSON Karl-Johan,JOHNSSON,FALSE,EA Guingamp,Ligue 1,FRA
+Sweden,13,MF,SVENSSON Gustav,G. SVENSSON,TRUE,Seattle Sounders FC,Major League Soccer,USA
+Sweden,14,DF,HELANDER Filip,HELANDER,FALSE,Bologna FC,Serie A,ITA
+Sweden,15,MF,HILJEMARK Oscar,HILJEMARK,TRUE,Genoa CFC,Serie A,ITA
+Sweden,16,DF,KRAFTH Emil,KRAFTH,FALSE,Bologna FC,Serie A,ITA
+Sweden,17,MF,CLAESSON Viktor,CLAESSON,TRUE,FC Krasnodar,Premjer-Liga,RUS
+Sweden,18,DF,JANSSON Pontus,JANSSON,TRUE,Leeds United FC,Championship,ENG
+Sweden,19,MF,ROHDEN Marcus,ROHDEN,FALSE,FC Crotone,Serie A,ITA
+Sweden,20,FW,TOIVONEN Ola,TOIVONEN,TRUE,Toulouse FC,Ligue 1,FRA
+Sweden,21,MF,DURMAZ Jimmy,DURMAZ,TRUE,Toulouse FC,Ligue 1,FRA
+Sweden,22,FW,THELIN Isaac Kiese,KIESE THELIN,TRUE,KV Waasland-Beveren,First Division A,BEL
+Sweden,23,GK,NORDFELDT Kristoffer,NORDFELDT,FALSE,Swansea City AFC,Premier League,WAL
+Germany,23,FW,GOMEZ Mario,GOMEZ,TRUE,VfB Stuttgart,Bundesliga,GER
+Switzerland,2,DF,LICHTSTEINER Stephan,LICHTSTEINER,TRUE,Juventus FC,Serie A,ITA
+Switzerland,3,DF,MOUBANDJE Francois,MOUBANDJE,FALSE,Toulouse FC,Ligue 1,FRA
+Switzerland,4,DF,ELVEDI Nico,ELVEDI,FALSE,VfL Borussia Monchengladbach,Bundesliga,GER
+Belgium,16,MF,FIAZARD Thorgan,T. HAZARD,TRUE,VfL Borussia Monchengladbach,Bundesliga,GER
+Switzerland,6,DF,LANG Michael,LANG,TRUE,FC Basel,Super League,SUI
+Switzerland,1,GK,SOMMER Yann,SOMMER,TRUE,VfL Borussia Monchengladbach,Bundesliga,GER
+Switzerland,8,MF,FREULER Remo,FREULER,FALSE,Atalanta Bergamo,Serie A,ITA
+Switzerland,9,FW,SEFEROVIC Haris,SEFEROVIC,TRUE,SL Benfica,Primeira Liga,POR
+Switzerland,10,MF,XHAKA Granit,XHAKA,TRUE,Arsenal FC,Premier League,ENG
+Switzerland,11,MF,BEHRAMI Valon,BEHRAMI,TRUE,Udinese Calcio,Serie A,ITA
+Switzerland,12,GK,MVOGO Yvon,MVOGO,FALSE,RB Leipzig,Bundesliga,GER
+Switzerland,13,DF,RODRIGUEZ Ricardo,RODRIGUEZ,TRUE,AC Milan,Serie A,ITA
+Switzerland,17,MF,ZAKARIA Denis,ZAKARIA,TRUE,VfL Borussia Monchengladbach,Bundesliga,GER
+Switzerland,15,MF,DZEMAILI Blerim,DZEMAILI,TRUE,Bologna FC,Serie A,ITA
+Switzerland,16,MF,FERNANDES Gelson,G. FERNANDES,FALSE,Eintracht Frankfurt,Bundesliga,GER
+Switzerland,19,FW,DRMIC Josip,DRMIC,TRUE,VfL Borussia Monchengladbach,Bundesliga,GER
+Switzerland,18,FW,GAVRANOVIC Mario,GAVRANOVIC,TRUE,GNK Dinamo Zagreb,1. HNL,CRO
+Poland,16,MF,BLASZCZYKOWSKI Jakub,BLASZCZYKOWSKI,TRUE,VfL Wolfsburg,Bundesliga,GER
+Switzerland,20,DF,DJOUROU Johan,DJOUROU,FALSE,Antalyaspor AS,Süper Lig,TUR
+Switzerland,21,GK,BUERKI Roman,BURKI,FALSE,Borussia Dortmund,Bundesliga,GER
+Switzerland,22,DF,SCHAER Fabian,SCHÄR,TRUE,Deportivo La Coruna,Primera Division,ESP
+Switzerland,23,MF,SHAQIRI Xherdan,SHAQIRI,TRUE,Stoke City FC,Premier League,ENG
+Tunisia,1,GK,BEN MUSTAPHA Farouk,BEN MUSTAPHA,TRUE,Al Shabab FC,Saudi Professional League,KSA
+Tunisia,2,DF,BEN YOUSSEF Syam,S. BEN YOUSSEF,TRUE,Kasimpasa SK,Süper Lig,TUR
+Tunisia,3,DF,BEN ALOUANE Yohan,BENALOUANE,TRUE,Leicester City FC,Premier League,ENG
+Tunisia,4,DF,MERIAH Yassine,MERIAH,TRUE,CS Sfaxien,Ligue 1,TUN
+Tunisia,5,DF,HADDADI Oussama,HADDADI,TRUE,Dijon FCO,Ligue 1,FRA
+Tunisia,6,DF,BEDOUI Rami,BEDOUI,TRUE,litoile du Sahel,Ligue 1,TUN
+Tunisia,7,FW,KFIAOUI Saifeddine,KHAOUI,TRUE,ES Troyes,Ligue 1,FRA
+Tunisia,8,FW,BEN YOUSSEF Fakhreddine,F. BEN YOUSSEF,TRUE,Al-lttihad FC,Saudi Professional League,KSA
+Tunisia,9,MF,BADRI An ice,BADRI,TRUE,ES Tunis,Ligue 1,TUN
+Tunisia,10,FW,KHAZRI Wahbi,KHAZRI,TRUE,Stade Rennais FC,Ligue 1,FRA
+Tunisia,11,DF,BRONN Dylan,BRONN,TRUE,KAA Gent,First Division A,BEL
+Tunisia,12,DF,MAALOUL AN,MAALOUL,TRUE,Al Ahly SC,Premier League,EGY
+Tunisia,13,MF,SASSI Ferjani,SASSI,TRUE,Al Nassr FC,Saudi Professional League,KSA
+Tunisia,14,MF,BEN AMOR Mohamed,BEN AMOR,TRUE,Al Ahli SC,Saudi Professional League,KSA
+Tunisia,15,FW,KHALIL Ahmed,KHALIL,TRUE,Club Africain,Ligue 1,TUN
+Tunisia,16,GK,MATHLOUTHI Aymen,A. MATHLOUTHI,TRUE,Al Batin FC,Saudi Professional League,KSA
+Tunisia,17,MF,SKHIRI Ellyes,SKHIRI,TRUE,Montpellier HSC,Ligue 1,FRA
+Tunisia,18,FW,SRARFI Bassem,SRARFI,TRUE,OGC Nice,Ligue 1,FRA
+Tunisia,19,FW,KHALIFA Saber,KHALIFA,TRUE,Club Africain,Ligue 1,TUN
+Tunisia,20,FW,CHAALELI Ghaylen,CHAALELI,TRUE,ES Tunis,Ligue 1,TUN
+Tunisia,21,DF,NAGUEZ Hamdi,NAGGUEZ,TRUE,Zamalek,Premier League,EGY
+Tunisia,22,GK,HASSEN Mouez,HASSEN,TRUE,LB Chateauroux,Ligue 2,FRA
+Tunisia,23,FW,SLITI Naim,SLITI,TRUE,Dijon FCO,Ligue 1,FRA
+Uruguay,1,GK,MUSLERA Fernando,MUSLERA,TRUE,Galatasaray SK,Süper Lig,TUR
+Uruguay,2,DF,GIMENEZ Jose,GIMENEZ,TRUE,Atletico Madrid,Primera Division,ESP
+Uruguay,3,DF,GODIN Diego,GODIN,TRUE,Atletico Madrid,Primera Division,ESP
+Uruguay,4,DF,VARELA Guillermo,VARELA,TRUE,CA Penarol,Primera Division,URU
+Uruguay,5,MF,SANCHEZ Carlos,SANCHEZ,TRUE,CF Monterrey,Primera Division,MEX
+Uruguay,6,MF,BENTANCUR Rodrigo,BENTANCUR,TRUE,Juventus FC,Serie A,ITA
+Uruguay,7,MF,RODRIGUEZ Cristian,C. RODRIGUEZ,TRUE,CA Penarol,Primera Division,URU
+Uruguay,8,MF,NANDEZ Nahitan,NANDEZ,TRUE,CA Boca Juniors,Primera Division,ARG
+Uruguay,9,FW,SUAREZ Luis,SUAREZ,TRUE,FC Barcelona,Primera Division,ESP
+Uruguay,10,FW,DE ARRASCAETA Giorgian,DE ARRASCAETA,TRUE,Cruzeiro EC,Serie A,BRA
+Uruguay,11,FW,STUANI Cristhian,STUANI,FALSE,Girona FC,Primera Division,ESP
+Uruguay,12,GK,CAMPANA Martin,CAMPANA,FALSE,CA Independiente,Primera Division,ARG
+Uruguay,13,DF,SILVA Gaston,G. SILVA,FALSE,CA Independiente,Primera Division,ARG
+Uruguay,14,MF,TORREIRA Lucas,TORREIRA,TRUE,UC Sampdoria,Serie A,ITA
+Uruguay,15,MF,VECINO Matias,VECINO,TRUE,FC Internazionale,Serie A,ITA
+Uruguay,16,DF,PEREIRA Maximiliano,M. PEREIRA,FALSE,FC Porto,Primeira Liga,POR
+Uruguay,17,MF,LAXALT Diego,LAXALT,TRUE,Genoa CFC,Serie A,ITA
+Uruguay,18,FW,GOMEZ Maximiliano,Maxi GOMEZ,TRUE,Celta Vigo,Primera Division,ESP
+Uruguay,19,DF,COATES Sebastian,COATES,TRUE,Sporting CP,Primeira Liga,POR
+Uruguay,20,FW,URRETAVISCAYA Jonathan,URRETAVISCAYA,FALSE,CF Monterrey,Primera Division,MEX
+Uruguay,21,FW,CAVANI Edinson,CAVANI,TRUE,Paris Saint-Germain FC,Ligue 1,FRA
+Uruguay,22,DF,CACERES Martin,CACERES,TRUE,SS Lazio,Serie A,ITA
+Uruguay,23,GK,SILVA Martin,M. SILVA,FALSE,CR Vasco da Gama,Serie A,BRA

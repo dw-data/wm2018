@@ -1,0 +1,737 @@
+FIFA Display Name,Spieler,Minutes_played,POS,DoB,Club,Club_Country,Club_Liga1,Nationalmannschaft,WM_Tore_NM,WM_Gegentore_NM,Tordifferenz,Gruppenphase_1,Gruppenphase_2,Gruppenphase_3,Punkte_Gruppenphase
+Mitch LANGERAK,LANGERAK,0,GK,22.08.88,Borussia Dortmund,GER,Bundesliga,Australia,3,9,-6,0,0,0,0
+Daniel VAN BUYTEN,VAN BUYTEN,480,DF,07.02.78,FC Bayern München,GER,Bundesliga,Belgium,4,1,3,3,3,3,9
+Kevin DE BRUYNE,DE BRUYNE,390,MF,28.06.91,VfL Wolfsburg,GER,Bundesliga,Belgium,4,1,3,3,3,3,9
+Emir SPAHIC,SPAHIC,270,DF,18.08.80,Bayer 04 Leverkusen,GER,Bundesliga,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Sead KOLASINAC,KOLASINAC,180,DF,20.06.93,FC Schalke 04,GER,Bundesliga,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Vedad IBISEVIC,IBISEVIC,144,FW,06.08.84,VfB Stuttgart,GER,Bundesliga,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Sejad SALI HO VIC,SALIHOVIC,43,MF,08.10.84,TSG 1899 Hoffenheim,GER,Bundesliga,Bosnia and Herzegovina,4,4,0,0,0,3,3
+LUIZ GUSTAVO,L GUSTAVO,0,MF,23.07.87,VfL Wolfsburg,GER,Bundesliga,Brazil,7,2,5,3,1,3,7
+DANTE,DANTE,90,DF,18.10.83,FC Bayern München,GER,Bundesliga,Brazil,7,2,5,3,1,3,7
+Eric CHOUPO MOTING,CHOUPO,246,FW,23.03.89,FSV Mainz 05,GER,Bundesliga,Cameroon,1,9,-8,0,0,0,0
+Joel MATIP,MATIP,180,MF,08.08.91,FC Schalke 04,GER,Bundesliga,Cameroon,1,9,-8,0,0,0,0
+Adrian RAMOS,RAMOS,270,FW,22.01.86,Hertha BSC,GER,Bundesliga,Colombia,9,2,7,3,3,3,9
+Junior DIAZ,DIAZ J,510,DF,12.09.83,FSV Mainz 05,GER,Bundesliga,Costa Rica,4,1,3,3,3,1,7
+Konan YA,YA KONAN,0,MF,22.05.84,Hannover 96,GER,Bundesliga,Cote d'Ivoire,4,5,-1,3,0,0,3
+Arthur BOKA,BOKA,255,DF,02.04.83,VfB Stuttgart,GER,Bundesliga,Cote d'Ivoire,4,5,-1,3,0,0,3
+ConstantDJAKPA,DJAKPA,15,DF,17.10.86,Eintracht Frankfurt,GER,Bundesliga,Cote d'Ivoire,4,5,-1,3,0,0,3
+Ivan PERISIC,PERISIC,258,MF,02.02.89,VfL Wolfsburg,GER,Bundesliga,Croatia,6,4,2,0,3,0,3
+Ivica OLIC,OLIC,228,FW,14.09.79,VfL Wolfsburg,GER,Bundesliga,Croatia,6,4,2,0,3,0,3
+Mario MANDZUKIC,MANDZUKIC,180,FW,21.05.86,FC Bayern München,GER,Bundesliga,Croatia,6,4,2,0,3,0,3
+Carlos GRUEZO,GRUEZO,97,MF,19.04.95,VfB Stuttgart,GER,Bundesliga,Ecuador,3,3,0,0,3,1,4
+Ron0Robert ZIELER,ZIELER,0,GK,12.02.89,Hannover 96,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Roman WEIDENFELLER,WEIDENFELLER,0,GK,06.08.80,Borussia Dortmund,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Kevin GROSSKREUTZ,GROSSKREUTZ,0,DF,19.07.88,Borussia Dortmund,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Erik DURM,DURM,0,DF,12.05.92,Borussia Dortmund,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Benedikt HOEWEDES,HOEWEDES,690,DF,29.02.88,FC Schalke 04,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Manuel NEUER,NEUER,690,GK,27.03.86,FC Bayern München,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Philipp LAHM,LAHM,690,MF,11.11.83,FC Bayern München,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Toni KROOS,KROOS,690,MF,04.01.90,FC Bayern München,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Thomas MUELLER,MÜLLER,682,FW,13.09.89,FC Bayern München,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Jerome BOATENG,BOATENG,646,DF,03.09.88,FC Bayern München,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Mats HUMMELS,HUMMELS,509,DF,16.12.88,Borussia Dortmund,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Bastian SCHWEIN STEIGER,SCHWEINSTEIGER,505,MF,01.08.84,FC Bayern München,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Mario GOETZE,GÖTZE,258,FW,03.06.92,FC Bayern München,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Christoph KRAMER,KRAMER,43,MF,19.02.91,Borussia Mönchengladbach,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Julian DRAXLER,DRAXLER,14,MF,20.09.93,FC Schalke 04,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Kevin Prince BOATENG,BOATENG,646,FW,06.03.87,FC Schalke 04,GER,Bundesliga,Ghana,4,6,-2,0,1,0,1
+Sokratis PAPASTATHO POULOS,SOKRATIS,390,DF,09.06.88,Borussia Dortmund,GER,Bundesliga,Greece,2,4,-2,0,1,3,4
+Gotoku SAKAI,G. SAKAI,0,DF,14.03.91,VfB Stuttgart,GER,Bundesliga,Japan,2,6,-4,0,1,0,1
+Hiroki SAKAI,H. SAKAI,0,DF,12.04.90,Hannover 96,GER,Bundesliga,Japan,2,6,-4,0,1,0,1
+Atsuto UCHIDA,UCHIDA,270,DF,27.03.88,FC Schalke 04,GER,Bundesliga,Japan,2,6,-4,0,1,0,1
+Shinji OKAZAKI,OKAZAKI,249,FW,16.04.86,FSV Mainz 05,GER,Bundesliga,Japan,2,6,-4,0,1,0,1
+PARK Jooho,J H PARK,0,DF,16.01.87,FSV Mainz 05,GER,Bundesliga,Korea Republic,3,6,-3,1,0,0,1
+KOO Jacheol,J C KOO,270,FW,27.02.89,FSV Mainz 05,GER,Bundesliga,Korea Republic,3,6,-3,1,0,0,1
+HONG Jeongho,J H HONG,253,DF,12.08.89,FC Augsburg,GER,Bundesliga,Korea Republic,3,6,-3,1,0,0,1
+SON Heungmin,H M SON,247,MF,08.07.92,Bayer 04 Leverkusen,GER,Bundesliga,Korea Republic,3,6,-3,1,0,0,1
+Jl Dongwon,D W JI,29,MF,28.05.91,FC Augsburg,GER,Bundesliga,Korea Republic,3,6,-3,1,0,0,1
+Andres GUARDADO,GUARDADO,333,DF,28.09.86,Bayer 04 Leverkusen,GER,Bundesliga,Mexico,4,1,3,3,1,3,7
+Arjen ROBBEN,ROBBEN,690,FW,23.01.84,FC Bayern München,GER,Bundesliga,Netherlands,10,3,7,3,3,3,9
+Paul VERHAEGH,VERHAEGH,56,DF,01.09.83,FC Augsburg,GER,Bundesliga,Netherlands,10,3,7,3,3,3,9
+Klaas Jan HUNTELAAR,HUNTELAAR,52,FW,12.08.83,FC Schalke 04,GER,Bundesliga,Netherlands,10,3,7,3,3,3,9
+VIEIRINHA,VIEIRINHA,21,FW,24.01.86,VfL Wolfsburg,GER,Bundesliga,Portugal,4,7,-3,0,1,3,4
+Javi MARTINEZ,JAVI MARTINEZ,90,MF,02.09.88,FC Bayern München,GER,Bundesliga,Spain,4,7,-3,0,0,3,3
+Tranquillo BARNETTA,BARNETTA,0,MF,22.05.85,Eintracht Frankfurt,GER,Bundesliga,Switzerland,7,6,1,3,0,3,6
+Ricardo RODRIGUEZ,RODRIGUEZ,399,DF,25.08.92,VfL Wolfsburg,GER,Bundesliga,Switzerland,7,6,1,3,0,3,6
+Diego BENAGLIO,BENAGLIO,390,GK,08.09.83,VfL Wolfsburg,GER,Bundesliga,Switzerland,7,6,1,3,0,3,6
+Johan DJOUROU,DJOUROU,390,DF,18.01.87,Hamburger SV,GER,Bundesliga,Switzerland,7,6,1,3,0,3,6
+Xherdan SHAQIRI,SHAQIRI,387,MF,10.10.91,FC Bayern München,GER,Bundesliga,Switzerland,7,6,1,3,0,3,6
+GranitXHAKA,XHAKA,323,MF,27.09.92,Borussia Mönchengladbach,GER,Bundesliga,Switzerland,7,6,1,3,0,3,6
+Fabian JOHNSON,F JOHNSON,302,DF,11.12.87,TSG 1899 Hoffenheim,GER,Bundesliga,USA,4,4,0,3,1,0,4
+John BROOKS,BROOKS,44,DF,28.01.93,Hertha BSC,GER,Bundesliga,USA,4,4,0,3,1,0,4
+Julian GREEN,GREEN,13,MF,06.06.95,FC Bayern München,GER,Bundesliga,USA,4,4,0,3,1,0,4
+Mensur MUJDZA,MUJDZA,159,MF,28.03.84,SC Freiburg,GER,Bundesliga,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Matthias GINTER,GINTER,0,DF,19.01.94,SC Freiburg,GER,Bundesliga,Germany,7,2,5,3,1,3,7
+Admir MEHMEDI,MEHMEDI,337,FW,16.03.91,SC Freiburg,GER,Bundesliga,Switzerland,7,6,1,3,0,3,6
+Gelson FERNANDES,FERNANDES,54,MF,02.09.86,SC Freiburg,GER,Bundesliga,Switzerland,7,6,1,3,0,3,6
+Rais MBOLHI,RAIS,390,GK,25.04.86,CSKA Sofia,BUL,1. Division,Algeria,6,5,1,0,3,1,4
+Andrey ESHCHENKO,ESHCHENKO,118,DF,09.02.84,FC Anzhi Makhachkala,RUS,1. Division,Russia,2,3,-1,1,0,1,2
+El Arabi SOUDANI,SOUDANI,167,FW,25.11.87,GNK Dinamo Zagreb,CRO,1. HNL,Algeria,6,5,1,0,3,1,4
+Tino SVen SUSIC,SUSIC,105,MF,13.02.92,HNK Hajduk Split,CRO,1. HNL,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Avdija VRSAJEVIC,VRSAJEVIC,90,MF,06.03.86,HNK Hajduk Split,CRO,1. HNL,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Oliver ZELENIKA,ZELENIKA,0,GK,14.05.93,NK Lokomotiva Zagreb,CRO,1. HNL,Croatia,6,4,2,0,3,0,3
+Ivan MOCINIC,MOCINIC,0,MF,30.04.93,HNK Rijeka,CRO,1. HNL,Croatia,6,4,2,0,3,0,3
+Marcelo BROZOVIC,BROZOVIC,29,MF,16.11.92,GNK Dinamo Zagreb,CRO,1. HNL,Croatia,6,4,2,0,3,0,3
+Ognjen VRANJES,VRANJES,29,DF,24.10.89,Elazigspor,TUR,1. Lig,Bosnia and Herzegovina,4,4,0,0,0,3,3
+En oh EYONG,ENOH,270,MF,23.03.86,Antalyaspor AS,TUR,Süper Lig,Cameroon,1,9,-8,0,0,0,0
+Alexandras TZIOLIS,TZIOLIS,0,MF,13.02.85,Kayserispor,TUR,Süper Lig,Greece,2,4,-2,0,1,3,4
+Aissa MANDI,MANDI,300,DF,22.10.91,Stade de Reims,FRA,Ligue 1,Algeria,6,5,1,0,3,1,4
+Sergio ROMERO,ROMERO,720,GK,22.02.87,AS Monaco,FRA,Ligue 1,Argentina,6,3,3,3,3,3,9
+Ezequiel LAVEZZI,LAVEZZI,358,FW,03.05.85,Paris Saint0Germain FC,FRA,Ligue 1,Argentina,6,3,3,3,3,3,9
+Divock ORIGI,ORIGI,245,FW,18.04.95,Lille OSC,FRA,Ligue 1,Belgium,4,1,3,3,3,3,9
+Thiago SILVA,T SILVA,570,DF,22.09.84,Paris Saint0Germain FC,FRA,Ligue 1,Brazil,7,2,5,3,1,3,7
+MAXWELL,MAXWELL,90,DF,27.08.81,Paris Saint0Germain FC,FRA,Ligue 1,Brazil,7,2,5,3,1,3,7
+Nicolas NKOULOU,NKOULOU,270,DF,27.03.90,Olympique Marseille,FRA,Ligue 1,Cameroon,1,9,-8,0,0,0,0
+Vincent ABOUBAKAR,ABOUBAKAR,142,FW,22.01.92,FC Lorient,FRA,Ligue 1,Cameroon,1,9,-8,0,0,0,0
+James RODRIGUEZ,RODRIGUEZ,399,MF,12.07.91,AS Monaco,FRA,Ligue 1,Colombia,9,2,7,3,3,3,9
+Abel AGUlLAR,AGUILAR,238,MF,06.01.85,Toulouse FC,FRA,Ligue 1,Colombia,9,2,7,3,3,3,9
+Jean Daniel AKPA,AKPA,0,DF,11.10.92,Toulouse FC,FRA,Ligue 1,Cote d'Ivoire,4,5,-1,3,0,0,3
+Serge AURIER,S. AURIER,270,DF,24.12.92,Toulouse FC,FRA,Ligue 1,Cote d'Ivoire,4,5,-1,3,0,0,3
+Salomon KALOU,Salomon Kalou,203,FW,05.08.85,Lille OSC,FRA,Ligue 1,Cote d'Ivoire,4,5,-1,3,0,0,3
+Max GRADEL,GRADEL,67,MF,30.11.87,AS Saint0Etienne,FRA,Ligue 1,Cote d'Ivoire,4,5,-1,3,0,0,3
+Ismael DIOMANDE,DIOMANDE,12,MF,28.08.92,AS Saint0Etienne,FRA,Ligue 1,Cote d'Ivoire,4,5,-1,3,0,0,3
+Danijel SUBASIC,SUBASIC,0,GK,27.10.84,AS Monaco,FRA,Ligue 1,Croatia,6,4,2,0,3,0,3
+Stephane RUFFIER,RUFFIER,0,GK,27.09.86,AS Saint0Etienne,FRA,Ligue 1,France,8,2,6,3,3,1,7
+Mickael LANDREAU,LANDREAU,0,GK,14.05.79,SC Bastia,FRA,Ligue 1,France,8,2,6,3,3,1,7
+Remy CAB EL LA,CABELLA,0,FW,08.03.90,Montpellier HSC,FRA,Ligue 1,France,8,2,6,3,3,1,7
+Blaise MATUIDI,MATUIDI,427,MF,09.04.87,Paris Saint0Germain FC,FRA,Ligue 1,France,8,2,6,3,3,1,7
+Mathieu VALBUENA,VALBUENA,335,MF,28.09.84,Olympique Marseille,FRA,Ligue 1,France,8,2,6,3,3,1,7
+Yohan CAB AYE,CABAYE,318,MF,14.01.86,Paris Saint0Germain FC,FRA,Ligue 1,France,8,2,6,3,3,1,7
+Lucas DIGNE,DIGNE,90,DF,20.07.93,Paris Saint0Germain FC,FRA,Ligue 1,France,8,2,6,3,3,1,7
+Rio MAVUBA,Rio Mavuba,25,MF,08.03.84,Lille OSC,FRA,Ligue 1,France,8,2,6,3,3,1,7
+Jonathan MENSAH,JONATHAN,270,DF,13.07.90,Evian TG FC,FRA,Ligue 1,Ghana,4,6,-2,0,1,0,1
+Andre AYEW,A. AYEW,261,MF,17.12.89,Olympique Marseille,FRA,Ligue 1,Ghana,4,6,-2,0,1,0,1
+Marco VERRATTI,VERRATTI,132,MF,05.11.92,Paris Saint0Germain FC,FRA,Ligue 1,Italy,2,4,-2,3,0,0,3
+Thiago MOTTA,THIAGO MOTTA,94,MF,28.08.82,Paris Saint0Germain FC,FRA,Ligue 1,Italy,2,4,-2,3,0,0,3
+Salvatore SIRIGU,SIRIGU,90,GK,12.01.87,Paris Saint0Germain FC,FRA,Ligue 1,Italy,2,4,-2,3,0,0,3
+Vincent ENYEAMA,ENYEAMA,360,GK,29.08.82,Lille OSC,FRA,Ligue 1,Nigeria,3,3,0,1,3,0,4
+Joao MOUTINHO,J. MOUTINHO,270,MF,08.09.86,AS Monaco,FRA,Ligue 1,Portugal,4,7,-3,0,1,3,4
+Edinson CAVANI,CAVANI,360,FW,14.02.87,Paris Saint0Germain FC,FRA,Ligue 1,Uruguay,4,4,0,0,3,3,6
+Alejandro BEDOYA,BEDOYA,285,MF,29.04.87,FC Nantes,FRA,Ligue 1,USA,4,4,0,3,1,0,4
+Edgar SALLI,SALLI,47,MF,17.08.92,Lens,FRA,Ligue 1,Cameroon,1,9,-8,0,0,0,0
+Mathew LECKIE,LECKIE,270,FW,04.02.91,FSV Frankfurt,GER,2. Bundesliga,Australia,3,9,-6,0,0,0,0
+Ben HALLORAN,HALLORAN,87,FW,14.06.92,Fortuna Düsseldorf,GER,2. Bundesliga,Australia,3,9,-6,0,0,0,0
+Jasmin FEJZIC,FEJZIC,0,GK,15.05.86,VfR Aalen,GER,2. Bundesliga,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Ermin BICAKCIC,BICAKCIC,90,DF,24.01.90,Eintracht Braunschweig,GER,2. Bundesliga,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Mathis BOLLY,BOLLY,17,MF,14.11.90,Fortuna Düsseldorf,GER,2. Bundesliga,Cote d'Ivoire,4,5,-1,3,0,0,3
+Daniel DAVAR 1,DAVAR 1,0,GK,06.01.88,Eintracht Braunschweig,GER,2. Bundesliga,Iran,1,4,-3,1,0,0,1
+Makoto HASEBE,HASEBE,190,MF,18.01.84,1. FC Nürnberg,GER,2. Bundesliga,Japan,2,6,-4,0,1,0,1
+Yuya OSAKO,OSAKO,124,FW,18.05.90,TSV 1860 München,GER,2. Bundesliga,Japan,2,6,-4,0,1,0,1
+Hiroshi KIYOTAKE,KIYOTAKE,5,FW,12.11.89,1. FC Nürnberg,GER,2. Bundesliga,Japan,2,6,-4,0,1,0,1
+Josip DRMIC,DRMIC,251,FW,08.08.92,1. FC Nürnberg,GER,2. Bundesliga,Switzerland,7,6,1,3,0,3,6
+Timmy CHANDLER,CHANDLER,0,DF,29.03.90,1. FC Nürnberg,GER,2. Bundesliga,USA,4,4,0,3,1,0,4
+Sammy NDJOCK,NDJOCK,0,GK,25.02.90,Fethiyespor,TUR,Second League,Cameroon,1,9,-8,0,0,0,0
+Eugen GALEKOVIC,GALEKOVIC,0,GK,12.06.81,Adelaide United FC,AUS,A-League,Australia,3,9,-6,0,0,0,0
+Matthew SPIRANOVIC,SPIRANOVIC,270,DF,27.06.88,Western Sydney Wanderers FC,AUS,A-League,Australia,3,9,-6,0,0,0,0
+Matt McKAY,MCKAY,180,MF,11.01.83,Brisbane Roar FC,AUS,A-League,Australia,3,9,-6,0,0,0,0
+Mark MILLI GAN,MILLIGAN,90,MF,04.08.85,Melbourne Victory FC,AUS,A-League,Australia,3,9,-6,0,0,0,0
+Adam TAGGART,TAGGART,59,FW,02.06.93,Newcastle United Jets FC,AUS,A-League,Australia,3,9,-6,0,0,0,0
+Ivan FRANJIC,FRANJIC,49,DF,10.09.87,Brisbane Roar FC,AUS,A-League,Australia,3,9,-6,0,0,0,0
+James TROISI,TROISI,41,MF,03.07.88,Melbourne Victory FC,AUS,A-League,Australia,3,9,-6,0,0,0,0
+Rashid SUMAILA,SUMAILA,0,DF,18.12.92,Mamelodi Sundowns FC,RSA,Premier Soccer League,Ghana,4,6,-2,0,1,0,1
+Fatawu DAUDA,DAUDA,180,GK,06.04.85,Orlando Pirates,RSA,Premier Soccer League,Ghana,4,6,-2,0,1,0,1
+Miiko ALBORNOZ,ALBORNOZ,0,DF,30.11.90,Malmo FF,SWE,Allsvenskan,Chile,5,3,2,3,3,0,6
+Celso BORGES,BORGES C.,498,MF,27.05.88,AIK Solna,SWE,Allsvenskan,Costa Rica,4,1,3,3,3,1,7
+Jose Maria BASANTA,BASANTA,104,DF,03.04.84,CF Monterrey,MEX,Primera Division,Argentina,6,3,3,3,3,3,9
+Fidel MARTINEZ,MARTINEZ,0,MF,15.02.90,Club Tijuana,MEX,Primera Division,Ecuador,3,3,0,0,3,1,4
+Jaimen AYOVI,J. AYOVI,0,FW,21.02.88,Club Tijuana,MEX,Primera Division,Ecuador,3,3,0,0,3,1,4
+Walter AYOVI,W. AYOVI,270,MF,11.08.79,CF Pachuca,MEX,Primera Division,Ecuador,3,3,0,0,3,1,4
+Enner VALENCIA,E. VALENCIA,270,FW,04.11.89,CF Pachuca,MEX,Primera Division,Ecuador,3,3,0,0,3,1,4
+Jefferson MONTERO,MONTERO,230,MF,01.09.89,CA Monarcas Morelia,MEX,Primera Division,Ecuador,3,3,0,0,3,1,4
+Joao ROJAS,ROJAS,12,FW,14.06.89,Cruz Azul FC,MEX,Primera Division,Ecuador,3,3,0,0,3,1,4
+Jose CORONA,J CORONA,0,GK,26.01.81,Cruz Azul FC,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Alfredo TALAVERA,A TALAVERA,0,GK,18.09.82,Deportivo Toluca FC,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Alan PULIDO,A PULIDO,0,FW,08.03.91,Tigres UANL,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Miguel PONCE,M PONCE,0,DF,12.04.89,Deportivo Toluca FC,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Isaac BRIZUELA,1 BRIZUELA,0,MF,28.08.90,Deportivo Toluca FC,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Francisco RODRIGUEZ,F RODRIGUEZ,360,DF,20.10.81,Club America,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Rafael MARQUEZ,R MARQUEZ,360,DF,13.02.79,Club Leon,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Miguel LAY UN,M LAYUN,360,DF,25.06.88,Club America,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Paul AGUlLAR,P AGUILAR,360,DF,06.03.86,Club America,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Jose VAZQUEZ,J VAZQUEZ,270,MF,14.03.88,Club Leon,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Carlos SALCIDO,C SALCIDO,91,DF,02.04.80,Tigres UANL,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Marco FABIAN,M FABIAN,41,MF,21.07.89,Cruz Azul FC,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Carlos PENA,C PENA,11,MF,29.03.90,Club Leon,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Raul JIMENEZ,R JIMENEZ,6,FW,05.05.91,Club America,MEX,Primera Division,Mexico,4,1,3,3,1,3,7
+Egidio AREVALO,AREVALO,360,MF,01.01.82,CA Monarcas Morelia,MEX,Primera Division,Uruguay,4,4,0,0,3,3,6
+DaMarcus BEASLEY,BEASLEY,390,DF,24.05.82,Puebla FC,MEX,Primera Division,USA,4,4,0,3,1,0,4
+Muhamed BESIC,BESIC,270,MF,10.09.92,Ferencvarosi TC,HUN,Arany Aszok League,Bosnia and Herzegovina,4,4,0,0,0,3,3
+JEFFERSON,JEFFERSON,0,GK,02.01.83,Botafogo FR,BRA,Serie A,Brazil,7,2,5,3,1,3,7
+VICTOR,VICTOR,0,GK,21.01.83,Atletico Mineiro,BRA,Serie A,Brazil,7,2,5,3,1,3,7
+JO,JO,168,FW,20.03.87,Atletico Mineiro,BRA,Serie A,Brazil,7,2,5,3,1,3,7
+Jorge VALDIVIA,VALDIVIA,93,MF,19.10.83,Palmeiras,BRA,Serie A,Chile,5,3,2,3,3,0,6
+Frickson ERAZO,ERAZO,270,DF,05.05.88,CR Flamengo,BRA,Serie A,Ecuador,3,3,0,0,3,1,4
+Nicolas LODEIRO,LODEIRO,143,MF,21.03.89,Botafogo FR,BRA,Serie A,Uruguay,4,4,0,0,3,3,6
+Martin SILVA,SILVA,280,GK,25.03.83,CR Vasco da Gama,BRA,Serie B,Uruguay,4,4,0,0,3,3,6
+James HOLLAND,HOLLAND,0,MF,15.05.89,FK Austria Wien,AUT,Bundesliga,Australia,3,9,-6,0,0,0,0
+Loic FEUDJOU,FEUDJOU,0,GK,14.04.92,Coton Sport FC,CMR,Cameroon Premiere Division,Cameroon,1,9,-8,0,0,0,0
+Cedric DJEUGOUE,DJEUGOUE,46,DF,28.08.92,Coton Sport FC,CMR,Cameroon Premiere Division,Cameroon,1,9,-8,0,0,0,0
+FRED,FRED,471,FW,03.10.83,Fluminense FC,BRA,Serie A,Brazil,7,2,5,3,1,3,7
+Eugenio MENA,MENA,390,DF,18.07.88,Santos FC,BRA,Serie A,Chile,5,3,2,3,3,0,6
+Charles ARANGUIZ,CH. ARANGUIZ,364,MF,17.04.89,SC Internacional,BRA,Serie A,Chile,5,3,2,3,3,0,6
+Alvaro PEREIRA,A. PEREIRA,206,MF,28.11.85,Sao Paulo FC,BRA,Serie A,Uruguay,4,4,0,0,3,3,6
+Alexander DOMINGUEZ,DOMINGUEZ,270,GK,05.06.87,LDU Quito,ECU,Serie A,Ecuador,3,3,0,0,3,1,4
+Sebastian COATES,COATES,2,DF,07.10.90,Club Nacional de Football,URU,Primera Division,Uruguay,4,4,0,0,3,3,6
+Jason DAVIDSON,DAVIDSON,270,DF,29.06.91,SC Heracles Almelo,NED,Eredivisie,Australia,3,9,-6,0,0,0,0
+Tommy OAR,OAR,206,MF,10.12.91,FC Utrecht,NED,Eredivisie,Australia,3,9,-6,0,0,0,0
+Felipe GUTIERREZ,GUTIERREZ,165,MF,08.10.90,FC Twente,NED,Eredivisie,Chile,5,3,2,3,3,0,6
+Santiago ARIAS,ARIAS,124,DF,13.01.92,PSV Eindhoven,NED,Eredivisie,Colombia,9,2,7,3,3,3,9
+Bryan RUIZ,RUIZ B.,494,FW,18.08.85,PSV Eindhoven,NED,Eredivisie,Costa Rica,4,1,3,3,3,1,7
+Alex IBARRA,IBARRA,0,MF,20.01.91,Vitesse Arnheim,NED,Eredivisie,Ecuador,3,3,0,0,3,1,4
+Christian ATSU,ATSU,240,MF,10.01.92,Vitesse Arnheim,NED,Eredivisie,Ghana,4,6,-2,0,1,0,1
+Stefan DE VRIJ,DE VRIJ,677,DF,05.02.92,Feyenoord Rotterdam,NED,Eredivisie,Netherlands,10,3,7,3,3,3,9
+Daley BLIND,BLIND,670,DF,09.03.90,AFC Ajax,NED,Eredivisie,Netherlands,10,3,7,3,3,3,9
+Georginio WlJNALDUM,WIJNALDUM,550,MF,11.11.90,PSV Eindhoven,NED,Eredivisie,Netherlands,10,3,7,3,3,3,9
+Bruno MARTINS INDI,MARTINS INDI,458,DF,08.02.92,Feyenoord Rotterdam,NED,Eredivisie,Netherlands,10,3,7,3,3,3,9
+Daryl JAN MAAT,JANMAAT,364,DF,22.07.89,Feyenoord Rotterdam,NED,Eredivisie,Netherlands,10,3,7,3,3,3,9
+Memphis DEPAY,MEMPHIS,173,FW,13.02.94,PSV Eindhoven,NED,Eredivisie,Netherlands,10,3,7,3,3,3,9
+Jordy CLASIE,CLASIE,148,MF,27.06.91,Feyenoord Rotterdam,NED,Eredivisie,Netherlands,10,3,7,3,3,3,9
+Joel VELTMAN,VELTMAN,14,DF,15.01.92,AFC Ajax,NED,Eredivisie,Netherlands,10,3,7,3,3,3,9
+Terence KONGOLO,KONGOLO,1,DF,14.02.94,Feyenoord Rotterdam,NED,Eredivisie,Netherlands,10,3,7,3,3,3,9
+Uche NWOFOR,NWOFOR,11,FW,17.09.91,SC Heerenveen,NED,Eredivisie,Nigeria,3,3,0,1,3,0,4
+Alexander MEJIA,A. MEJIA,144,MF,11.07.88,Atletico Nacional,COL,Categoría Primera A,Colombia,9,2,7,3,3,3,9
+Esseid BELKALEM,BELKALEM,211,DF,01.01.89,Watford FC,ENG,Championship,Algeria,6,5,1,0,3,1,4
+Gonzalo JARA,JARA,390,DF,29.08.85,Nottingham Forest FC,ENG,Championship,Chile,5,3,2,3,3,0,6
+Gary MEDEL,MEDEL,378,DF,03.08.87,Cardiff City FC,WAL,Premier League,Chile,5,3,2,3,3,0,6
+Jean BEAUSEJOUR,BEAUSEJOUR,66,MF,01.06.84,Wigan Athletic,ENG,Championship,Chile,5,3,2,3,3,0,6
+Albert ADOMAH,ADOMAH,12,MF,13.12.87,Middlesbrough FC,ENG,Championship,Ghana,4,6,-2,0,1,0,1
+Georgios KARAGOUNIS,KARAGOUNIS,259,MF,06.03.77,Fulham FC,ENG,Championship,Greece,2,4,-2,0,1,3,4
+Konstantinos MITROGLOU,MITROGLOU,123,FW,12.03.88,Fulham FC,ENG,Championship,Greece,2,4,-2,0,1,3,4
+Roger ESPINOZA,ESPINOZA,226,MF,25.10.86,Wigan Athletic,ENG,Championship,Honduras,1,8,-7,0,0,0,0
+Juan Carlos GARCIA,J.C. GARCIA,134,DF,08.03.88,Wigan Athletic,ENG,Championship,Honduras,1,8,-7,0,0,0,0
+Reza GHOOCHANNEJAD,REZA,270,FW,20.09.87,Charlton Athletic,ENG,Championship,Iran,1,4,-3,1,0,0,1
+Ashkan DE JAG AH,DEJAGAH,226,FW,05.07.86,Fulham FC,ENG,Championship,Iran,1,4,-3,1,0,0,1
+LEEChungong,CYLEE,244,MF,02.07.88,Bolton Wanderers FC,ENG,Championship,Korea Republic,3,6,-3,1,0,0,1
+PARK Chuyoung,C Y PARK,113,FW,10.07.85,Watford FC,ENG,Championship,Korea Republic,3,6,-3,1,0,0,1
+KIM Bokyung,BK KIM,30,MF,06.10.89,Cardiff City FC,WAL,Premier League,Korea Republic,3,6,-3,1,0,0,1
+Leroy FER,FER,15,MF,05.01.90,Norwich City FC,ENG,Championship,Netherlands,10,3,7,3,3,3,9
+Kenneth OMERUO,OMERUO,360,DF,17.10.93,Middlesbrough FC,ENG,Championship,Nigeria,3,3,0,1,3,0,4
+Joseph YOBO,YOBO,331,DF,06.09.80,Norwich City FC,ENG,Championship,Nigeria,3,3,0,1,3,0,4
+Osman CHAVEZ,O. CHAVEZ,44,DF,29.07.84,Qingdao Jonoon FC,CHN,China League Two,Honduras,1,8,-7,0,0,0,0
+Ryan McGOWAN,MCGOWAN,221,DF,15.08.89,Shandong Luneng Taishan FC,CHN,Super League,Australia,3,9,-6,0,0,0,0
+Maximo BANGUERA,BANGUERA,0,GK,16.12.85,Barcelona SC,ECU,Serie A,Ecuador,3,3,0,0,3,1,4
+Adrian BONE,BONE,0,GK,08.09.88,CD El Nacional,ECU,Serie A,Ecuador,3,3,0,0,3,1,4
+Luis SARITAMA,SARITAMA,0,MF,20.10.83,Barcelona SC,ECU,Serie A,Ecuador,3,3,0,0,3,1,4
+Oscar BAGUI,BAGUI,0,DF,10.12.82,CS Emelec,ECU,Serie A,Ecuador,3,3,0,0,3,1,4
+Juan PAREDES,PAREDES,270,DF,08.07.87,Barcelona SC,ECU,Serie A,Ecuador,3,3,0,0,3,1,4
+Jorge GUAGUA,GUAGUA,270,DF,28.09.81,CS Emelec,ECU,Serie A,Ecuador,3,3,0,0,3,1,4
+Gabriel ACHILIER,ACHILIER,9,DF,24.03.85,CS Emelec,ECU,Serie A,Ecuador,3,3,0,0,3,1,4
+Aron JOHANNSSON,JOHANNSSON,67,FW,10.11.90,AZ Alkmaar,NED,Eredivisie,USA,4,4,0,3,1,0,4
+Anei HADZIC,HADZIC,61,MF,16.08.89,SK Sturm Graz,AUT,Fußball0Bundesliga,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Stephen ADAMS,S. ADAMS,0,GK,28.09.89,Aduana Stars,GHA,Premier League,Ghana,4,6,-2,0,1,0,1
+Juwon OSHANIWA,OSHANIWA,360,DF,14.09.90,FC Ashdod,ISR,Premier League,Nigeria,3,3,0,1,3,0,4
+Masahiko INOHA,INOHA,0,DF,28.08.85,Jubilo Iwata,JPN,J2 League,Japan,2,6,-4,0,1,0,1
+Shusaku NISHIKAWA,NISHIKAWA,0,GK,18.06.86,Urawa Red Diamonds,JPN,J1 League,Japan,2,6,-4,0,1,0,1
+Shuichi GONDA,GONDA,0,GK,03.03.89,FC Tokyo,JPN,J1 League,Japan,2,6,-4,0,1,0,1
+Hotaru YAMAGUCHI,YAMAGUCHI,208,MF,06.10.90,Cerezo Osaka,JPN,J1 League,Japan,2,6,-4,0,1,0,1
+Yoshito OKUBO,OKUBO,203,FW,09.06.82,Kawasaki Frontale,JPN,J1 League,Japan,2,6,-4,0,1,0,1
+Yasuyuki KONNO,KONNO,180,DF,25.01.83,Gamba Osaka,JPN,J1 League,Japan,2,6,-4,0,1,0,1
+Masato MORISHIGE,MORISHIGE,90,DF,21.05.87,FC Tokyo,JPN,J1 League,Japan,2,6,-4,0,1,0,1
+Yasuhito ENDO,ENDO,80,MF,28.01.80,Gamba Osaka,JPN,J1 League,Japan,2,6,-4,0,1,0,1
+Toshihiro AOYAMA,AOYAMA,62,MF,22.02.86,Sanfrecce Hiroshima,JPN,J1 League,Japan,2,6,-4,0,1,0,1
+Yoichiro KAKITANI,KAKITANI,25,FW,03.01.90,Cerezo Osaka,JPN,J1 League,Japan,2,6,-4,0,1,0,1
+KIM Changsoo,CS KIM,0,DF,12.09.85,Kashiwa Reysol,JPN,J1 League,Korea Republic,3,6,-3,1,0,0,1
+HAN Kookyoung,KYHAN,214,MF,19.04.90,Kashiwa Reysol,JPN,J1 League,Korea Republic,3,6,-3,1,0,0,1
+HWANG Seokho,S H HWANG,17,DF,27.06.89,Sanfrecce Hiroshima,JPN,J1 League,Korea Republic,3,6,-3,1,0,0,1
+Diego FORLAN,FORLAN,113,FW,19.05.79,Cerezo Osaka,JPN,J1 League,Uruguay,4,4,0,0,3,3,6
+Manabu SAITO,SAITO,0,FW,04.04.90,Yokohama F0Marinos,JPN,J1 League,Japan,2,6,-4,0,1,0,1
+Sammy BOSSUT,BOSSUT,0,GK,11.08.85,SV Zulte Waregem,BEL,First Division A,Belgium,4,1,3,3,3,3,9
+Laurent OMAN,OMAN,0,DF,05.08.85,Standard Liege,BEL,First Division A,Belgium,4,1,3,3,3,3,9
+Anthony VANDEN BORRE,VANDEN BORRE,90,DF,24.10.87,RSC Anderlecht,BEL,First Division A,Belgium,4,1,3,3,3,3,9
+Fabrice OLINGA,OLINGA,0,FW,12.05.96,SV Zulte Waregem,BEL,First Division A,Cameroon,1,9,-8,0,0,0,0
+Boubacar BARRY,BARRY COPA,270,GK,30.12.79,KSC Lokeren,BEL,First Division A,Cote d'Ivoire,4,5,-1,3,0,0,3
+Daniel OPARE,D. OPARE,90,DF,18.10.90,Standard Liege,BEL,First Division A,Ghana,4,6,-2,0,1,0,1
+Ancfy NAJAR,NAJAR,71,MF,16.03.93,RSC Anderlecht,BEL,First Division A,Honduras,1,8,-7,0,0,0,0
+Alireza JAHAN BAKHSH,ALIREZA,49,FW,11.08.93,NEC Nijmegen,NED,Eredivisie,Iran,1,4,-3,1,0,0,1
+Eiji KAWASHIMA,KAWASHIMA,270,GK,20.03.83,Standard Liege,BEL,First Division A,Japan,2,6,-4,0,1,0,1
+Rï¿½ben GABRIEL,GABRIEL,31,MF,25.09.90,KV Waasland0Beveren,BEL,First Division A,Nigeria,3,3,0,1,3,0,4
+Okechukwu UCHEBO,UCHEBO,24,FW,03.02.90,Cercle Bruegge,BEL,First Division A,Nigeria,3,3,0,1,3,0,4
+Maty RYAN,RYAN,270,GK,08.04.92,Club Bruegge KV,BEL,First Division A,Australia,3,9,-6,0,0,0,0
+Oscar DU ARTE,DUARTE O.,336,DF,03.06.89,Club Bruegge KV,BEL,First Division A,Costa Rica,4,1,3,3,3,1,7
+LEEBumyoung,B Y LEE,0,GK,02.04.89,Busan IPark FC,KOR,K League,Korea Republic,3,6,-3,1,0,0,1
+JUNG Sungryong,SR JUNG,180,GK,04.01.85,Suwon Bluewings FC,KOR,K League,Korea Republic,3,6,-3,1,0,0,1
+KIM Seunggyu,SG KIM,90,GK,30.09.90,Ulsan Hyundai FC,KOR,K League,Korea Republic,3,6,-3,1,0,0,1
+LEEYong,Y LEE,270,DF,24.12.86,Ulsan Hyundai FC,KOR,K League,Korea Republic,3,6,-3,1,0,0,1
+KIM Shinwook,SW KIM,99,FW,14.04.88,Ulsan Hyundai FC,KOR,K League,Korea Republic,3,6,-3,1,0,0,1
+Alex WILKINSON,WILKINSON,270,DF,13.08.84,Jeonbuk Hyundai Motors FC,KOR,K League,Australia,3,9,-6,0,0,0,0
+LEEKeunho,K H LEE,104,FW,11.04.85,Sangju Sangmu FC,KOR,K League,Korea Republic,3,6,-3,1,0,0,1
+Javad NEKOUNAM,J. NEKOUNAM,270,MF,07.09.80,Kuwait SC,KUW,Premier League,Iran,1,4,-3,1,0,0,1
+Francisco SILVA,SILVA,280,MF,11.02.86,CA Osasuna,ESP,Primera Division,Chile,5,3,2,3,3,0,6
+Carlos SANCHEZ,C. SANCHEZ,360,MF,06.02.86,Elche CF,ESP,Primera Division,Colombia,9,2,7,3,3,3,9
+Ramon AZEEZ,AZEEZ,69,MF,12.12.92,UD Almería,ESP,Primera Division,Nigeria,3,3,0,1,3,0,4
+Bailey WRIGHT,WRIGHT,0,DF,28.07.92,Preston North End FC,ENG,League One,Australia,3,9,-6,0,0,0,0
+Massimo LUONGO,LUONGO,0,MF,25.09.92,Swindon Town FC,ENG,League One,Australia,3,9,-6,0,0,0,0
+Patrick PEMBERTON,PEMBERTON R,0,GK,24.04.82,LD Alajuelense,CRC,Primera Division,Costa Rica,4,1,3,3,3,1,7
+Johnny ACOSTA,ACOSTA J.,163,DF,21.07.83,LD Alajuelense,CRC,Primera Division,Costa Rica,4,1,3,3,3,1,7
+Jerry PALACIOS,J. PALACIOS,50,MF,13.05.82,LD Alajuelense,CRC,Primera Division,Honduras,1,8,-7,0,0,0,0
+Michael ARROYO,ARROYO,102,MF,23.04.87,Atlante FC,MEX,Liga MX,Ecuador,3,3,0,0,3,1,4
+Oribe PERALTA,O PERALTA,302,FW,12.01.84,Club Santos Laguna,MEX,Liga MX,Mexico,4,1,3,3,1,3,7
+Luis LOPEZ,LOPEZ,0,GK,13.09.93,Real Espana,HON,Liga Nacional,Honduras,1,8,-7,0,0,0,0
+Noel VALLAD ARES,VALLADARES,270,GK,03.05.77,CD Olimpia,HON,Liga Nacional,Honduras,1,8,-7,0,0,0,0
+Donis ESCOBER,ESCOBER,0,GK,03.02.81,CD Olimpia,HON,Liga Nacional,Honduras,1,8,-7,0,0,0,0
+Juan MONTES,MONTES,0,DF,26.12.85,CD Motagua,HON,Liga Nacional,Honduras,1,8,-7,0,0,0,0
+Edder DELGADO,DELGADO,0,MF,20.11.86,Real Espana,HON,Liga Nacional,Honduras,1,8,-7,0,0,0,0
+Rony MARTI NEZ,R. MARTINEZ,0,FW,16.10.87,CD Real Sociedad,HON,Liga Nacional,Honduras,1,8,-7,0,0,0,0
+Brayan BECKELES,BECKELES,270,DF,28.11.85,CD Olimpia,HON,Liga Nacional,Honduras,1,8,-7,0,0,0,0
+Carlo COSTLY,COSTLY,220,FW,18.07.82,Real Espana,HON,Liga Nacional,Honduras,1,8,-7,0,0,0,0
+Jorge CLAROS,CLAROS,212,MF,08.01.86,CD Motagua,HON,Liga Nacional,Honduras,1,8,-7,0,0,0,0
+Luis GARRIDO,GARRIDO,161,MF,05.11.90,CD Olimpia,HON,Liga Nacional,Honduras,1,8,-7,0,0,0,0
+Mario MARTINEZ,M. MARTINEZ,19,MF,30.07.89,Real Espana,HON,Liga Nacional,Honduras,1,8,-7,0,0,0,0
+Claudio BRAVO,C. BRAVO,390,GK,13.04.83,Real Sociedad,ESP,Primera Division,Chile,5,3,2,3,3,0,6
+Antoine GRIEZMANN,GRIEZMANN,295,FW,21.03.91,Real Sociedad,ESP,Primera Division,France,8,2,6,3,3,1,7
+Haris SEFEROVIC,SEFEROVIC,139,FW,22.02.92,Real Sociedad,ESP,Primera Division,Switzerland,7,6,1,3,0,3,6
+Alireza HAGHIGHI,A. HAGHIGHI,270,GK,02.05.88,Sporting Covilha,POR,LigaPro,Iran,1,4,-3,1,0,0,1
+Camilo VARGAS,VARGAS,311,GK,09.03.89,Independiente Santa Fe,COL,Categoría Primera A,Colombia,9,2,7,3,3,3,9
+Faryd MONDRAGON,MONDRAGON,5,GK,21.06.71,Deportivo Cali,COL,Categoría Primera A,Colombia,9,2,7,3,3,3,9
+Edison MENDEZ,MENDEZ,8,MF,16.03.79,Independiente Santa Fe,COL,Categoría Primera A,Ecuador,3,3,0,0,3,1,4
+Rafik HALLI CHE,HALLICHE,367,DF,02.09.86,Academica Coimbra,POR,Primeira Liga,Algeria,6,5,1,0,3,1,4
+Islam SLIMANI,SLIMANI,324,FW,18.06.88,Sporting CP,POR,Primeira Liga,Algeria,6,5,1,0,3,1,4
+Nabil GH 1 LAS,GHILAS,36,FW,20.04.90,FC Porto,POR,Primeira Liga,Algeria,6,5,1,0,3,1,4
+Ezequiel GARAY,GARAY,720,DF,10.10.86,SL Benfica,POR,Primeira Liga,Argentina,6,3,3,3,3,3,9
+Marcos ROJO,ROJO,615,DF,20.03.90,Sporting CP,POR,Primeira Liga,Argentina,6,3,3,3,3,3,9
+Enzo PEREZ,PEREZ,224,MF,22.02.86,SL Benfica,POR,Primeira Liga,Argentina,6,3,3,3,3,3,9
+Steven DEFOUR,DEFOUR,45,MF,15.04.88,FC Porto,POR,Primeira Liga,Belgium,4,1,3,3,3,3,9
+Jackson MARTINEZ,JACKSON M.,194,FW,03.10.86,FC Porto,POR,Primeira Liga,Colombia,9,2,7,3,3,3,9
+Juan QUINTERO,QUINTERO,93,MF,18.01.93,FC Porto,POR,Primeira Liga,Colombia,9,2,7,3,3,3,9
+Eliaquim MANG ALA,MANGALA,0,DF,13.02.91,FC Porto,POR,Primeira Liga,France,8,2,6,3,3,1,7
+Hector HERRERA,H HERRERA,346,MF,19.04.90,FC Porto,POR,Primeira Liga,Mexico,4,1,3,3,1,3,7
+Diego REYES,D REYES,44,DF,19.09.92,FC Porto,POR,Primeira Liga,Mexico,4,1,3,3,1,3,7
+Rui PATRICIO,RUI PATRICIO,90,GK,15.02.88,Sporting CP,POR,Primeira Liga,Portugal,4,7,-3,0,1,3,4
+RAFA,RAFA,0,FW,17.05.93,Sporting Braga,POR,Primeira Liga,Portugal,4,7,-3,0,1,3,4
+EDER,EDER,205,FW,22.12.87,Sporting Braga,POR,Primeira Liga,Portugal,4,7,-3,0,1,3,4
+WILLIAM,WILLIAM,134,MF,07.04.92,Sporting CP,POR,Primeira Liga,Portugal,4,7,-3,0,1,3,4
+Ruben AMORIM,R. AMORIM,90,MF,27.01.85,SL Benfica,POR,Primeira Liga,Portugal,4,7,-3,0,1,3,4
+Andre ALMEIDA,A. ALMEIDA,71,DF,10.09.90,SL Benfica,POR,Primeira Liga,Portugal,4,7,-3,0,1,3,4
+VARELA,VARELA,50,FW,02.02.85,FC Porto,POR,Primeira Liga,Portugal,4,7,-3,0,1,3,4
+EDUARDO,EDUARDO,21,GK,19.09.82,Sporting Braga,POR,Primeira Liga,Portugal,4,7,-3,0,1,3,4
+Maximiliano PEREIRA,M. PEREIRA,224,DF,08.06.84,SL Benfica,POR,Primeira Liga,Uruguay,4,4,0,0,3,3,6
+Jorge FUCILE,FUCILE,11,DF,19.11.84,FC Porto,POR,Primeira Liga,Uruguay,4,4,0,0,3,3,6
+Austine EJIDE,EJIDE,0,GK,08.04.84,Hapoel Be'er Sheva FC,ISR,Premier League,Nigeria,3,3,0,1,3,0,4
+Cedric Sl MOHAMMED,Sl MOHAMMED,0,GK,09.01.85,CS Constantine,ALG,Ligue 1,Algeria,6,5,1,0,3,1,4
+Mohamed ZEMMAMOUCHE,ZEMMAMOUCHE,0,GK,19.03.85,USM Alger,ALG,Ligue 1,Algeria,6,5,1,0,3,1,4
+Abdelmoumene DJABOU,DJABOU,170,FW,31.01.87,Club Africain,TUN,Ligue 1,Algeria,6,5,1,0,3,1,4
+Landry NGUEMO,NGUEMO,90,MF,28.11.85,FC Girondins Bordeaux,FRA,Ligue 1,Cameroon,1,9,-8,0,0,0,0
+Henri BEDIMO,BEDIMO,90,DF,04.06.84,Olympique Lyonnais,FRA,Ligue 1,Cameroon,1,9,-8,0,0,0,0
+Jean MAKOUN,MAKOUN,9,MF,29.05.83,Stade Rennais FC,FRA,Ligue 1,Cameroon,1,9,-8,0,0,0,0
+Daniel OSPINA,OSPINA,445,GK,31.08.88,OGC Nice,FRA,Ligue 1,Colombia,9,2,7,3,3,3,9
+Sylvain GBOHOUO,GBOHOUO,0,GK,29.10.88,Sewe Sport,CIV,Ligue 1,Cote d'Ivoire,4,5,-1,3,0,0,3
+John BOYE,BOYE,270,DF,23.04.87,Stade Rennais FC,FRA,Ligue 1,Ghana,4,6,-2,0,1,0,1
+Harrison AFFUL,HARRISON,180,DF,24.07.86,Esperance Sportive de Tunis,TUN,Ligue 1,Ghana,4,6,-2,0,1,0,1
+Carl MEDJANI,MEDJANI,264,DF,15.05.85,Valenciennes FC,FRA,Ligue 2,Algeria,6,5,1,0,3,1,4
+Mehdi MOSTEFA,MOSTEFA,210,MF,30.08.83,Ajaccio,FRA,Ligue 2,Algeria,6,5,1,0,3,1,4
+Benjamin MOUKANDJO,MOUKANDJO,238,FW,12.11.88,AS Nancy,FRA,Ligue 2,Cameroon,1,9,-8,0,0,0,0
+Jordan AYEW,J. AYEW,116,FW,11.09.91,FC Sochaux0Montbeliard,FRA,Ligue 2,Ghana,4,6,-2,0,1,0,1
+Majeed WARIS,WARIS,71,FW,19.09.91,Valenciennes FC,FRA,Ligue 2,Ghana,4,6,-2,0,1,0,1
+Guillermo OCHOA,G OCHOA,360,GK,13.07.85,Ajaccio,FRA,Ligue 2,Mexico,4,1,3,3,1,3,7
+TimCAHILL,CAHILL,159,FW,06.12.79,New York Red Bulls,USA,Major League Soccer,Australia,3,9,-6,0,0,0,0
+JULIO CE SAR,JULIO CESAR,660,GK,03.09.79,Toronto FC,CAN,Major League Soccer,Brazil,7,2,5,3,1,3,7
+Waylon FRANCIS,FRANCIS W.,0,DF,20.09.90,Columbus Crew,USA,Major League Soccer,Costa Rica,4,1,3,3,3,1,7
+Giancarlo GONZALEZ,GONZALEZ G.,510,DF,08.02.88,Columbus Crew,USA,Major League Soccer,Costa Rica,4,1,3,3,3,1,7
+Roy MILLER,MILLER R.,90,DF,24.11.84,New York Red Bulls,USA,Major League Soccer,Costa Rica,4,1,3,3,3,1,7
+Jerry BENGTSON,BENGTSON,226,FW,08.04.87,New England Revolution,USA,Major League Soccer,Honduras,1,8,-7,0,0,0,0
+Victor BERN ARDEZ,BERNARDEZ,226,DF,24.05.82,San Jose Earthquakes,USA,Major League Soccer,Honduras,1,8,-7,0,0,0,0
+Boniek GARCIA,BONIEK,204,MF,04.09.84,Houston Dynamo,USA,Major League Soccer,Honduras,1,8,-7,0,0,0,0
+Marvin CHAVEZ,M. CHAVEZ,51,MF,03.11.83,CD Chivas USA,USA,Major League Soccer,Honduras,1,8,-7,0,0,0,0
+Steven BEITASHOUR,BEITASHOUR,0,DF,01.02.87,Vancouver Whitecaps FC,CAN,Major League Soccer,Iran,1,4,-3,1,0,0,1
+Nick RIMANDO,RIMANDO,0,GK,17.06.79,Real Salt Lake,USA,Major League Soccer,USA,4,4,0,3,1,0,4
+Michael BRADLEY,BRADLEY,390,MF,31.07.87,Toronto FC,CAN,Major League Soccer,USA,4,4,0,3,1,0,4
+Clint DEMPSEY,DEMPSEY,387,FW,09.03.83,Seattle Sounders FC,USA,Major League Soccer,USA,4,4,0,3,1,0,4
+Matt BESLER,BESLER,346,DF,11.02.87,Sporting Kansas City,USA,Major League Soccer,USA,4,4,0,3,1,0,4
+Kyle BECKERMAN,BECKERMAN,270,MF,23.04.82,Real Salt Lake,USA,Major League Soccer,USA,4,4,0,3,1,0,4
+Graham ZUSI,ZUSI,259,MF,18.08.86,Sporting Kansas City,USA,Major League Soccer,USA,4,4,0,3,1,0,4
+Omar GONZALEZ,GONZALEZ,211,DF,11.10.88,Los Angeles Galaxy,USA,Major League Soccer,USA,4,4,0,3,1,0,4
+DeAndreYEDLIN,YEDLIN,112,DF,09.07.93,Seattle Sounders FC,USA,Major League Soccer,USA,4,4,0,3,1,0,4
+Brad DAVIS,DAVIS,59,MF,08.11.81,Houston Dynamo,USA,Major League Soccer,USA,4,4,0,3,1,0,4
+Chris WONDOLOWSKI,WONDOLOWSKI,51,FW,28.01.83,San Jose Earthquakes,USA,Major League Soccer,USA,4,4,0,3,1,0,4
+Chigozie AGBIM,AGBIM,0,GK,28.11.84,Enugu Rangers FC,NGA,Professional Football League,Nigeria,3,3,0,1,3,0,4
+Azubuike EGWUEKWE,EGWUEKWE,0,DF,16.07.89,Wari Wolves FC,NGA,Professional Football League,Nigeria,3,3,0,1,3,0,4
+Ebenezer ODUNLAMI,ODUNLAMI,0,DF,30.04.91,Sunshine Stars FC,NGA,Professional Football League,Nigeria,3,3,0,1,3,0,4
+Ejike UZOENYI,UZOENYI,15,MF,23.03.92,Enugu Rangers FC,NGA,Professional Football League,Nigeria,3,3,0,1,3,0,4
+Bakhtiar RAHMANI,BAKHTIAR,0,MF,23.09.91,Foolad Khuzestan FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+Rah man AHMADI,R. AHMADI,0,GK,30.07.80,Sepahan FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+Ghasem HADADIFAR,GHASEM. H,0,MF,12.07.83,Zob Ahan Isfahan FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+Hossein MAHINI,H. MAHINI,0,DF,16.09.86,Persepolis FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+Ahmad ALNAMEH,AHMAD,0,DF,20.10.82,Naft Tehran FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+Hashem BEIKZADEH,BEIKZADEH,0,MF,22.01.84,Esteghlal Tehran FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+Jalal HOSSEINI,J. HOSSEINI,270,DF,03.02.82,Persepolis FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+Amirhossein SADEGHI,AMIRHOSSEIN,270,DF,06.09.81,Esteghlal Tehran FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+Reza HAGHIGHI,R. HAGHIGHI,2,MF,01.02.89,Persepolis FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+AndranikTIMOTIAN,ANDRANIK,270,MF,06.03.83,Esteghlal Tehran FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+Mehrdad POOLADI,MEHRDAD,270,DF,26.02.87,Persepolis FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+Ehsan HAJI SAFI,HAJI SAFI,241,MF,25.02.90,Sepahan FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+Khosro HEYDARI,KH. HEYDARI,147,FW,14.09.83,Esteghlal Tehran FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+Karim ANSARI FARD,KARIM,22,FW,03.04.90,Tractor Sazi Tabriz FC,IRN,Persian Gulf League,Iran,1,4,-3,1,0,0,1
+Nabil BENTALEB,BENTALEB,270,MF,24.11.94,Tottenham Hotspur FC,ENG,Premier League,Algeria,6,5,1,0,3,1,4
+Riyad MAHREZ,MAHREZ,71,FW,21.02.91,Leicester City FC,ENG,Premier League,Algeria,6,5,1,0,3,1,4
+Pablo ZABALETA,ZABALETA,720,DF,16.01.85,Manchester City FC,ENG,Premier League,Argentina,6,3,3,3,3,3,9
+Martin DEMI CH ELI S,DEMICHELIS,330,DF,20.12.80,Manchester City FC,ENG,Premier League,Argentina,6,3,3,3,3,3,9
+Sergio AGUERO,AGUERO,313,FW,02.06.88,Manchester City FC,ENG,Premier League,Argentina,6,3,3,3,3,3,9
+Mile JEDINAK,JEDINAK,270,MF,03.08.84,Crystal Palace FC,ENG,Premier League,Australia,3,9,-6,0,0,0,0
+Simon MIGNOLET,MIGNOLET,0,GK,06.03.88,Liverpool FC,ENG,Premier League,Belgium,4,1,3,3,3,3,9
+Jan VERTONGHEN,VERTONGHEN,449,DF,24.04.87,Tottenham Hotspur FC,ENG,Premier League,Belgium,4,1,3,3,3,3,9
+Marouane FELLAINI,FELLAINI,415,MF,22.11.87,Manchester United FC,ENG,Premier League,Belgium,4,1,3,3,3,3,9
+Vincent KOMPANY,KOMPANY,390,DF,10.04.86,Manchester City FC,ENG,Premier League,Belgium,4,1,3,3,3,3,9
+Eden HAZARD,E. HAZARD,368,MF,07.01.91,Chelsea FC,ENG,Premier League,Belgium,4,1,3,3,3,3,9
+Kevin MIRALLAS,MIRALLAS,223,FW,05.10.87,Everton FC,ENG,Premier League,Belgium,4,1,3,3,3,3,9
+Romeiu LUKAKU,LUKAKU,175,FW,13.05.93,Everton FC,ENG,Premier League,Belgium,4,1,3,3,3,3,9
+Moussa DEMBELE,DEMBELE,155,MF,16.07.87,Tottenham Hotspur FC,ENG,Premier League,Belgium,4,1,3,3,3,3,9
+Nacer CHADLI,CHADLI,100,MF,02.08.89,Tottenham Hotspur FC,ENG,Premier League,Belgium,4,1,3,3,3,3,9
+Adnan JANUZAJ,JANUZAJ,60,MF,05.02.95,Manchester United FC,ENG,Premier League,Belgium,4,1,3,3,3,3,9
+Thomas VERMAELEN,VERMAELEN,31,DF,14.11.85,Arsenal FC,ENG,Premier League,Belgium,4,1,3,3,3,3,9
+Asmir BEGOVIC,BEGOVIC,270,GK,20.06.87,Stoke City FC,ENG,Premier League,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Edin DZEKO,DZEKO,264,FW,17.03.86,Manchester City FC,ENG,Premier League,Bosnia and Herzegovina,4,4,0,0,0,3,3
+DAVID LUIZ,DAVID LUIZ,660,DF,22.04.87,Chelsea FC,ENG,Premier League,Brazil,7,2,5,3,1,3,7
+OSCAR,OSCAR,640,MF,09.09.91,Chelsea FC,ENG,Premier League,Brazil,7,2,5,3,1,3,7
+PAULIN HO,PAULINHO,386,MF,25.07.88,Tottenham Hotspur FC,ENG,Premier League,Brazil,7,2,5,3,1,3,7
+FERNANDINHO,FERNANDINHO,296,MF,04.05.85,Manchester City FC,ENG,Premier League,Brazil,7,2,5,3,1,3,7
+RAMI RES,RAMIRES,247,MF,24.03.87,Chelsea FC,ENG,Premier League,Brazil,7,2,5,3,1,3,7
+WILLIAN,WILLIAN,150,MF,09.08.88,Chelsea FC,ENG,Premier League,Brazil,7,2,5,3,1,3,7
+Benoit ASSOU EKOTTO,ASSOU EKOTTO,180,DF,24.03.84,Queens Park Rangers FC,ENG,Premier League,Cameroon,1,9,-8,0,0,0,0
+Samuel ETOO,ETOO,90,FW,10.03.81,Chelsea FC,ENG,Premier League,Cameroon,1,9,-8,0,0,0,0
+Pablo ARMERO,P. ARMERO,0,DF,02.11.86,West Ham United FC,ENG,Premier League,Colombia,9,2,7,3,3,3,9
+Yaya TOURE,TOURE YAYA,270,MF,13.05.83,Manchester City FC,ENG,Premier League,Cote d'Ivoire,4,5,-1,3,0,0,3
+Ismael TIOTE,TIOTE,241,MF,21.06.86,Newcastle United FC,ENG,Premier League,Cote d'Ivoire,4,5,-1,3,0,0,3
+Wilfried BONY,B. WILFRIED,167,FW,10.12.88,Swansea City FC,WAL,Premier League,Cote d'Ivoire,4,5,-1,3,0,0,3
+Kolo TOURE,T. KOLO,90,DF,19.03.81,Liverpool FC,ENG,Premier League,Cote d'Ivoire,4,5,-1,3,0,0,3
+Dejan LOVREN,LOVREN,270,DF,05.07.89,Southampton FC,ENG,Premier League,Croatia,6,4,2,0,3,0,3
+Nikica JELAVIC,JELAVIC,94,FW,27.08.85,Hull City,ENG,Premier League,Croatia,6,4,2,0,3,0,3
+Segundo CASTILLO,CASTILLO,0,MF,15.05.82,Al Hilal FC,KSA,Saudi Professional League,Ecuador,3,3,0,0,3,1,4
+Antonio VALENCIA,A. VALENCIA,230,MF,04.08.85,Manchester United FC,ENG,Premier League,Ecuador,3,3,0,0,3,1,4
+Felipe CAICEDO,CAICEDO,153,FW,05.09.88,Al Jazira SCC QJAE,UAE,Premier League,Ecuador,3,3,0,0,3,1,4
+Fraser Fï¿½RSTER,FORSTER,0,GK,17.03.88,Celtic FC,SCO,Premier League,England,2,4,-2,0,3,1,4
+Alex OXLADE CHAMBERLAI N,CHAMBERLAIN,0,MF,15.08.93,Arsenal FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+James MILNER,MILNER,0,MF,04.01.86,Manchester City FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Phil JONES,JONES,390,DF,21.02.92,Manchester United FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Daniel STUR RI DG E,STURRIDGE,260,FW,01.09.89,Liverpool FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Steven GERRARD,GERRARD,197,MF,30.05.80,Liverpool FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Wayne ROONEY,ROONEY,194,FW,24.10.85,Manchester United FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Raheem STERLING,STERLING,182,MF,08.12.94,Liverpool FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Joe HART,HART,180,GK,19.04.87,Manchester City FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Glen JOHNSON,JOHNSON,180,DF,23.08.84,Liverpool FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Leighton BAINES,BAINES,180,DF,11.12.84,Everton FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Phil JAGIELKA,JAGIELKA,180,DF,17.08.82,Everton FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Jordan HENDERSON,HENDERSON,160,MF,17.06.90,Liverpool FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Gaiy CAHILL,CAHILL,159,DF,19.12.85,Chelsea FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Ross BARKLEY,BARKLEY,145,MF,05.12.93,Everton FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Danny WELBECK,WELBECK,132,FW,26.11.90,Manchester United FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Adam LALL ANA,LALLANA,91,MF,10.05.88,Southampton FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Ben FOSTER,FOSTER,90,GK,03.04.83,West Bromwich Albion FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Luke SHAW,SHAW,90,DF,12.07.95,Southampton FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Jack WILSHERE,WILSHERE,90,MF,01.01.92,Arsenal FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Chris SM ALLING,SMALLING,90,DF,22.11.89,Manchester United FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Frank LAMPARD,LAMPARD,90,MF,20.06.78,Chelsea FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Rickie LAMBERT,LAMBERT,3,FW,16.02.82,Southampton FC,ENG,Premier League,England,2,4,-2,0,3,1,4
+Hugo LLORIS,LLORIS,450,GK,26.12.86,Tottenham Hotspur FC,ENG,Premier League,France,8,2,6,3,3,1,7
+Patrice EVRA,EVRA,360,DF,15.05.81,Manchester United FC,ENG,Premier League,France,8,2,6,3,3,1,7
+Mathieu DEBUCHY,DEBUCHY,360,DF,28.07.85,Newcastle United FC,ENG,Premier League,France,8,2,6,3,3,1,7
+Mamadou SAKHO,SAKHO,289,DF,13.02.90,Liverpool FC,ENG,Premier League,France,8,2,6,3,3,1,7
+Laurent KOSCIELNY,KOSCIELNY,222,DF,10.09.85,Arsenal FC,ENG,Premier League,France,8,2,6,3,3,1,7
+Moussa SISSOKO,SISSOKO,214,MF,16.08.89,Newcastle United FC,ENG,Premier League,France,8,2,6,3,3,1,7
+Olivier GIROUD,GIROUD,165,FW,30.09.86,Arsenal FC,ENG,Premier League,France,8,2,6,3,3,1,7
+Bacaiy SAGNA,SAGNA,90,DF,14.02.83,Arsenal FC,ENG,Premier League,France,8,2,6,3,3,1,7
+Morgan SCHNEIDERLIN,SCHNEIDERLIN,90,MF,08.11.89,Southampton FC,ENG,Premier League,France,8,2,6,3,3,1,7
+Loic REMY,REMY,28,FW,02.01.87,Newcastle United FC,ENG,Premier League,France,8,2,6,3,3,1,7
+MesutOEZIL,OEZIL,655,MF,15.10.88,Arsenal FC,ENG,Premier League,Germany,7,2,5,3,1,3,7
+Per MERTESACKER,MERTESACKER,435,DF,29.09.84,Arsenal FC,ENG,Premier League,Germany,7,2,5,3,1,3,7
+Andre SCHUERRLE,SCHÜRRLE,244,FW,06.11.90,Chelsea FC,ENG,Premier League,Germany,7,2,5,3,1,3,7
+Lukas PODOLSKI,PODOLSKI,54,FW,04.06.85,Arsenal FC,ENG,Premier League,Germany,7,2,5,3,1,3,7
+Asamoah GYAN,A. GYAN,270,FW,22.11.85,Al Ain FC,UAE,Premier League,Ghana,4,6,-2,0,1,0,1
+Georgios SAMARAS,SAMARAS,390,FW,21.02.85,Celtic FC,SCO,Premier League,Greece,2,4,-2,0,1,3,4
+Maynor FIGUEROA,FIGUEROA,270,DF,02.05.83,Hull City,ENG,Premier League,Honduras,1,8,-7,0,0,0,0
+Emilio IZAGUIRRE,EMILIO,136,MF,10.05.86,Celtic FC,SCO,Premier League,Honduras,1,8,-7,0,0,0,0
+Wilson PALACIOS,W. PALACIOS,133,MF,29.07.84,Stoke City FC,ENG,Premier League,Honduras,1,8,-7,0,0,0,0
+Maya YOSHIDA,YOSHIDA,270,DF,24.08.88,Southampton FC,ENG,Premier League,Japan,2,6,-4,0,1,0,1
+Shinji KAGAWA,KAGAWA,204,FW,17.03.89,Manchester United FC,ENG,Premier League,Japan,2,6,-4,0,1,0,1
+KWAK Taehwi,T H KWAK,0,DF,08.07.81,Al Hilal FC,KSA,Saudi Professional League,Korea Republic,3,6,-3,1,0,0,1
+Kl Sungyueng,SY KI,270,MF,24.01.89,Sunderland AFC,ENG,Premier League,Korea Republic,3,6,-3,1,0,0,1
+YUN Sukyoung,SY YUN,270,DF,13.02.90,Queens Park Rangers FC,ENG,Premier League,Korea Republic,3,6,-3,1,0,0,1
+Javier HERNANDEZ,J HERNANDEZ,75,FW,01.06.88,Manchester United FC,ENG,Premier League,Mexico,4,1,3,3,1,3,7
+Ron VLAAR,VLAAR,690,DF,16.02.85,Aston Villa FC,ENG,Premier League,Netherlands,10,3,7,3,3,3,9
+Robin VAN PERSIE,V. PERSIE,548,FW,06.08.83,Manchester United FC,ENG,Premier League,Netherlands,10,3,7,3,3,3,9
+Jonathan DE GUZMAN,DE GUZMAN,230,MF,13.09.87,Swansea City FC,WAL,Premier League,Netherlands,10,3,7,3,3,3,9
+Michel VORM,VORM,1,GK,20.10.83,Swansea City FC,WAL,Premier League,Netherlands,10,3,7,3,3,3,9
+Tim KRUL,KRUL,1,GK,03.04.88,Newcastle United FC,ENG,Premier League,Netherlands,10,3,7,3,3,3,9
+John Obi MIKEL,MIKEL,360,MF,22.04.87,Chelsea FC,ENG,Premier League,Nigeria,3,3,0,1,3,0,4
+Efe AMBROSE,AMBROSE,360,DF,18.10.88,Celtic FC,SCO,Premier League,Nigeria,3,3,0,1,3,0,4
+Peter ODEMWINGlE,ODEMWINGIE,281,FW,15.07.81,Stoke City FC,ENG,Premier League,Nigeria,3,3,0,1,3,0,4
+Victor MOSES,MOSES,141,FW,12.12.90,Liverpool FC,ENG,Premier League,Nigeria,3,3,0,1,3,0,4
+Shola AMEOBI,AMEOBI,63,FW,12.10.81,Newcastle United FC,ENG,Premier League,Nigeria,3,3,0,1,3,0,4
+NANI,NANI,270,FW,17.11.86,Manchester United FC,ENG,Premier League,Portugal,4,7,-3,0,1,3,4
+David DE GEA,DE GEA,0,GK,07.11.90,Manchester United FC,ENG,Premier League,Spain,4,7,-3,0,0,3,3
+David SILVA,SILVA,280,MF,08.01.86,Manchester City FC,ENG,Premier League,Spain,4,7,-3,0,0,3,3
+Cesar AZPILICUETA,AZPILICUETA,180,MF,28.08.89,Chelsea FC,ENG,Premier League,Spain,4,7,-3,0,0,3,3
+Fernando TORRES,TORRES,144,FW,20.03.84,Chelsea FC,ENG,Premier League,Spain,4,7,-3,0,0,3,3
+Santi CAZORLA,S. CAZORLA,82,MF,13.12.84,Arsenal FC,ENG,Premier League,Spain,4,7,-3,0,0,3,3
+Juan MATA,MATA,34,FW,28.04.88,Manchester United FC,ENG,Premier League,Spain,4,7,-3,0,0,3,3
+Luis SUAREZ,SUAREZ,178,FW,24.01.87,Liverpool FC,ENG,Premier League,Uruguay,4,4,0,0,3,3,6
+Diego LUGANO,LUGANO,90,DF,02.11.80,West Bromwich Albion FC,ENG,Premier League,Uruguay,4,4,0,0,3,3,6
+Gaston RAMIREZ,RAMIREZ,49,MF,02.12.90,Southampton FC,ENG,Premier League,Uruguay,4,4,0,0,3,3,6
+Brad GUZAN,GUZAN,0,GK,09.09.84,Aston Villa FC,ENG,Premier League,USA,4,4,0,3,1,0,4
+Tim HOWARD,HOWARD,390,GK,06.03.79,Everton FC,ENG,Premier League,USA,4,4,0,3,1,0,4
+Geoff CAMERON,CAMERON,300,DF,11.07.85,Stoke City FC,ENG,Premier League,USA,4,4,0,3,1,0,4
+Jozy ALTI DO RE,ALTIDORE,23,FW,06.11.89,Sunderland AFC,ENG,Premier League,USA,4,4,0,3,1,0,4
+Asmir AVDUKIC,AVDUKIC,0,GK,13.05.81,FK Borac Banja Luka,BIH,Premier League,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Axel WITSEL,WITSEL,390,MF,12.01.89,FC Zenit St. Petersburg,RUS,Premjer-Liga,Belgium,4,1,3,3,3,3,9
+Nicolas LOMBAERTS,LOMBAERTS,90,DF,20.03.85,FC Zenit St. Petersburg,RUS,Premjer-Liga,Belgium,4,1,3,3,3,3,9
+HULK,HULK,397,FW,25.07.86,FC Zenit St. Petersburg,RUS,Premjer-Liga,Brazil,7,2,5,3,1,3,7
+BERNARD,BERNARD,156,FW,08.09.92,Shakhtar Donetsk,UKR,Premiere League,Brazil,7,2,5,3,1,3,7
+Marcos URENA,URENA M.,102,FW,05.03.90,Kuban Krasnodar,RUS,Premjer-Liga,Costa Rica,4,1,3,3,3,1,7
+Ognjen VUKOJEVIC,VUKOJEVIC,0,MF,20.12.83,FC Dynamo Kyiv,UKR,Premiere League,Croatia,6,4,2,0,3,0,3
+Domagoj VI DA,VIDA,0,DF,29.04.89,FC Dynamo Kyiv,UKR,Premiere League,Croatia,6,4,2,0,3,0,3
+Vedran CORLUKA,CORLUKA,270,DF,05.02.86,FC Lokomotiv Moscow,RUS,Premjer-Liga,Croatia,6,4,2,0,3,0,3
+Darijo SRNA,SRNA,270,DF,01.05.82,Shakhtar Donetsk,UKR,Premiere League,Croatia,6,4,2,0,3,0,3
+Stipe PLETIKOSA,PLETIKOSA,270,GK,08.01.79,FC Rostov,RUS,Premjer-Liga,Croatia,6,4,2,0,3,0,3
+EDUARDO,EDUARDO,21,FW,25.02.83,Shakhtar Donetsk,UKR,Premiere League,Croatia,6,4,2,0,3,0,3
+Cristhian NOBOA,NOBOA,269,MF,09.04.85,FC Dynamo Moscow,RUS,Premjer-Liga,Ecuador,3,3,0,0,3,1,4
+Mohammed RABIU,RABIU,225,MF,31.12.89,Kuban Krasnodar,RUS,Premjer-Liga,Ghana,4,6,-2,0,1,0,1
+Jeremain LENS,LENS,127,FW,24.11.87,FC Dynamo Kyiv,UKR,Premiere League,Netherlands,10,3,7,3,3,3,9
+Ahmed MUSA,MUSA,335,FW,14.10.92,CSKA Moscow,RUS,Premjer-Liga,Nigeria,3,3,0,1,3,0,4
+Michael BABATUNDE,BABATUNDE,141,FW,24.12.92,FC Volyn Lutsk,UKR,Premiere League,Nigeria,3,3,0,1,3,0,4
+Luis NETO,NETO,0,DF,26.05.88,FC Zenit St. Petersburg,RUS,Premjer-Liga,Portugal,4,7,-3,0,1,3,4
+Miguel VELOSO,MIGUEL,226,MF,11.05.86,FC Dynamo Kyiv,UKR,Premiere League,Portugal,4,7,-3,0,1,3,4
+Yury LODYGIN,LODYGIN,0,GK,26.05.90,FC Zenit St. Petersburg,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Georgy SHCHENNIKOV,SHCHENNIKOV,0,DF,27.04.91,CSKA Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Vladimir GRANAT,GRANAT,0,DF,22.05.87,FC Dynamo Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Roman SHIROKOV,SHIROKOV,0,MF,06.07.81,FC Krasnodar,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Alexey IONOV,IONOV,0,FW,18.02.89,FC Dynamo Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Alexander KOKORIN,KOKORIN,270,FW,19.03.91,FC Dynamo Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Vasily BEREZUTSKIY,BEREZUTSKI V.,270,DF,20.06.82,CSKA Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Dmitry KOMBAROV,KOMBAROV,270,DF,22.01.87,FC Spartak Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Alexander SAMEDOV,SAMEDOV,270,FW,19.07.84,FC Lokomotiv Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Victor FAYZU LIN,FAYZULIN,270,MF,22.04.86,FC Zenit St. Petersburg,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Igor AKINFEEV,AKINFEEV,270,GK,08.04.86,CSKA Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Sergey IGNASHEVICH,IGNASHEVICH,270,DF,14.07.79,CSKA Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Oleg SHATOV,SHATOV,209,MF,29.07.90,FC Zenit St. Petersburg,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Denis GLUSHAKOV,GLUSHAKOV,208,MF,27.01.87,FC Spartak Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Aleksei KOZLOV,KOZLOV,152,DF,25.12.86,FC Dynamo Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Aleksandr KERZHAKOV,KERZHAKOV,101,FW,27.11.82,FC Zenit St. Petersburg,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Yury ZHIRKOV,ZHIRKOV,71,FW,20.08.83,FC Dynamo Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Igor DENISOV,DENISOV,62,MF,17.05.84,FC Dynamo Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Alan DZAGOEV,DZAGOEV,61,MF,17.06.90,CSKA Moscow,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Mubarak WAKASO,WAKASO,27,MF,25.07.90,FC Rubin Kazan,RUS,Premjer-Liga,Ghana,4,6,-2,0,1,0,1
+Sergey RYZHIKOV,RYZHIKOV,0,GK,19.09.80,FC Rubin Kazan,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Andrey SEMENOV,SEMENOV,0,DF,24.03.89,FC Tenek Grozny,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+Maksim KANUNNIKOV,KANUNNIKOV,99,FW,14.07.91,FK Amkar Perm,RUS,Premjer-Liga,Russia,2,3,-1,1,0,1,2
+ToniSUNJIC,SUNJIC,180,DF,15.12.88,FC Zorya Lugansk,UKR,Premiere League,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Sofiane FEGHOULI,FEGHOULI,390,FW,26.12.89,Valencia CF,ESP,Primera Division,Algeria,6,5,1,0,3,1,4
+Yacine BRAHIMI,BRAHIMI,190,MF,08.02.90,Granada CF,ESP,Primera Division,Algeria,6,5,1,0,3,1,4
+Medhi LACEN,LACEN,152,MF,15.03.84,Getafe CF,ESP,Primera Division,Algeria,6,5,1,0,3,1,4
+Augusto FERN ANDEZ,FERNANDEZ A.,0,MF,10.04.86,Celta Vigo,ESP,Primera Division,Argentina,6,3,3,3,3,3,9
+Javier MASCHER ANO,MASCHERANO,720,MF,08.06.84,FC Barcelona,ESP,Primera Division,Argentina,6,3,3,3,3,3,9
+Lionel MESSI,MESSI,693,FW,24.06.87,FC Barcelona,ESP,Primera Division,Argentina,6,3,3,3,3,3,9
+Angel DI MARIA,DI MARIA,423,MF,14.02.88,Real Madrid CF,ESP,Primera Division,Argentina,6,3,3,3,3,3,9
+Thibaut COURTOIS,COURTOIS,480,GK,11.05.92,Atletico Madrid,ESP,Primera Division,Belgium,4,1,3,3,3,3,9
+Toby ALDERWEIRELD,ALDERWEIRELD,390,DF,02.03.89,Atletico Madrid,ESP,Primera Division,Belgium,4,1,3,3,3,3,9
+MARCELO,MARCELO,570,DF,12.05.88,Real Madrid CF,ESP,Primera Division,Brazil,7,2,5,3,1,3,7
+NEYMAR,NEYMAR JR,457,FW,05.02.92,FC Barcelona,ESP,Primera Division,Brazil,7,2,5,3,1,3,7
+Dani ALVES,DANI ALVES,390,DF,06.05.83,FC Barcelona,ESP,Primera Division,Brazil,7,2,5,3,1,3,7
+Stephane MBIA,MBIA,270,MF,20.05.86,Sevilla FC,ESP,Primera Division,Cameroon,1,9,-8,0,0,0,0
+Alexandre SONG,SONG A,119,MF,09.09.87,FC Barcelona,ESP,Primera Division,Cameroon,1,9,-8,0,0,0,0
+Allan NYOM,NYOM,90,DF,10.05.88,Granada CF,ESP,Primera Division,Cameroon,1,9,-8,0,0,0,0
+Fabian ORELLANA,ORELLANA,0,FW,27.01.86,Celta Vigo,ESP,Primera Division,Chile,5,3,2,3,3,0,6
+Alexis SANCHEZ,ALEXIS,390,FW,19.12.88,FC Barcelona,ESP,Primera Division,Chile,5,3,2,3,3,0,6
+Eduardo VAR GAS,VARGAS,311,FW,20.11.89,Valencia CF,ESP,Primera Division,Chile,5,3,2,3,3,0,6
+Carlos BACCA,BACCA,20,FW,08.09.86,Sevilla FC,ESP,Primera Division,Colombia,9,2,7,3,3,3,9
+Luka MODRIC,MODRIC,270,MF,09.09.85,Real Madrid CF,ESP,Primera Division,Croatia,6,4,2,0,3,0,3
+Ivan RAKI TIC,RAKITIC,270,MF,10.03.88,Sevilla FC,ESP,Primera Division,Croatia,6,4,2,0,3,0,3
+SAMMIR,SAMMIR,72,MF,23.04.87,Getafe CF,ESP,Primera Division,Croatia,6,4,2,0,3,0,3
+Karim BENZEMA,BENZEMA,450,FW,19.12.87,Real Madrid CF,ESP,Primera Division,France,8,2,6,3,3,1,7
+Raphael VAR AN E,VARANE,389,DF,25.04.93,Real Madrid CF,ESP,Primera Division,France,8,2,6,3,3,1,7
+Sami KHEDIRA,KHEDIRA,376,MF,04.04.87,Real Madrid CF,ESP,Primera Division,Germany,7,2,5,3,1,3,7
+Orestis KARNEZIS,KARNEZIS,324,GK,11.07.85,Granada CF,ESP,Primera Division,Greece,2,4,-2,0,1,3,4
+Giovani DOS SANTOS,G DOS SANTOS,297,FW,11.05.89,Villarreal CF,ESP,Primera Division,Mexico,4,1,3,3,1,3,7
+Javier AQUI NO,J AQUINO,29,MF,11.02.90,Villarreal CF,ESP,Primera Division,Mexico,4,1,3,3,1,3,7
+CRISTIANO RONALDO,RONALDO,270,FW,05.02.85,Real Madrid CF,ESP,Primera Division,Portugal,4,7,-3,0,1,3,4
+Joao PER El RA,J. PEREIRA,241,DF,25.02.84,Valencia CF,ESP,Primera Division,Portugal,4,7,-3,0,1,3,4
+BETO,BETO,179,GK,01.05.82,Sevilla FC,ESP,Primera Division,Portugal,4,7,-3,0,1,3,4
+Ricardo COSTA,R. COSTA,134,DF,16.05.81,Valencia CF,ESP,Primera Division,Portugal,4,7,-3,0,1,3,4
+PEPE,PEPE,127,DF,26.02.83,Real Madrid CF,ESP,Primera Division,Portugal,4,7,-3,0,1,3,4
+Fabio COENTRAO,F. COENTRAO,65,DF,11.03.88,Real Madrid CF,ESP,Primera Division,Portugal,4,7,-3,0,1,3,4
+Iker CASILLAS,I. CASILLAS,180,GK,20.05.81,Real Madrid CF,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+Andres INIESTA,A. INIESTA,270,MF,11.05.84,FC Barcelona,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+Jordi ALBA,JORDI ALBA,270,DF,21.03.89,FC Barcelona,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+Sergio RAMOS,RAMOS,270,DF,30.03.86,Real Madrid CF,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+Xabi ALONSO,ALONSO,191,MF,25.11.81,Real Madrid CF,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+Sergio BUSQUETS,SERGIO,180,MF,16.07.88,FC Barcelona,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+KOKE,KOKE,134,MF,08.01.92,Atletico Madrid,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+Diego COSTA,DIEGO COSTA,126,FW,07.10.88,Atletico Madrid,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+Pedro RODRIGUEZ,PEDRO,104,FW,28.07.87,FC Barcelona,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+Gerard PIQUE,PIQUE,90,DF,02.02.87,FC Barcelona,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+Xavi HERNANDEZ,XAVI,90,MF,25.01.80,FC Barcelona,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+JUANFRAN,JUANFRAN,90,DF,09.01.85,Atletico Madrid,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+Dayid VILLA,DAVID VILLA,56,FW,03.12.81,Atletico Madrid,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+Cesc FABREGAS,FABREGAS,34,MF,04.05.87,FC Barcelona,ESP,Primera Division,Spain,4,7,-3,0,0,3,3
+Philippe SENDEROS,SENDEROS,81,DF,14.02.85,Valencia CF,ESP,Primera Division,Switzerland,7,6,1,3,0,3,6
+Diego GODIN,GODIN,360,DF,16.02.86,Atletico Madrid,ESP,Primera Division,Uruguay,4,4,0,0,3,3,6
+Cristian RODRIGUEZ,C. RODRIGUEZ,334,MF,30.09.85,Atletico Madrid,ESP,Primera Division,Uruguay,4,4,0,0,3,3,6
+Jose GIMENEZ,J.M. GIMENEZ,270,DF,20.01.95,Atletico Madrid,ESP,Primera Division,Uruguay,4,4,0,0,3,3,6
+Keylor NAVAS,NAVAS K.,510,GK,15.12.86,Levante,ESP,Primera Division,Costa Rica,4,1,3,3,3,1,7
+Loukas VYNTRA,VYNTRA,0,DF,05.02.81,Levante,ESP,Primera Division,Greece,2,4,-2,0,1,3,4
+Hector MORENO,H MORENO,316,DF,17.01.88,Espanyol,ESP,Primera Division,Mexico,4,1,3,3,1,3,7
+Cristhian STUANI,STUANI,177,FW,12.10.86,Espanyol,ESP,Primera Division,Uruguay,4,4,0,0,3,3,6
+Agustin ORION,ORION,0,GK,26.07.81,CA Boca Juniors,ARG,Primera Division,Argentina,6,3,3,3,3,3,9
+Maxi RODRIGUEZ,RODRIGUEZ,399,MF,02.01.81,CA Newell's Old Boys,ARG,Primera Division,Argentina,6,3,3,3,3,3,9
+Fernando GAGO,GAGO,373,MF,10.04.86,CA Boca Juniors,ARG,Primera Division,Argentina,6,3,3,3,3,3,9
+Cristopher TOSELLI,TOSELLI,0,GK,15.06.88,CD Universidad Catolica,CHI,Primera Division Nacional,Chile,5,3,2,3,3,0,6
+Johnny HERRERA,HERRERA,0,GK,09.05.81,Club Universidad de Chile,CHI,Primera Division Nacional,Chile,5,3,2,3,3,0,6
+Jose FU ENZ ALI DA,FUENZALIDA,0,MF,22.02.85,CSD Colo0Colo,CHI,Primera Division Nacional,Chile,5,3,2,3,3,0,6
+Esteban PAREDES,PAREDES,270,FW,01.08.80,CSD Colo0Colo,CHI,Primera Division Nacional,Chile,5,3,2,3,3,0,6
+Jose ROJAS,ROJAS,12,DF,23.06.83,Club Universidad de Chile,CHI,Primera Division Nacional,Chile,5,3,2,3,3,0,6
+Rodrigo MUNOZ,MUNOZ,0,GK,22.01.82,Club Libertad,PAR,Primera Division,Uruguay,4,4,0,0,3,3,6
+Mark BRESCIANO,BRESCIANO,147,MF,11.02.80,AI Gharafa SC,QAT,Stars League,Australia,3,9,-6,0,0,0,0
+Christian BOLANOS,BOLANOS C.,413,MF,17.05.84,FC Kobenhavn,DEN,Danish Superliga,Costa Rica,4,1,3,3,3,1,7
+Liassine CADAMURO,CADAMURO,0,DF,05.03.88,RCD Mallorca,ESP,Segunda Division,Algeria,6,5,1,0,3,1,4
+Masoud SHOJAEI,MASOUD SH,123,FW,09.06.84,UD Las Palmas,ESP,Segunda Division,Iran,1,4,-3,1,0,0,1
+Faouzi GHOULAM,GHOULAM,210,DF,01.02.91,SSC Napoli,ITA,Serie A,Algeria,6,5,1,0,3,1,4
+Saphir TAI DER,TAIDER,168,MF,29.02.92,FC Internazionale Milano,ITA,Serie A,Algeria,6,5,1,0,3,1,4
+Hassan YEBDA,YEBDA,19,MF,14.05.84,Udinese Calcio,ITA,Serie A,Algeria,6,5,1,0,3,1,4
+Gonzalo HIGUAIN,HIGUAIN,571,FW,10.12.87,SSC Napoli,ITA,Serie A,Argentina,6,3,3,3,3,3,9
+Federico FERN AN DEZ,FERNANDEZ F.,390,DF,21.02.89,SSC Napoli,ITA,Serie A,Argentina,6,3,3,3,3,3,9
+Lucas BIGLIA,BIGLIA,349,MF,30.01.86,SS Lazio,ITA,Serie A,Argentina,6,3,3,3,3,3,9
+Rodrigo PALACIO,PALACIO,160,FW,05.02.82,FC Internazionale Milano,ITA,Serie A,Argentina,6,3,3,3,3,3,9
+Hugo CAMPAGNARO,CAMPAGNARO,46,DF,27.06.80,FC Internazionale Milano,ITA,Serie A,Argentina,6,3,3,3,3,3,9
+Ricardo ALVAREZ,ALVAREZ,27,MF,12.04.88,FC Internazionale Milano,ITA,Serie A,Argentina,6,3,3,3,3,3,9
+Dries MERTENS,MERTENS,269,MF,06.05.87,SSC Napoli,ITA,Serie A,Belgium,4,1,3,3,3,3,9
+Miralem PJANIC,PJANIC,270,MF,02.04.90,AS Roma,ITA,Serie A,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Senad LULIC,LULIC,148,MF,18.01.86,SS Lazio,ITA,Serie A,Bosnia and Herzegovina,4,4,0,0,0,3,3
+MAICON,MAICON,270,DF,26.07.81,AS Roma,ITA,Serie A,Brazil,7,2,5,3,1,3,7
+HERNANES,HERNANES,64,MF,29.05.85,FC Internazionale Milano,ITA,Serie A,Brazil,7,2,5,3,1,3,7
+HENRIQUE,HENRIQUE,2,DF,14.10.86,SSC Napoli,ITA,Serie A,Brazil,7,2,5,3,1,3,7
+Mauricio ISLA,ISLA,390,DF,12.06.88,Juventus FC,ITA,Serie A,Chile,5,3,2,3,3,0,6
+Arturo VI DAL,VIDAL,235,MF,22.05.87,Juventus FC,ITA,Serie A,Chile,5,3,2,3,3,0,6
+Mauricio PINILLA,PINILLA,44,FW,04.02.84,Cagliari Calcio,ITA,Serie A,Chile,5,3,2,3,3,0,6
+Carlos CARMONA,CARMONA,2,MF,21.02.87,Atalanta Bergamo,ITA,Serie A,Chile,5,3,2,3,3,0,6
+Juan CUADRADO,CUADRADO,387,MF,26.05.88,ACF Fiorentina,ITA,Serie A,Colombia,9,2,7,3,3,3,9
+Cristian ZAPATA,C. ZAPATA,360,DF,30.09.86,AC Milan,ITA,Serie A,Colombia,9,2,7,3,3,3,9
+Juan ZUNIGA,J. ZUNIGA,360,DF,14.12.85,SSC Napoli,ITA,Serie A,Colombia,9,2,7,3,3,3,9
+Mario YEPES,YEPES,360,DF,13.01.76,Atalanta Bergamo,ITA,Serie A,Colombia,9,2,7,3,3,3,9
+Victor IBARBO,IBARBO,189,FW,19.05.90,Cagliari Calcio,ITA,Serie A,Colombia,9,2,7,3,3,3,9
+Fredy GUARIN,GUARIN,189,MF,30.06.86,FC Internazionale Milano,ITA,Serie A,Colombia,9,2,7,3,3,3,9
+GERVINHO,GERVINHO,263,FW,27.05.87,AS Roma,ITA,Serie A,Cote d'Ivoire,4,5,-1,3,0,0,3
+Sime VRSALJKO,VRSALJKO,148,DF,10.01.92,Genoa CFC,ITA,Serie A,Croatia,6,4,2,0,3,0,3
+Mateo KOVACIC,KOVACIC,111,MF,06.05.94,FC Internazionale Milano,ITA,Serie A,Croatia,6,4,2,0,3,0,3
+Ante REBIC,REBIC,44,FW,21.09.93,ACF Fiorentina,ITA,Serie A,Croatia,6,4,2,0,3,0,3
+Paul POGBA,POGBA,354,MF,15.03.93,Juventus FC,ITA,Serie A,France,8,2,6,3,3,1,7
+Miroslav KLOSE,KLOSE,280,FW,09.06.78,SS Lazio,ITA,Serie A,Germany,7,2,5,3,1,3,7
+Shkodran MUSTAFI,MUSTAFI,131,DF,17.04.92,UC Sampdoria,ITA,Serie A,Germany,7,2,5,3,1,3,7
+Kwadwo ASAMOAH,K. ASAMOAH,270,MF,09.12.88,Juventus FC,ITA,Serie A,Ghana,4,6,-2,0,1,0,1
+Sulley MUNTARI,MUNTARI,180,MF,27.08.84,AC Milan,ITA,Serie A,Ghana,4,6,-2,0,1,0,1
+Emmanuel AGYEMANG BADU,A. BADU,102,MF,02.12.90,Udinese Calcio,ITA,Serie A,Ghana,4,6,-2,0,1,0,1
+Michael ESSIEN,ESSIEN,19,MF,03.12.82,AC Milan,ITA,Serie A,Ghana,4,6,-2,0,1,0,1
+Acquah AFRIYIE,ACQUAH,14,MF,01.05.92,Parma FC,ITA,Serie A,Ghana,4,6,-2,0,1,0,1
+Vangelis MORAS,MORAS,0,DF,26.08.81,Hellas Verona FC,ITA,Serie A,Greece,2,4,-2,0,1,3,4
+Panagiotis TACHTSIDIS,TACHTSIDIS,0,MF,15.02.91,Torino FC,ITA,Serie A,Greece,2,4,-2,0,1,3,4
+VasileiosTOROSI DIS,TOROSIDIS,390,DF,10.06.85,AS Roma,ITA,Serie A,Greece,2,4,-2,0,1,3,4
+loannis FETFATZIDIS,FETFATZIDIS,74,FW,21.12.90,Genoa CFC,ITA,Serie A,Greece,2,4,-2,0,1,3,4
+Mattia PERIN,PERIN,0,GK,10.11.92,Genoa CFC,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Alberto AQUILANI,AQUILANI,0,MF,07.07.84,ACF Fiorentina,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Giorgio CHIELLINI,CHIELLINI,270,DF,14.08.84,Juventus FC,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Andrea BARZAGLI,BARZAGLI,270,DF,08.05.81,Juventus FC,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Andrea PIRLO,PIRLO,270,MF,19.05.79,Juventus FC,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Matteo DARM 1 AN,DARMIAN,270,DF,02.12.89,Torino FC,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Claudio MARCHISIO,MARCHISIO,218,MF,19.01.86,Juventus FC,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Mario BALOTELLI,BALOTELLI,209,FW,12.08.90,AC Milan,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Daniele DE ROSSI,DE ROSSI,180,MP,24.07.83,AS Roma,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Gianluigi BUFFON,BUFFON,180,GK,28.01.78,Juventus FC,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Antonio CANDREVA,CANDREVA,136,MF,28.02.87,SS Lazio,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Mattia DESCIGLIO,DE SCIGLIO,90,DF,20.10.92,AC Milan,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Ignazio ABATE,ABATE,90,DF,12.11.86,AC Milan,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Leonardo BONUCCI,BONUCCI,90,DF,01.05.87,Juventus FC,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Gabriel PALETTA,PALETTA,90,DF,15.02.86,Parma FC,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Ciro IMMOBILE,IMMOBILE,88,FW,20.02.90,Torino FC,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Antonio CASSANO,CASSANO,63,FW,12.07.82,Parma FC,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Marco PAROLO,PAROLO,55,MF,25.01.85,Parma FC,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Lorenzo INSIGNE,INSIGNE,33,FW,04.06.91,SSC Napoli,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Alessio CER CI,CERCI,21,FW,23.07.87,Torino FC,ITA,Serie A,Italy,2,4,-2,3,0,0,3
+Keisuke HONDA,HONDA,270,FW,13.06.86,AC Milan,ITA,Serie A,Japan,2,6,-4,0,1,0,1
+Yuto NAGATOMO,NAGATOMO,270,DF,12.09.86,FC Internazionale Milano,ITA,Serie A,Japan,2,6,-4,0,1,0,1
+Nigel DEJONG,DE JONG,341,MF,30.11.84,AC Milan,ITA,Serie A,Netherlands,10,3,7,3,3,3,9
+Ogenyi ONAZI,ONAZI,329,MF,25.12.92,SS Lazio,ITA,Serie A,Nigeria,3,3,0,1,3,0,4
+Helder POSTIGA,H. POSTIGA,16,FW,02.08.82,SS Lazio,ITA,Serie A,Portugal,4,7,-3,0,1,3,4
+Raul ALBIOL,R. ALBIOL,90,DF,04.09.85,SSC Napoli,ITA,Serie A,Spain,4,7,-3,0,0,3,3
+Pepe REINA,REINA,90,GK,31.08.82,SSC Napoli,ITA,Serie A,Spain,4,7,-3,0,0,3,3
+Reto ZIEGLER,ZIEGLER,0,DF,16.01.86,US Sassuolo,ITA,Serie A,Switzerland,7,6,1,3,0,3,6
+Stephan LICHTSTEINER,LICHTSTEINER,390,DF,16.01.84,Juventus FC,ITA,Serie A,Switzerland,7,6,1,3,0,3,6
+Gokhan INLER,INLER,390,MF,27.06.84,SSC Napoli,ITA,Serie A,Switzerland,7,6,1,3,0,3,6
+Valon BEHRAMI,BEHRAMI,346,MF,19.04.85,SSC Napoli,ITA,Serie A,Switzerland,7,6,1,3,0,3,6
+Blerim DZEMAILI,DZEMAILI,54,MF,12.04.86,SSC Napoli,ITA,Serie A,Switzerland,7,6,1,3,0,3,6
+Martin CACERES,CACERES,360,DF,07.04.87,Juventus FC,ITA,Serie A,Uruguay,4,4,0,0,3,3,6
+Alvaro GONZALEZ,A. GONZALEZ,266,MF,29.10.84,SS Lazio,ITA,Serie A,Uruguay,4,4,0,0,3,3,6
+Walter GARGANO,GARGANO,60,MF,23.07.84,Parma FC,ITA,Serie A,Uruguay,4,4,0,0,3,3,6
+Abel HERNANDEZ,HERNANDEZ,37,FW,08.08.90,US Citta di Palermo,ITA,Serie A,Uruguay,4,4,0,0,3,3,6
+Djamel MESBAH,MESBAH,180,DF,09.10.84,AS Livorno,ITA,Serie B,Algeria,6,5,1,0,3,1,4
+Mariano ANDUJAR,ANDUJAR,0,GK,30.07.83,Caldo Catania,ITA,Serie B,Argentina,6,3,3,3,3,3,9
+Lazaros CHRISTODOULOPOULOS,LAZAROS,210,MF,19.12.86,Bologna FC,ITA,Serie B,Greece,2,4,-2,0,1,3,4
+Panagiotis KONE,KONE,171,MF,26.07.87,Bologna FC,ITA,Serie B,Greece,2,4,-2,0,1,3,4
+Diego PEREZ,D. PEREZ,0,MF,18.05.80,Bologna FC,ITA,Serie B,Uruguay,4,4,0,0,3,3,6
+Madjid BOUGUERRA,BOUGUERRA,202,DF,07.10.82,Lekhwiya SC,QAT,Stars League,Algeria,6,5,1,0,3,1,4
+Pejman MONTAZERI,MONTAZERI,270,DF,06.09.83,Umm Salal SC,QAT,Stars League,Iran,1,4,-3,1,0,0,1
+Dario VIDOSIC,VIDOSIC,0,MF,08.04.87,FC Sion,SUI,Super League,Australia,3,9,-6,0,0,0,0
+Oliver BOZANIC,BOZANIC,111,MF,08.01.89,FC Luzern,SUI,Super League,Australia,3,9,-6,0,0,0,0
+Zvjezdan MISIMOVIC,MISIMOVIC,164,MF,05.06.82,Guizhou Renhe FC,CHN,Super League,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Marcelo DIAZ,DIAZ,390,MF,30.12.86,FC Basel,SUI,Super League,Chile,5,3,2,3,3,0,6
+Joel CAMPBELL,CAMPBELL J.,415,FW,26.06.92,Olympiacos Piraeus FC,GRE,Super League,Costa Rica,4,1,3,3,3,1,7
+Die SEREY,SEREY DIE,225,MF,07.11.84,FC Basel,SUI,Super League,Cote d'Ivoire,4,5,-1,3,0,0,3
+Giovanni SIO,SIO,7,FW,31.03.89,FC Basel,SUI,Super League,Cote d'Ivoire,4,5,-1,3,0,0,3
+Gordon SCHILDENFELD,SCHILDENFELD,0,DF,18.03.85,Panathinaikos FC,GRE,Super League,Croatia,6,4,2,0,3,0,3
+Danijel PRANJIC,PRANJIC,164,DF,02.12.81,Panathinaikos FC,GRE,Super League,Croatia,6,4,2,0,3,0,3
+Samuel INKOOM,INKOOM,0,DF,01.06.89,FC Platanias,GRE,Super League,Ghana,4,6,-2,0,1,0,1
+Stefanos K API NO,KAPINO,0,GK,18.03.94,Panathinaikos FC,GRE,Super League,Greece,2,4,-2,0,1,3,4
+GeorgiosTZAVELAS,TZAVELLAS,0,DF,26.11.87,PAOK FC,GRE,Super League,Greece,2,4,-2,0,1,3,4
+Konstantinos MANOLAS,MANOLAS,390,DF,14.06.91,Olympiacos Piraeus FC,GRE,Super League,Greece,2,4,-2,0,1,3,4
+Jose CHOLEVAS,CHOLEVAS,390,DF,27.06.84,Olympiacos Piraeus FC,GRE,Super League,Greece,2,4,-2,0,1,3,4
+loannis MANIATIS,MANIATIS,348,MF,12.10.86,Olympiacos Piraeus FC,GRE,Super League,Greece,2,4,-2,0,1,3,4
+Dimitrios SALPINGIDIS,SALPINGIDIS,225,FW,18.08.81,PAOK FC,GRE,Super League,Greece,2,4,-2,0,1,3,4
+Konstantinos KATSOURANIS,KATSOURANIS,170,MF,21.06.79,PAOK FC,GRE,Super League,Greece,2,4,-2,0,1,3,4
+Andreas SAMARIS,SAMARIS,136,MF,13.06.89,Olympiacos Piraeus FC,GRE,Super League,Greece,2,4,-2,0,1,3,4
+Panagiotis GLYKOS,GLYKOS,66,GK,10.10.86,PAOK FC,GRE,Super League,Greece,2,4,-2,0,1,3,4
+HADaesung,D S HA,0,MF,02.03.85,Beijing Guoan,CHN,Super League,Korea Republic,3,6,-3,1,0,0,1
+PARK Jongwoo,J W PARK,0,MF,10.03.89,Guangzhou R&F FC,CHN,Super League,Korea Republic,3,6,-3,1,0,0,1
+KIM Younggwon,Y G KIM,270,DF,27.02.90,Guangzhou Evergrande Taobao FC,CHN,Super League,Korea Republic,3,6,-3,1,0,0,1
+Yann SOMMER,SOMMER,0,GK,17.12.88,FC Basel,SUI,Super League,Switzerland,7,6,1,3,0,3,6
+Roman BUER Kl,BURKI,0,GK,14.11.90,Grasshopper Club,SUI,Super League,Switzerland,7,6,1,3,0,3,6
+Fabian SCHAER,SCHAR,0,DF,20.12.91,FC Basel,SUI,Super League,Switzerland,7,6,1,3,0,3,6
+Mario GAVRANOVIC,GAVRANOVIC,0,FW,24.11.89,FC Zürich,SUI,Super League,Switzerland,7,6,1,3,0,3,6
+Steve VON BERGEN,VON BERGEN,99,DF,10.06.83,BSC Young Boys,SUI,Super League,Switzerland,7,6,1,3,0,3,6
+Valentin STOCKER,STOCKER,46,MF,12.04.89,FC Basel,SUI,Super League,Switzerland,7,6,1,3,0,3,6
+Michael LANG,LANG,13,DF,08.02.91,Grasshopper Club,SUI,Super League,Switzerland,7,6,1,3,0,3,6
+Senijad IBRICIC,IBRICIC,0,MF,26.09.85,Kayseri Erciyesspor,TUR,Süper Lig,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Izet HAJROVIC,HAJROVIC,128,MF,04.08.91,Galatasaray SK,TUR,Süper Lig,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Haris MEDUNJANIN,MEDUNJANIN,80,MF,08.03.85,Gaziantepspor,TUR,Süper Lig,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Charles ITANDJE,ITANDJE,270,GK,02.11.82,Konyaspor,TUR,Süper Lig,Cameroon,1,9,-8,0,0,0,0
+Aurelien CHEDJOU,CHEDJOU,136,DF,20.06.85,Galatasaray SK,TUR,Süper Lig,Cameroon,1,9,-8,0,0,0,0
+Dany NOUNKEU,NOUNKEU,88,DF,11.04.86,Besiktas JK,TUR,Süper Lig,Cameroon,1,9,-8,0,0,0,0
+Pierre WEBO,WEBO,49,FW,20.01.82,Fenerbahce SK,TUR,Süper Lig,Cameroon,1,9,-8,0,0,0,0
+Ousmane DIARRASSOUBA,VIERA,0,DF,21.12.86,Caykur Rizespor,TUR,Süper Lig,Cote d'Ivoire,4,5,-1,3,0,0,3
+Souleymane BAMBA,BAMBA,270,DF,13.01.85,Trabzonspor,TUR,Süper Lig,Cote d'Ivoire,4,5,-1,3,0,0,3
+Didier ZOKORA,ZOKORA,180,DF,14.12.80,Trabzonspor,TUR,Süper Lig,Cote d'Ivoire,4,5,-1,3,0,0,3
+Didier DROGBA,DROGBA,136,FW,11.03.78,Galatasaray SK,TUR,Süper Lig,Cote d'Ivoire,4,5,-1,3,0,0,3
+Theofanis GEKAS,GEKAS,182,FW,23.05.80,Konyaspor,TUR,Süper Lig,Greece,2,4,-2,0,1,3,4
+Wesley SNEIJDER,SNEIJDER,585,MF,09.06.84,Galatasaray SK,TUR,Süper Lig,Netherlands,10,3,7,3,3,3,9
+Dirk KUYT,KUYT,509,FW,22.07.80,Fenerbahce SK,TUR,Süper Lig,Netherlands,10,3,7,3,3,3,9
+Emmanuel EMENIKE,EMENIKE,360,FW,10.05.87,Fenerbahce SK,TUR,Süper Lig,Nigeria,3,3,0,1,3,0,4
+Godfrey OBOABONA,OBOABONA,29,DF,16.09.90,Caykur Rizespor,TUR,Süper Lig,Nigeria,3,3,0,1,3,0,4
+Bruno ALVES,B. ALVES,270,DF,27.11.81,Fenerbahce SK,TUR,Süper Lig,Portugal,4,7,-3,0,1,3,4
+Raul MEIRELES,R. MEIRELES,159,MF,17.03.83,Fenerbahce SK,TUR,Süper Lig,Portugal,4,7,-3,0,1,3,4
+Hugo ALMEIDA,H. ALMEIDA,28,FW,23.05.84,Besiktas JK,TUR,Süper Lig,Portugal,4,7,-3,0,1,3,4
+Fernando MUSLERA,MUSLERA,360,GK,16.06.86,Galatasaray SK,TUR,Süper Lig,Uruguay,4,4,0,0,3,3,6
+Jermaine JONES,JONES,390,MF,03.11.81,Besiktas JK,TUR,Süper Lig,USA,4,4,0,3,1,0,4
+Edin VISCA,VISCA,25,FW,17.02.90,Istanbul BBSK,TUR,Süper Lig,Bosnia and Herzegovina,4,4,0,0,0,3,3
+Teofilo GUTIERREZ,TEO,304,FW,17.05.85,CA River Plate,ARG,Primera Division,Colombia,9,2,7,3,3,3,9
+Eder BALANTA,BALANTA,90,DF,28.02.93,CA River Plate,ARG,Primera Division,Colombia,9,2,7,3,3,3,9
+Carlos VALDES,VALDES,90,DF,22.05.85,CA San Lorenzo de Amagro,ARG,Primera Division,Colombia,9,2,7,3,3,3,9
+Carlos CARBONERO,C. CARBONERO,44,MF,25.07.90,CA River Plate,ARG,Primera Division,Colombia,9,2,7,3,3,3,9
+Diego CALVO,CALVO D.,0,MF,25.03.91,Valerenga IF,NOR,Eliteserien ,Costa Rica,4,1,3,3,3,1,7
+Cristian GAMBOA,GAMBOA C.,426,DF,24.10.89,Rosenborg BK,NOR,Eliteserien ,Costa Rica,4,1,3,3,3,1,7
+Michael BARRANTES,BARRANTES M.,13,MF,04.10.83,Aalesunds FK,NOR,Eliteserien ,Costa Rica,4,1,3,3,3,1,7
+Sayouba MANDE,M. SAYOUBA,0,GK,15.06.93,Stabaek IF,NOR,Eliteserien ,Cote d'Ivoire,4,5,-1,3,0,0,3
+Adam KWARASEY,KWARASEY,90,GK,12.12.87,Stromsgodset IF,NOR,Eliteserien ,Ghana,4,6,-2,0,1,0,1
+Mix DISKERUD,DISKERUD,0,MF,02.10.90,Rosenborg BK,NOR,Eliteserien ,USA,4,4,0,3,1,0,4
+Jasper CILLESSEN,CILLESSEN,690,GK,22.04.89,AFC,NED,Topklasse Division Zondag,Netherlands,10,3,7,3,3,3,9
+Daniel CAMBRONERO,CAMBRONERO D.,0,GK,08.01.86,CS Herediano,CRC,Primera Division,Costa Rica,4,1,3,3,3,1,7
+Heiner MORA,MORAH,0,DF,20.06.84,Deportivo Saprissa,CRC,Primera Division,Costa Rica,4,1,3,3,3,1,7
+Oscar GRAN ADOS,GRANADOS O.,0,MF,25.10.85,CS Herediano,CRC,Primera Division,Costa Rica,4,1,3,3,3,1,7
+Michael UMANA,UMANA M.,420,DF,16.07.82,Deportivo Saprissa,CRC,Primera Division,Costa Rica,4,1,3,3,3,1,7
+Yeltsin TEJEDA,TEJEDA Y.,395,MF,17.03.92,Deportivo Saprissa,CRC,Primera Division,Costa Rica,4,1,3,3,3,1,7
+Jose CUBERO,CUBERO J.,115,MF,14.02.87,CS Herediano,CRC,Primera Division,Costa Rica,4,1,3,3,3,1,7
+Randall BRENES,BRENES R.,105,FW,13.08.83,CSD Cartagines,CRC,Primera Division,Costa Rica,4,1,3,3,3,1,7

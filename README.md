@@ -115,10 +115,10 @@ d = Success parameter
 1. For each national team and each league: Calculate the share of players of a league in a national team (a) out of all the players in that national team (b)
 2. For each national team and each league: Multiply the value of your success parameter (d) with the result of (1) to receive the proportionate amount of points for each league in each national team
 3. Add up all proportionate points (2) for each league 
-4. Multiply the sum of all proportionate points (3) with the number of all players of this leage (c)
+4. Multiply the sum of all proportionate points (3) with the number of all players of this league (c)
 5. Rank by score (4)
 
 
 ### Results
 
-See [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1KpNHVYXjeMxnSwtzpqraQVo8KcoRE9KiNE2Nd7X6Nq4/edit#gid=2126441282) compiling all data, documenting calculation steps and for the final score.
+See [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1KpNHVYXjeMxnSwtzpqraQVo8KcoRE9KiNE2Nd7X6Nq4/edit?usp=sharing) compiling all data, documenting calculation steps and for the final score.
