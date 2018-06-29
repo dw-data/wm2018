@@ -89,7 +89,7 @@ Player stats were obtained by scraping the "tactical formation" page of each gam
 **Key question: How to transfer points of a National Team to different leagues? Especially when several Leagues are part of one National Team?**
 
 Things to account for in analysis:
-1. A league with more players can score better --> normalize over number of players per league
+1. A league with more players can score better
 2. A leage with players scattered across teams can score better 
 3. A league with more matches can score better (relates to 1 and 2)
 
