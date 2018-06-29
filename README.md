@@ -1,7 +1,9 @@
 # How does my league perform at the World Cup?
 
 Idea: Peter Wozny
+
 Data Analysis: Eva Lopez & Gianna-Carina Grün
+
 Reporting: David Vorholt
 
 *To see whether our idea can work, we ran a test with the 2014 World Cup Data. Hence, for all steps, the process is documented for both years, 2014 and 2018.*
