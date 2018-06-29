@@ -9,23 +9,23 @@ Reporting: David Vorholt
 
 ## Data sources
 
-1. Squads
+### 1. Squads
 
 2014: http://resources.fifa.com/mm/document/tournament/competition/02/36/33/44/fwc_2014_squadlists_neutral.pdf
 
 2018: https://img.fifa.com/image/upload/hzfqyndmnqazczvc5xdb.pdf
 
-2. Results and goals
+### 2. Results and goals
 2014: https://github.com/openfootball/world-cup/blob/master/2014--brazil/cup.txt
 
 2018: https://www.google.de/search?q=data+results+fifa+world+cup&oq=data+results+fifa+world+cup#sie=lg;/m/06qjc4;2;/m/030q7;st;fp;1
 
 2018 backup: https://github.com/openfootball/world-cup/blob/master/2018--russia/cup.txt
 
-3. Club - League affiliations
+### 3. Club - League affiliations
 2014 and 2018: https://fussball.wettpoint.com/en/tables.html
 
-4. Player Stats -- who played?
+### 4. Player Stats -- who played?
 
 2014: http://www.fifa.com/worldcup/archive/brazil2014/statistics/players/distance.html
 
