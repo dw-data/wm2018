@@ -10,24 +10,30 @@ Reporting: David Vorholt
 ## Data sources
 
 1. Squads
+
 2014: http://resources.fifa.com/mm/document/tournament/competition/02/36/33/44/fwc_2014_squadlists_neutral.pdf
+
 2018: https://img.fifa.com/image/upload/hzfqyndmnqazczvc5xdb.pdf
 
 2. Results and goals
 2014: https://github.com/openfootball/world-cup/blob/master/2014--brazil/cup.txt
+
 2018: https://www.google.de/search?q=data+results+fifa+world+cup&oq=data+results+fifa+world+cup#sie=lg;/m/06qjc4;2;/m/030q7;st;fp;1
+
 2018 backup: https://github.com/openfootball/world-cup/blob/master/2018--russia/cup.txt
 
 3. Club - League affiliations
 2014 and 2018: https://fussball.wettpoint.com/en/tables.html
 
 4. Player Stats -- who played?
+
 2014: http://www.fifa.com/worldcup/archive/brazil2014/statistics/players/distance.html
+
 2018: http://www.kicker.de/news/fussball/weltmeisterschaft/spiele/weltmeisterschaft/2018/3/0/spieltag.html
 
 ## Data gathering and cleaning
 
-###1. SQUADS
+### 1. SQUADS
 
 - Scraping with Abbyy Fine Reader
 - In the spreadsheet, add an additional column with the national team
@@ -54,7 +60,7 @@ Reporting: David Vorholt
 - Double-check all country codes were separated correctly from the club name
 
 
-###2. RESULTS AND GOALS**
+### 2. RESULTS AND GOALS
 
 **2014**
 Were transferred manually from the link page into the same spreadsheet, derived from 1.
@@ -62,7 +68,7 @@ Were transferred manually from the link page into the same spreadsheet, derived 
 **2018**
 We scraped them from the Google result page, listed under data sources above.
 
-###3. CLUB LEAGUE AFFILIATION**
+### 3. CLUB LEAGUE AFFILIATION
 
 Information on what club played in which league was obtained by scraping the landing page of [Fußball Wettpoint](https://fussball.wettpoint.com/en/tables.html) that has a list of all football leagues per country. Subsequently, the page of each of the leagues was scanned for a 2014 data table page that was then accessed and also scraped, resulting in a list of clubs that played in each league in 2014. The same was repeated for 2018.
 
@@ -70,7 +76,7 @@ Information from this table were then joined with the spreadsheet from 1.
 
 Missing information was researched manually.
 
-###4. PLAYER STATS**
+### 4. PLAYER STATS
 
 **2014**
 Player stats were obtained scraping [this FIFA page](http://www.fifa.com/worldcup/archive/brazil2014/statistics/players/distance.html) containing information on matches played and minutes played. This was later joined with the spreadsheet from 1 and 3. It only contains players that played in the tournament. 
