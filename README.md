@@ -1,5 +1,7 @@
 # How does my league perform at the World Cup?
 
+Based on group stage results (points and rank)
+
 Idea: Peter Wozny
 
 Data Analysis: Eva Lopez & Gianna-Carina Grün
@@ -44,10 +46,10 @@ Reporting: David Vorholt
 **2014**
 - Open in Sublime
 - Replace # with 00
-- Replace ^2014 with nothing
-- for lines starting with \d; add a zero in front
+- Replace `^2014` with nothing
+- for lines starting with `\d`; add a zero in front
 - get rid of OCR errors that lead to lines not starting with a number between 00 and 23
-- replace all lines not starting with \d\d with nothing with Regex `(^)(?!\d\d).*$`
+- replace all lines not starting with `\d\d` with nothing with Regex `(^)(?!\d\d).*$`
 - replace all addition header rows `00;FIFA Display Name;Last Name;First Name;Shirt Name;DOB;POS;Club;Height;Caps;Goals;WM_Mannschaft`
 - replace `(` with ;
 - replace `);` with ;
