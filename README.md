@@ -124,3 +124,75 @@ d = Success parameter
 ### Results
 
 See [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1KpNHVYXjeMxnSwtzpqraQVo8KcoRE9KiNE2Nd7X6Nq4/edit?usp=sharing) compiling all data, documenting calculation steps and for the final score for 2018. [Here](https://docs.google.com/spreadsheets/d/1WlHbR9yEpG0FdC25jVhXChNB2XwxODd-Dz7_-xxbFwo/edit?usp=sharing) you find all these details for the 2014 analysis.
+
+![](DW-Score-2018.png)
+![](DW-Score-Comparison-2018-2014.png)
+
+#### DW Score List
+
+**R		League					DW Score 2018**
+1		ENG - Premier League		1758.96
+2		ESP - Primera Division		1155.28
+3		GER - Bundesliga			563.28
+4		ITA - Serie A				425.96
+5		FRA - Ligue 1				256.17
+6		RUS - Premjer-Liga			197.30
+7		KSA - Saudi Pro League		66.76
+8		MEX - Primera Division		75.34
+9		TUR - Süper Lig				44.69
+10		ENG - Championship			30.43
+11		POR - Primeira Liga			42.44
+12		USA - Major League Soccer	17.76
+13		NED - Eredivisie			23.43
+14		BEL - First Division A		20.38
+15		KOR - K League				10.66
+16		CHN - Super League			14.66
+17		ARG - Primera Division		7.58
+18		EGY - Premier League		2.01
+19		JPN - J1 League				5.48
+20		BRA - Serie A				6.88
+21		TUN - Ligue 1				3.91
+22		GER - 2. Bundesliga			2.83
+23		GRE - Super League			3.65
+24		IRN - Persian Gulf League	4.69
+25		SCO - Premier League		3.89
+26		DEN - Danish Superliga		4.71
+27		CRC - Primera Division		1.17
+28		COL - Categoría Primera A	0.89
+29		POL - Ekstraklasa			1.52
+30		SUI - Super League			1.74
+31		SWE - Allsvenskan			0.89
+32		GUA - Liga Nacional			0.10
+33		KOR - K League Challenge	0.53
+34		CHI - Primera Division Nacional	0.10
+35		PER - Torneo Descentralizado de Fútbol Profesional	0.10
+36		WAL - Premier League		0.45
+37		SRB - SuperLiga				0.56
+38		CRO - 1. HNL				2.65
+39		URU - Primera Division		0.00
+40		AUS - A-League				0.27
+41		AUT - Bundesliga			0.88
+42		QAT - Stars League			0.75
+43		UAE - Premier League		0.70
+44		ENG - League One			0.03
+45		FIN - Veikkausliiga			0.03
+46		GUI - Guinée Championnat National	0.18
+47		ROU - Divizia A				0.02
+48		MEX - Liga de Ascenso		0.02
+49		BUL - 1. Division			0.10
+50		ESP - Segunda Division		0.06
+51		UKR - Premier League		0.31
+52		SVK - Liga Nacional			0.02
+53		WAL - Championship			0.06
+54		ISL - Men's Select Division	0.06
+55		FRA - Ligue 2				0.11
+56		PAN - Liga Panameña de Fútbol	0.02
+57		MAR - GNEF 1				0.06
+58		HON - Liga Nacional			0.00
+59		PAN - LPF Apertura			0.02
+60		MEX - Liga de Ascenso Clausura	0.02
+61		HON - Liga Nacional Apertura	0.02
+62		SVK - Fortuna Liga			0.02
+63		ROU - Divizia A				0.02
+64		URU - Primera Division		0.00
+65		BRA - Mineiro				0.00
