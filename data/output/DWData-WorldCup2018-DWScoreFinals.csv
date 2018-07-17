@@ -1,0 +1,93 @@
+Team,#,Pos.,Player,Alias,HAS_PLAYED,Club,League,CountryCode
+Belgium,1,GK,COURTOIS Thibaut,COURTOIS,TRUE,Chelsea FC,Premier League,ENG
+Belgium,2,DF,ALDERWEIRELD Toby,ALDERWEIRELD,TRUE,Tottenham Hotspur FC,Premier League,ENG
+Belgium,3,DF,VERMAELEN Thomas,VERMAELEN,TRUE,FC Barcelona,Primera Division,ESP
+Belgium,4,DF,KOMPANY Vincent,KOMPANY,TRUE,Manchester City FC,Premier League,ENG
+Belgium,5,DF,VERTONGHEN Jan,VERTONGHEN,TRUE,Tottenham Hotspur FC,Premier League,ENG
+Belgium,6,MF,WITSEL Axel,WITSEL,TRUE,Tianjin Quanjian FC,Super League,CHN
+Belgium,7,MF,DE BRUYNE Kevin,DE BRUYNE,TRUE,Manchester City FC,Premier League,ENG
+Belgium,8,MF,FELLAINI Marouane,FELLAINI,FALSE,Manchester United FC,Premier League,ENG
+Belgium,9,FW,LUKAKU Romelu,R. LUKAKU,TRUE,Manchester United FC,Premier League,ENG
+Belgium,10,FW,HAZARD Eden,E. HAZARD,TRUE,Chelsea FC,Premier League,ENG
+Belgium,11,MF,CARRASCO Yannick,CARRASCO,FALSE,Dalian Yifang FC,Super League,CHN
+Belgium,12,GK,MIGNOLET Simon,MIGNOLET,FALSE,Liverpool FC,Premier League,ENG
+Belgium,13,GK,CASTEELS Koen,CASTEELS,FALSE,VfL Wolfsburg,Bundesliga,GER
+Belgium,14,FW,MERTENS Dries,MERTENS,TRUE,SSC Napoli,Serie A,ITA
+Belgium,15,DF,MEUNIER Thomas,MEUNIER,TRUE,Paris Saint-Germain FC,Ligue 1,FRA
+Belgium,17,MF,TIELEMANS Youri,TIELEMANS,TRUE,AS Monaco,Ligue 1,FRA
+Belgium,18,FW,JANUZAJ Adnan,JANUZAJ,FALSE,Real Sociedad,Primera Division,ESP
+Belgium,19,MF,DEMBELE Moussa,DEMBELÉ,TRUE,Tottenham Hotspur FC,Premier League,ENG
+Belgium,20,DF,BOYATA Dedryck,BOYATA,FALSE,Celtic FC,Premier League,SCO
+Belgium,23,DF,DENDONCKERLeander,DENDONCKER,FALSE,RSC Anderlecht,First Division A,BEL
+Belgium,22,MF,CHADLI Nacer,CHADLI,TRUE,West Bromwich Albion FC,Premier League,ENG
+Belgium,21,FW,BATSHUAYI Michy,BATSHUAYI,FALSE,Borussia Dortmund,Bundesliga,GER
+Belgium,16,MF,FIAZARD Thorgan,T. HAZARD,FALSE,VfL Borussia Monchengladbach,Bundesliga,GER
+Croatia,2,DF,VRSAUKO Sime,VRSALJKO,TRUE,Atletico Madrid,Primera Division,ESP
+Croatia,3,DF,STRINIC Ivan,STRINIC,TRUE,UC Sampdoria,Serie A,ITA
+Croatia,4,FW,PERISIC Ivan,PERISIC,TRUE,FC Internazionale,Serie A,ITA
+Croatia,6,DF,LOVREN Dejan,LOVREN,TRUE,Liverpool FC,Premier League,ENG
+Croatia,7,MF,RAKITIC Ivan,RAKITIC,TRUE,FC Barcelona,Primera Division,ESP
+Croatia,8,MF,KOVACIC Mateo,KOVACIC,FALSE,Real Madrid CF,Primera Division,ESP
+Croatia,13,DF,JEDVAJ Tin,JEDVAJ,FALSE,Bayer 04 Leverkusen,Bundesliga,GER
+Croatia,10,MF,MODRIC Luka,MODRIC,TRUE,Real Madrid CF,Primera Division,ESP
+Croatia,11,MF,BROZOVIC Marcelo,BROZOVIC,TRUE,FC Internazionale,Serie A,ITA
+Croatia,1,GK,LIVAKOVIC Dominik,LIVAKOVIC,FALSE,GNK Dinamo Zagreb,1. HNL,CRO
+Croatia,5,DF,CORLUKA Vedran,CORLUKA,FALSE,FC Lokomotiv Moscow,Premjer-Liga,RUS
+Croatia,12,GK,KALINIC Lovre,L. KALINIC,FALSE,KAA Gent,First Division A,BEL
+Croatia,14,MF,BRADARIC Filip,BRADARIC,FALSE,HNK Rijeka,1. HNL,CRO
+Croatia,17,FW,MANDZUKIC Mario,MANDZUKIC,TRUE,Juventus FC,Serie A,ITA
+Croatia,19,MF,BADELJ Milan,BADELJ,FALSE,ACF Fiorentina,Serie A,ITA
+Croatia,21,DF,VIDA Domagoj,VIDA,TRUE,Besiktas JK,Süper Lig,TUR
+Croatia,22,DF,PIVARIC Josip,PIVARIC,FALSE,FC Dynamo Kyiv,Premier League,UKR
+Croatia,23,GK,SUBASIC Danijel,SUBASIC,TRUE,AS Monaco,Ligue 1,FRA
+Croatia,15,DF,CALETA-CAR Duje,CALETA-CAR,FALSE,FC Red Bull Salzburg,Bundesliga,AUT
+Croatia,16,FW,KALINIC Nikola,N. KALINIC,FALSE,AC Milan,Serie A,ITA
+Croatia,20,FW,PJACA Marko,PJACA,TRUE,FC Schalke 04,Bundesliga,GER
+Croatia,18,FW,REBIC Ante,REBIC,TRUE,Eintracht Frankfurt,Bundesliga,GER
+Croatia,9,FW,KRAMARIC Andrej,KRAMARIC,TRUE,TSG 1899 Hoffenheim,Bundesliga,GER
+England,1,GK,PICKFORD Jordan,PICKFORD,TRUE,Everton FC,Premier League,ENG
+England,2,DF,WALKER Kyle,WALKER,FALSE,Manchester City FC,Premier League,ENG
+England,3,DF,ROSE Danny,D. ROSE,TRUE,Tottenham Hotspur FC,Premier League,ENG
+England,4,MF,DIER Eric,DIER,TRUE,Tottenham Hotspur FC,Premier League,ENG
+England,5,DF,STONES John,STONES,TRUE,Manchester City FC,Premier League,ENG
+England,6,DF,MAGUIRE Harry,MAGUIRE,TRUE,Leicester City FC,Premier League,ENG
+England,7,MF,LINGARD Jesse,LINGARD,TRUE,Manchester United FC,Premier League,ENG
+England,8,MF,HENDERSON Jordan,J. HENDERSON,FALSE,Liverpool FC,Premier League,ENG
+England,9,FW,KANE Harry,H. KANE,TRUE,Tottenham Hotspur FC,Premier League,ENG
+England,10,FW,STERLING Raheem,STERLING,TRUE,Manchester City FC,Premier League,ENG
+England,11,FW,VARDY Jamie,VARDY,FALSE,Leicester City FC,Premier League,ENG
+England,12,DF,TRIPPIER Kieran,TRIPPIER,TRUE,Tottenham Hotspur FC,Premier League,ENG
+England,13,GK,BUTLAND Jack,BUTLAND,FALSE,Stoke City FC,Premier League,ENG
+England,14,FW,WELBECK Danny,WELBECK,FALSE,Arsenal FC,Premier League,ENG
+England,15,DF,CAHILL Gary,CAHILL,FALSE,Chelsea FC,Premier League,ENG
+England,18,DF,YOUNG Ashley,A. YOUNG,FALSE,Manchester United FC,Premier League,ENG
+England,19,FW,RASHFORD Marcus,RASHFORD,TRUE,Manchester United FC,Premier League,ENG
+England,20,MF,ALLI Dele,ALLI,TRUE,Tottenham Hotspur FC,Premier League,ENG
+England,16,DF,JONES Phil,JONES,TRUE,Manchester United FC,Premier League,ENG
+England,17,DF,DELPH Fabian,DELPH,TRUE,Manchester City FC,Premier League,ENG
+England,21,MF,LOFTUS-CHEEK Ruben,LOFTUS-CHEEK,TRUE,Chelsea FC,Premier League,ENG
+England,22,DF,ALEXANDER-ARNOLD Trent,ALEXANDER-ARNOLD,FALSE,Liverpool FC,Premier League,ENG
+England,23,GK,POPE Nick,POPE,FALSE,Burnley FC,Premier League,ENG
+France,1,GK,LLORIS Hugo,LLORIS,TRUE,Tottenham Hotspur FC,Premier League,ENG
+France,3,DF,KIMPEMBE Presnel,KIMPEMBE,FALSE,Paris Saint-Germain FC,Ligue 1,FRA
+France,4,DF,VARANE Raphael,VARANE,TRUE,Real Madrid CF,Primera Division,ESP
+France,5,DF,UMTITI Samuel,UMTITI,TRUE,FC Barcelona,Primera Division,ESP
+France,6,MF,POGBA Paul,POGBA,TRUE,Manchester United FC,Premier League,ENG
+France,7,FW,GRIEZMANN Antoine,GRIEZMANN,TRUE,Atletico Madrid,Primera Division,ESP
+France,8,FW,LEMAR Thomas,LEMAR,FALSE,AS Monaco,Ligue 1,FRA
+France,9,FW,GIROUD Olivier,GIROUD,TRUE,Chelsea FC,Premier League,ENG
+France,10,FW,MBAPPE Kylian,MBAPPÉ,TRUE,Paris Saint-Germain FC,Ligue 1,FRA
+France,11,FW,DEMBELE Ousmane,DEMBELÉ,TRUE,FC Barcelona,Primera Division,ESP
+France,13,MF,KANTE Ngolo,KANTÉ,TRUE,Chelsea FC,Premier League,ENG
+France,14,MF,MATUIDI Blaise,MATUIDI,TRUE,Juventus FC,Serie A,ITA
+France,15,MF,NZONZI Steven,N'ZONZI,TRUE,Sevilla FC,Primera Division,ESP
+France,16,GK,MANDANDA Steve,MANDANDA,FALSE,Olympique Marseille,Ligue 1,FRA
+France,17,DF,RAMI Adil,RAMI,FALSE,Olympique Marseille,Ligue 1,FRA
+France,18,FW,FEKIR Nabil,FEKIR,TRUE,Olympique Lyon,Ligue 1,FRA
+France,19,DF,SIDIBE Djibril,SIDIBÉ,FALSE,AS Monaco,Ligue 1,FRA
+France,20,FW,THAUVIN Florian,THAUVIN,FALSE,Olympique Marseille,Ligue 1,FRA
+France,21,DF,HERNANDEZ Lucas,LUCAS,TRUE,Atletico Madrid,Primera Division,ESP
+France,22,DF,MENDY Benjamin,MENDY,FALSE,Manchester City FC,Premier League,ENG
+France,23,GK,AREOLA Alphonse,AREOLA,FALSE,Paris Saint-Germain FC,Ligue 1,FRA
+France,12,MF,TOLISSO Corentin,TOLISSO,TRUE,FC Bayern Munchen,Bundesliga,GER
+France,2,DF,PAVARD Benjamin,PAVARD,TRUE,VfB Stuttgart,Bundesliga,GER
